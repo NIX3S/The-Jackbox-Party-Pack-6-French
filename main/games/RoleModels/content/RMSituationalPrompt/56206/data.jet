@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Bada bing ! ",
+      "t": "A",
+      "v": "803564_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tu es vraiment bizarre. ",
+      "t": "A",
+      "v": "803563_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Lequel de ces joueurs est le plus susceptible de se souvenir d’Alamo ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a « célébré » le jour où le cannabis récréatif a été légalisé au Colorado ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui porte le plus de dettes déchirantes ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Une montagne rocheuse en hauteur, ai-je raison ? ",
+      "t": "A",
+      "v": "803562_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle aurait été une meilleure fin pour <i>Les Sopranos</i> ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Il n'y a pas de problème avec vous. ",
+      "t": "A",
+      "v": "803561_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Complétez ce titre : « Un homme de Floride retrouvé… vide » ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Vertueux. ",
+      "t": "A",
+      "v": "803560_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Vous êtes l'Amérique centrale. Comme en plein milieu. ",
+      "t": "A",
+      "v": "803559_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "D'accord, si vous êtes tellement Nebraska... Nommez une chose amusante à faire dans un champ vide. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel État américain correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "803552_1",
+      "n": "Prompt"
+    }
+  ]
+}

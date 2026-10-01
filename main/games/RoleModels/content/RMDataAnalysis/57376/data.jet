@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quel serait le slogan de votre film d’action ? ",
+      "t": "A",
+      "v": "829309_1",
+      "n": "Prompt"
+    }
+  ]
+}

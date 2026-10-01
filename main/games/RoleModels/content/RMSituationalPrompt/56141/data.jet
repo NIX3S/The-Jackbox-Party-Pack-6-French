@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous êtes vraiment indéfinissable. ",
+      "t": "A",
+      "v": "802586_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je pensais que tu étais trop branché pour les labels. ",
+      "t": "A",
+      "v": "802585_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Vous mettez la main dans votre haut-de-forme, dites un mot magique, et qu'en retirez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui ferait le meilleur lanceur de baseball ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Si vous étiez un cow-boy, comment appelleriez-vous votre cheval ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de faire du sac à dos en Europe ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Salut mon ami. ",
+      "t": "A",
+      "v": "802584_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ah oui. ",
+      "t": "A",
+      "v": "802583_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Honnêtement... qui pourrait porter une tenue entièrement en velours ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Je suppose que vous avez toujours Grey Poupon. ",
+      "t": "A",
+      "v": "802582_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Prenez votre base, et ce rôle. ",
+      "t": "A",
+      "v": "802581_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Expliquez pourquoi le vinyle est meilleur que le numérique. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel chapeau es-tu ? ",
+      "t": "A",
+      "v": "802574_1",
+      "n": "Prompt"
+    }
+  ]
+}

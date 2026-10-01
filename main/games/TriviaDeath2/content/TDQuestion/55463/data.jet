@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Comment la robe en viande de Lady Gaga est-elle conservée au Rock & Roll Hall of Fame ? ",
+      "t": "A",
+      "v": "789970_2",
+      "n": "Q"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro"
+    },
+    {
+      "s": "[Elle est congelée.] [Elle est séchée.] [Elle est crue, mais remplie de produits chimiques.] [La robe a été jetée. Une photo est accrochée à la place.] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

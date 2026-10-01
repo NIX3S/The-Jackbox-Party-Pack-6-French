@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qu’est-ce qui vous maintient en équilibre ? ",
+      "t": "A",
+      "v": "773280_2",
+      "n": "Q"
+    },
+    {
+      "s": "Calm down! Find your center....",
+      "t": "A",
+      "v": "773287_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[le système nerveux de ma colonne vertébrale] [le système lymphatique de mon cerveau] [le système vestibulaire de mon oreille] [le système tégumentaire de ma peau] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

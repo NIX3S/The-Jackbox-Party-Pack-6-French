@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Techniquement parlant, qu'est-ce que je fais quand je décime mes victimes ? ",
+      "t": "A",
+      "v": "786504_1",
+      "n": "Q"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro"
+    },
+    {
+      "s": "[tuer jusqu'à 100 hommes] [tuer un homme sur 10] [tuer au moins 1 000 hommes] [tuer exactement 10 000 hommes] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

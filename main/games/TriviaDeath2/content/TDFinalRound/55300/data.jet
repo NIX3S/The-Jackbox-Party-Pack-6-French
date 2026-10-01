@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Monnaie officielle ",
+      "t": "A",
+      "v": "786771_1",
+      "n": "Q"
+    }
+  ]
+}

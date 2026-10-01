@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Avec qui Marilyn Monroe n’a-t-elle JAMAIS été mariée ? ",
+      "t": "A",
+      "v": "777599_4",
+      "n": "Q"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro"
+    },
+    {
+      "s": "[un dramaturge] [un joueur de baseball] [un élu] [un marin] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quel produit laitier est obtenu par coagulation du lait ? ",
+      "t": "A",
+      "v": "807261_1",
+      "n": "Q"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro"
+    },
+    {
+      "s": "[fromage] [yaourt] [beurre] [crème sure] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

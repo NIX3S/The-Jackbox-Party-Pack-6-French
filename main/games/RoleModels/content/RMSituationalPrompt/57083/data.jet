@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Onze oiseaux : ce serait trop ",
+      "t": "A",
+      "v": "820637_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel joueur se sentirait plus à l’aise de donner une souris vivante à un serpent ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "En deux mots, pourquoi les chats sont-ils meilleurs que les chiens ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Énumérez les noms de vos dix oiseaux. ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Montrez comment vous disciplineriez votre tigre après qu'il ait fait caca dans votre lit. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Illégal, mais ok. ",
+      "t": "A",
+      "v": "820636_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel joueur utiliserait son chien comme excuse pour quitter plus tôt les réunions sociales ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Qui a besoin d’amis quand on a 9 pieds de serpent ? ",
+      "t": "A",
+      "v": "820635_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la partie la plus difficile dans l’entretien d’une pierre pour animal de compagnie ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "L’amour inconditionnel est surfait. ",
+      "t": "A",
+      "v": "820634_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui ferait le meilleur magicien ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui ennuierait le plus son chat ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "En deux mots, pourquoi les chiens sont-ils meilleurs que les chats ?",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Qui est le plus susceptible d’avoir ces animaux de compagnie ?",
+      "t": "A",
+      "v": "820626_1",
+      "n": "Prompt"
+    }
+  ]
+}

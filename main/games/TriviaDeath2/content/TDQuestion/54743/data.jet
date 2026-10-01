@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quel personnage l'auteur Beatrix Potter a-t-elle créé ? ",
+      "t": "A",
+      "v": "777059_1",
+      "n": "Q"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro"
+    },
+    {
+      "s": "[Pippi Brindacier] [le Gruffalo] [Pierre Lapin] [Harry Potter] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

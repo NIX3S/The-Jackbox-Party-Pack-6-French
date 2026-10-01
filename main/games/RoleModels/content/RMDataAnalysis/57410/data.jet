@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Qu’aimeriez-vous honnêtement écrire sur votre Welcome Mat ? ",
+      "t": "A",
+      "v": "830294_1",
+      "n": "Prompt"
+    }
+  ]
+}

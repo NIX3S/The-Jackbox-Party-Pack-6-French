@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous aviez un budget illimité, qu’ajouteriez-vous à votre salon ? ",
+      "t": "A",
+      "v": "829764_1",
+      "n": "Prompt"
+    }
+  ]
+}

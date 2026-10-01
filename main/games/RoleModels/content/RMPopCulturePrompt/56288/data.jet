@@ -1,0 +1,167 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Désolé d'être trop dramatique ",
+      "t": "A",
+      "v": "805178_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tu es ma reine. ",
+      "t": "A",
+      "v": "805177_2",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel enfant se retournera probablement contre eux dans une bataille climatique ? ",
+      "t": "A",
+      "v": "811629_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Si vous voliez une machine à voyager dans le temps... comment l'utiliseriez-vous pour devenir riche ? ",
+      "t": "A",
+      "v": "805180_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui pourrait faire le plus de dégâts avec une armée de monstres à son écoute ? ",
+      "t": "A",
+      "v": "811631_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui porte actuellement la tenue la plus stylée ? ",
+      "t": "A",
+      "v": "811630_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tu es le genre de méchant chic ",
+      "t": "A",
+      "v": "805176_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Imaginez que vous ayez un Jedi dans un ascenseur... quel serait votre argument pour rejoindre le côté obscur ? ",
+      "t": "A",
+      "v": "818476_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Imaginez que vous ayez un Jedi dans un ascenseur... quel serait votre argument pour rejoindre le côté obscur ? ",
+      "t": "A",
+      "v": "805175_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Bien joué, McFly ! ",
+      "t": "A",
+      "v": "805174_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui est probablement le meilleur joueur d'échecs ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "C'est votre destin. ",
+      "t": "A",
+      "v": "805173_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Vous savez ce qui va se passer... Qui peut le mieux crier « Khan » ? ",
+      "t": "A",
+      "v": "805179_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel méchant classique du cinéma es-tu ",
+      "t": "A",
+      "v": "805166_1",
+      "n": "Prompt"
+    }
+  ]
+}

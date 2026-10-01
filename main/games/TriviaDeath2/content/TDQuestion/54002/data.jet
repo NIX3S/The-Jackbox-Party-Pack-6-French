@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Ma chauve-souris vient d'avoir des bébés ! Comment je les appelle ? ",
+      "t": "A",
+      "v": "769600_1",
+      "n": "Q"
+    },
+    {
+      "s": "In case you’re wondering why I’m slightly more upbeat than usual...",
+      "t": "A",
+      "v": "769607_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[veaux] [chiots] [petits] [chatons] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

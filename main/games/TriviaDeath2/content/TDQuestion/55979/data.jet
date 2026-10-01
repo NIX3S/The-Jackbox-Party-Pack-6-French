@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "\"Tu seras mort à 9h00 !\" Qu’est-ce que je voulais dire par là ? ",
+      "t": "A",
+      "v": "799352_1",
+      "n": "Q"
+    },
+    {
+      "s": "Oh, I found this old letter I forgot to send. I wonder what it says.",
+      "t": "A",
+      "v": "799359_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[9h00 Modulation d'amplitude] [9h00 Acta Mortalium] [9h00 Ante Meridiem] [9h00 Métrique alternative] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

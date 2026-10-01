@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Personne ne sait ce que ça veut dire, mais c'est toi ",
+      "t": "A",
+      "v": "819004_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Êtes-vous sûr que vous n'êtes pas un PG-13 qui se vante beaucoup ? ",
+      "t": "A",
+      "v": "819003_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui peut tomber mort le plus graphiquement ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel est l'endroit le plus intéressant où vous avez été nu ?... S'il vous plaît, utilisez votre propre définition d'intéressant. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la substance que vous consommez quotidiennement et que vous continueriez à utiliser même si elle devenait illégale ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Expliquez à quel point la nudité ancienne devient une nudité graphique. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "La vie est ma substance indescriptible de choix ",
+      "t": "A",
+      "v": "819002_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Sérieusement, que signifie « éléments thématiques » ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Puis-je recommander Trivia Murder Party ! ",
+      "t": "A",
+      "v": "819001_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle a été la première scène de sexe dans un film que vous ayez vu ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Moi aussi! ",
+      "t": "A",
+      "v": "819000_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Nous allons, je serai *bip* ",
+      "t": "A",
+      "v": "818999_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui ne pourrait pas prononcer un discours de rentrée au lycée sans jurer ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Pourquoi recevriez-vous une note R ? ",
+      "t": "A",
+      "v": "818992_1",
+      "n": "Prompt"
+    }
+  ]
+}

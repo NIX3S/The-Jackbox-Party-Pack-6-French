@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quelle expression est utilisée pour décrire une période de ralentissement caractérisée par une baisse des cours boursiers ? ",
+      "t": "A",
+      "v": "791138_2",
+      "n": "Q"
+    },
+    {
+      "s": "I wouldn’t be a very good psychopath if I didn’t ask you at least one question about the stock market.",
+      "t": "A",
+      "v": "791145_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[marché haussier] [marché du porc] [marché des loups] [marché baissier] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Tout comme ma mère. ",
+      "t": "A",
+      "v": "813653_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'est sûr qu'il fait chaud aujourd'hui. ",
+      "t": "A",
+      "v": "813652_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel est le nom ironique que vous avez donné à votre enfant ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la dernière chose que vous dites pour être exclu du jeu ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus susceptible de renvoyer un repas au restaurant s’il ne l’aime pas ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Pourquoi avez-vous inscrit votre enfant dans la petite ligue ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Au moins tu es venu. ",
+      "t": "A",
+      "v": "813651_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel joueur est le plus compétitif ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Gagner mdr ",
+      "t": "A",
+      "v": "813650_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui aurait pu jouer un parent qui travaillait trop dans un film pour enfants des années 90 ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Laissez Kelsey tranquille. ",
+      "t": "A",
+      "v": "813649_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui vous soutient vraiment dans ce jeu ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "(Calmement) Beau travail. ",
+      "t": "A",
+      "v": "813648_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel est l’événement le plus dévastateur de la vie d’un parent ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Votre enfant a réussi un coup de circuit ! Célébrez aussi tranquillement que possible. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment chacun de vous se comporterait-il lors du match de baseball de votre enfant ? ",
+      "t": "A",
+      "v": "813641_1",
+      "n": "Prompt"
+    }
+  ]
+}

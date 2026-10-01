@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Signes de ponctuation ",
+      "t": "A",
+      "v": "796078_1",
+      "n": "Q"
+    }
+  ]
+}

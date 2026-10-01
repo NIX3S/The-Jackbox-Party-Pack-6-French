@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Bonjour Suzanne. ",
+      "t": "A",
+      "v": "808089_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Quel enfant est responsable de cela ? ",
+      "t": "A",
+      "v": "808088_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Veuillez exécuter la danse emblématique de Babushka. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Rapide! Quelle saveur de bonbon dur avez-vous dans votre poche ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Gigi vous gâte avec des cadeaux élaborés. Quel cadeau élaboré avez-vous offert à vos petits-enfants ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de posséder jusqu’à 10 courtepointes différentes ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Je sens le ragoût. ",
+      "t": "A",
+      "v": "808087_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel avertissement inquiétant Babouchka utilise-t-elle toujours pour dire bonjour ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Fantaisie! ",
+      "t": "A",
+      "v": "808086_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui aime garder ses relations personnelles... professionnelles ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Dis bonjour à Peepaw de ma part. ",
+      "t": "A",
+      "v": "808085_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelle est votre histoire folklorique préférée du vieux pays que vous racontez pour terrifier vos petits-enfants ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "C'est bien. ",
+      "t": "A",
+      "v": "808084_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui a récemment eu une « escapade en vacances » ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Moo moo noodle a un nom idiot pour tout ! Comment appelle-t-on des cuillères ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel prénom de grand-mère correspond à chacun de vous ? ",
+      "t": "A",
+      "v": "808077_1",
+      "n": "Prompt"
+    }
+  ]
+}

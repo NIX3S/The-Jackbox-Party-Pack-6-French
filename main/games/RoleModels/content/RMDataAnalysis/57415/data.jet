@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes sur <i>Jeopardy !</i>. Quel fait intéressant sur vous partagez-vous avec Alex ? ",
+      "t": "A",
+      "v": "830424_1",
+      "n": "Prompt"
+    }
+  ]
+}

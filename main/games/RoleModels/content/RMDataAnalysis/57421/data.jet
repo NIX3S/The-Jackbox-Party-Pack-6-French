@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Complétez cette phrase : Dans un film de lycée, je déjeunais avec les enfants « _____ ». ",
+      "t": "A",
+      "v": "830580_1",
+      "n": "Prompt"
+    }
+  ]
+}

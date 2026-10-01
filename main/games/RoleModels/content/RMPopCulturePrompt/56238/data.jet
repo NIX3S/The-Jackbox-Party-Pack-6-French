@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "(Sifflant.) ",
+      "t": "A",
+      "v": "804120_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Une étoile filante incinérerait le moule. ",
+      "t": "A",
+      "v": "804119_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Outre l’argent liquide, qu’accepterez-vous comme moyen de paiement ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui est le plus susceptible de devenir une célébrité ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a eu son anniversaire le plus récent ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Vous venez de faire les deux ! ",
+      "t": "A",
+      "v": "804118_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "N'est-ce pas?! Surtout s'il y a du trafic. ",
+      "t": "A",
+      "v": "804117_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est l'outil le plus tranchant que vous puissiez trouver dans un hangar théorique ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Quel est l'outil le plus tranchant que vous puissiez trouver dans un hangar théorique ? ",
+      "t": "A",
+      "v": "804116_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui siffle probablement sous la douche ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "C'est toi qui l'as dit, pas moi. ",
+      "t": "A",
+      "v": "804115_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui n’aurait pas peur de marcher seul dans une ruelle sombre la nuit ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui peut le mieux siffler ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelles paroles de « All Star » conviennent le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "804108_1",
+      "n": "Prompt"
+    }
+  ]
+}

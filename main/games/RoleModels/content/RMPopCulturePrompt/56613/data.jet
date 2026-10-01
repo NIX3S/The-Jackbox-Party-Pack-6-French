@@ -1,0 +1,174 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Stable ! ",
+      "t": "A",
+      "v": "810318_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Bulle ",
+      "t": "A",
+      "v": "810317_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "OK, chandelier, dis-moi. Comment quelqu'un peut-il tuer quelqu'un avec vous ? ",
+      "t": "A",
+      "v": "810551_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Effectuez une routine Double Dutch avec des cordes à sauter invisibles. ",
+      "t": "A",
+      "v": "810550_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "De manière aussi détaillée que possible, expliquez quel type de couteau vous êtes. ",
+      "t": "A",
+      "v": "810553_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel joueur est le plus maniable ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "810315_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Tu es un revolver. Alors pourquoi ne pas tourner aussi vite que possible pendant dix secondes. ",
+      "t": "A",
+      "v": "810554_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Le lasso de la mort ! ",
+      "t": "A",
+      "v": "810314_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelle phrase cool crieriez-vous en attrapant des bandits au lasso dans le Far West ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle question poseriez-vous à un employé de Home Depot lorsque vous magasinez pour votre arme du crime ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Réponse en tant que tuyau de plomb : à quoi serviez-vous avant de vous transformer en arme du crime ? ",
+      "t": "A",
+      "v": "810549_2",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle arme du crime du jeu de société <i>Clue</i> êtes-vous ? ",
+      "t": "A",
+      "v": "810306_1",
+      "n": "Prompt"
+    }
+  ]
+}

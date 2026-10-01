@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un pays d'Amérique du Sud ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un pays d'Amérique du Sud ",
+      "t": "A",
+      "v": "799091_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

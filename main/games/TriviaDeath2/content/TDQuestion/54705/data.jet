@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Dans le film <i>Être John Malkovich</i>, quelle histoire d'amour classique est dépeinte dans le spectacle de marionnettes de Craig dans la rue ? ",
+      "t": "A",
+      "v": "776679_4",
+      "n": "Q"
+    },
+    {
+      "s": "Here’s a classic trivia question.",
+      "t": "A",
+      "v": "776686_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[Troilus & Cressida] [Pyrame & Thisbé] [Roméo & Juliette] [Abélard & Héloïse] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

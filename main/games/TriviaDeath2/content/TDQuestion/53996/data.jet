@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Laquelle de ces lois n’est PAS une loi de la thermodynamique ? ",
+      "t": "A",
+      "v": "769540_1",
+      "n": "Q"
+    },
+    {
+      "s": "Some laws are more difficult to break than others.",
+      "t": "A",
+      "v": "769547_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[l'énergie ne peut pas être créée ou détruite] [la température diminue à mesure que la matière diminue] [l'entropie augmente toujours] [l'entropie devient constante lorsque la température atteint zéro] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "A une étoile sur le Hollywood Walk of Fame ",
+      "t": "A",
+      "v": "790014_1",
+      "n": "Q"
+    }
+  ]
+}

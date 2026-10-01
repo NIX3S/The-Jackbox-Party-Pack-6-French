@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ok, les pantalons fantaisie. ",
+      "t": "A",
+      "v": "813101_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Feng shui du corps. ",
+      "t": "A",
+      "v": "813100_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Réponse sous forme de feuille de vigne : sur quel personnage historique seriez-vous le plus honoré d'être placé ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel joueur seriez-vous le moins surpris de voir une séquence lors d’un match de baseball ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la pire chose à dessiner sur un justaucorps couleur nude ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Exécutez une courte danse interprétative qui représente la « modestie ». ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Quelqu'un est habillé pour bouger. ",
+      "t": "A",
+      "v": "813099_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Si vous pouviez choisir n’importe quel endroit dans le monde, où iriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est le joueur le mieux habillé ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "J'ai l'impression d'avoir vu quelque chose. ",
+      "t": "A",
+      "v": "813097_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Si jamais vous aviez été nu dans un épisode de flics, qu'auriez-vous été surpris en train de faire ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Rien à voir ici. ",
+      "t": "A",
+      "v": "813096_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle méthode utilisez-vous pour cacher vos organes génitaux ? ",
+      "t": "A",
+      "v": "813089_2",
+      "n": "Prompt"
+    }
+  ]
+}

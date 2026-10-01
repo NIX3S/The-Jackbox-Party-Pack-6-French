@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Lequel de mes satanés couteaux de cuisine est recourbé vers le haut ? ",
+      "t": "A",
+      "v": "769490_1",
+      "n": "Q"
+    },
+    {
+      "s": "I love to cook...",
+      "t": "A",
+      "v": "769497_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[le couteau à désosser] [le couteau cimeterre] [le couteau d'office à bec d'oiseau] [le couperet] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

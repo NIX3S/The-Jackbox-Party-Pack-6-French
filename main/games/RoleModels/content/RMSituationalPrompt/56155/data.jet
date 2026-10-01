@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Qui fait le plus de siestes ? ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Écoutez, quelqu'un doit le faire. ",
+      "t": "A",
+      "v": "802818_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Volez, soyez libre ! ",
+      "t": "A",
+      "v": "802817_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Vous êtes un chien qui peut parler. Quelle est votre liste de revendications ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Faites votre impression d'un chat regardant un poisson rouge. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a accumulé des miles de déclarants plus fréquents ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Si vous pouviez piéger une chose dans votre toile d’araignée, laquelle serait-ce ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Je suppose que je te reverrai bientôt dans ma baignoire. ",
+      "t": "A",
+      "v": "802816_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel humain étiez-vous dans une vie antérieure ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Aww, qui est un bon chien ! ",
+      "t": "A",
+      "v": "802815_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est totalement à l’aise pour parler des fonctions corporelles globales ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Miaou! ",
+      "t": "A",
+      "v": "802814_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Si au début vous ne réussissez pas... ",
+      "t": "A",
+      "v": "802813_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Si un voisin se présentait soudainement pour lui dire bonjour, qui trouverait rapidement un endroit où se cacher ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment chacun de vous se réincarnera-t-il probablement après la mort ? ",
+      "t": "A",
+      "v": "802806_1",
+      "n": "Prompt"
+    }
+  ]
+}

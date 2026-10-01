@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous avez l'air... gentil. ",
+      "t": "A",
+      "v": "807802_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Avez-vous vraiment besoin de vos lunettes de soleil à l’intérieur ? ",
+      "t": "A",
+      "v": "807801_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous pouviez choisir un animal supplémentaire à porter, lequel serait-il ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la chose la plus chic pour laquelle vous avez dépensé de l’argent cette semaine ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "À qui ne feriez-vous jamais confiance en tant que partenaire de votre équipe ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de simuler sa mort ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous avez besoin de quelqu’un pour faire bouger les choses, puis vous enfuir.",
+      "t": "A",
+      "v": "807800_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Faites ou dites quelque chose qui vous vaut les applaudissements du groupe. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Le VIP-RIP. ",
+      "t": "A",
+      "v": "807799_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus susceptible de surfer sur le toit d'une voiture... à la manière de Teen Wolf ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Nous vous saluons. ",
+      "t": "A",
+      "v": "807798_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Cha-ching. ",
+      "t": "A",
+      "v": "807797_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Faites taire la foule avec condescendance. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle musique héroïque jouerait lorsque vous entreriez sur le ring ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Si vous étiez un lutteur professionnel, lequel de ces éléments serait votre gadget ? ",
+      "t": "A",
+      "v": "807790_1",
+      "n": "Prompt"
+    }
+  ]
+}

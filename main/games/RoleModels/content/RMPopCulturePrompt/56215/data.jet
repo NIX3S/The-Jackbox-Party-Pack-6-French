@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Vous ouvrez un sac en papier marron, qu'espérez-vous voir ? ",
+      "t": "A",
+      "v": "810808_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Faites votre meilleure danse de poulet ",
+      "t": "A",
+      "v": "810807_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel serait le nom de votre groupe folk familial ? ",
+      "t": "A",
+      "v": "810810_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de perdre une main dans un accident hilarant ? ",
+      "t": "A",
+      "v": "810809_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "STEVE HOLT. ",
+      "t": "A",
+      "v": "816708_0",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Arrachez une fausse moustache et dites de façon dramatique « Gene Parmesan ! » ",
+      "t": "A",
+      "v": "810811_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Arrachez une fausse moustache et dites de façon dramatique « Gene Parmesan ! » ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Combien coûte une banane ? ",
+      "t": "A",
+      "v": "810806_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel personnage de <i>Arrested Development</i> convient le mieux à chacun d'entre vous ? ",
+      "t": "A",
+      "v": "803708_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous venez de tuer accidentellement le chien de John Wick. Quelle est votre prochaine étape ? ",
+      "t": "A",
+      "v": "830398_1",
+      "n": "Prompt"
+    }
+  ]
+}

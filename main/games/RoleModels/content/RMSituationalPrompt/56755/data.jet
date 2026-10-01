@@ -1,0 +1,152 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Nous devons vous dénoncer au FBI pour cela ",
+      "t": "A",
+      "v": "813755_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Cela entraîne également un risque supplémentaire de maladie cardiaque ",
+      "t": "A",
+      "v": "813754_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel est le meilleur pire film ? ",
+      "t": "A",
+      "v": "813758_2",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "À qui préféreriez-vous vous apaiser après vous être cogné l’orteil ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel bon slogan pour un nouveau bonbon à base de sirop de betterave ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous vous sacrifiez pour que les animaux que nous mangeons puissent manger. ",
+      "t": "A",
+      "v": "813753_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel est le bon nom pour un restaurant qui ne sert que du maïs à la crème à température ambiante ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Comme c'est doux d'être coincé par toi ",
+      "t": "A",
+      "v": "813752_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est le nom de votre porc primé ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Très cool ",
+      "t": "A",
+      "v": "813751_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Notre épi est un épi génial ",
+      "t": "A",
+      "v": "813750_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Que crieriez-vous juste avant de déclencher des feux d'artifice lors d'un pique-nique du 4 juillet ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "De quel maïs es-tu ? ",
+      "t": "A",
+      "v": "813743_1",
+      "n": "Prompt"
+    }
+  ]
+}

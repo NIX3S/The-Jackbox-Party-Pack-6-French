@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Il y a un casting ouvert pour une comédie d’horreur et de sexe en tournage dans votre région. Pour quel rôle auditionnez-vous ? ",
+      "t": "A",
+      "v": "835585_1",
+      "n": "Prompt"
+    }
+  ]
+}

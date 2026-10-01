@@ -1,0 +1,166 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Quel moment pour eux de le découvrir, hein ? ",
+      "t": "A",
+      "v": "804428_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je suis censé rester neutre, mais tu es un être humain dégoûtant. ",
+      "t": "A",
+      "v": "804427_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "S'il vous plaît, parlez dans votre langue étrangère natale ",
+      "t": "A",
+      "v": "807274_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quels sont les noms de vos enfants secrets ? ",
+      "t": "A",
+      "v": "807273_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a probablement le plus d’argent sur lui en ce moment ? ",
+      "t": "A",
+      "v": "807276_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vos yeux étaient un cadeau. ",
+      "t": "A",
+      "v": "804426_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Je sais que tu as beaucoup de bouches à nourrir. Avez-vous essayé les pastilles scientifiques ? ",
+      "t": "A",
+      "v": "804425_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la chose la plus dégoûtante que vous ayez jamais mangée ? ",
+      "t": "A",
+      "v": "807277_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Je blâme les comptables. ",
+      "t": "A",
+      "v": "804424_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Que préféreriez-vous faire au lieu de jouer à un jeu de société avec des gens que vous détestez clairement ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "S’il n’y en a qu’un, ce n’est pas grave. ",
+      "t": "A",
+      "v": "804423_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel est votre mot ou phrase de code secret pour faire savoir aux autres extraterrestres que vous êtes également un extraterrestre ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Où cacherais-tu un corps ? ",
+      "t": "A",
+      "v": "807272_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quels sont vos secrets les plus sombres et les plus profonds les plus probables ? ",
+      "t": "A",
+      "v": "804416_1",
+      "n": "Prompt"
+    }
+  ]
+}

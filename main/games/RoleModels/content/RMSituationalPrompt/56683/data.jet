@@ -1,0 +1,167 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous êtes profondément... frit. ",
+      "t": "A",
+      "v": "812108_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Est-ce que ceux-ci existent vraiment ? ",
+      "t": "A",
+      "v": "812107_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a le meilleur bras de lanceur ? ",
+      "t": "A",
+      "v": "812111_2",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Tournez en rond aussi longtemps que vous le pouvez sans avoir le vertige. ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui passe le plus de temps devant le miroir chaque matin ? ",
+      "t": "A",
+      "v": "812112_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Trippant ",
+      "t": "A",
+      "v": "812106_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est la première chose que vous feriez frire ? ",
+      "t": "A",
+      "v": "822634_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ces choses sont toujours truquées ",
+      "t": "A",
+      "v": "812105_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Avec qui aimerais-tu être bloqué dans un canot de sauvetage ? ",
+      "t": "A",
+      "v": "822633_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Passionnant! et dangereux ! ",
+      "t": "A",
+      "v": "812104_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Tu es plutôt amusant ",
+      "t": "A",
+      "v": "812103_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est un homme ou une femme joyeux ? ",
+      "t": "A",
+      "v": "822635_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Comment appelleriez-vous vos montagnes russes un peu dangereuses ? ",
+      "t": "A",
+      "v": "812109_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle attraction du carnaval êtes-vous ? ",
+      "t": "A",
+      "v": "812096_2",
+      "n": "Prompt"
+    }
+  ]
+}

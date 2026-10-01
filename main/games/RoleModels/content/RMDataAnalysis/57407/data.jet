@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "S’il existait un jeu télévisé basé sur un défi physique, vous pourriez toujours dominer. Qu'est-ce que ce serait ? ",
+      "t": "A",
+      "v": "830128_1",
+      "n": "Prompt"
+    }
+  ]
+}

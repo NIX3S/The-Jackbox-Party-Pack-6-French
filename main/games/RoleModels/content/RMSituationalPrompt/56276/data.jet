@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt12"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Ce rôle, c'est 4 vous ! ",
+      "t": "A",
+      "v": "804890_2",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je fais équipe avec toi ! ",
+      "t": "A",
+      "v": "804889_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui serait le plus beau en jouant du saxophone sur la plage ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui peut faire la meilleure pose maussade ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Chantez une comptine effrayante ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Points supplémentaires si vous vous appelez Cory ",
+      "t": "A",
+      "v": "804888_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Désolé, vous ne pouvez pas entrer dans des clubs de vampires sympas. ",
+      "t": "A",
+      "v": "804887_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Oubliez l'ail, quelle serait votre faiblesse unique en matière de vampire ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Difficile d'avoir l'air menaçant dans une chemise bouffante ",
+      "t": "A",
+      "v": "804886_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Merveilleux! Blah ! ",
+      "t": "A",
+      "v": "804885_2",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Selon vous, qui parle le plus français ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Comptez les personnes présentes dans cette pièce avec votre meilleure voix de vampire. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel genre de vampire es-tu ? ",
+      "t": "A",
+      "v": "804878_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Qui aimerait le plus posséder une version marionnette d’eux-mêmes ? ",
+      "t": "A",
+      "n": "RevealPrompt12"
+    },
+    {
+      "s": "Qui sera le plus beau à 200 ans ? ",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

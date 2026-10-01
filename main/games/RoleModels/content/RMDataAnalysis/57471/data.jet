@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quel est le meilleur jouet à offrir avec un repas de restauration rapide pour enfant ? ",
+      "t": "A",
+      "v": "831430_1",
+      "n": "Prompt"
+    }
+  ]
+}

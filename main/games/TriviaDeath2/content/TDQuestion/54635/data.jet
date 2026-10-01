@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Selon Maslow, quel est le besoin le plus important... celui qui se trouve au sommet de la pyramide ? ",
+      "t": "A",
+      "v": "775979_1",
+      "n": "Q"
+    },
+    {
+      "s": "Do you NEED to be set free, or do you just WANT to be set free.",
+      "t": "A",
+      "v": "775986_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[réalisation de soi] [sentiment d'accomplissement] [relations amoureuses] [nourriture] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

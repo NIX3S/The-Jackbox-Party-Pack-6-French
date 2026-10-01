@@ -1,0 +1,145 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle serait votre idée pour une application à un million de dollars ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui sait probablement ce que sont les pinces-étaux ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est le nom de ton gang de motards ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de porter un manteau multicolore ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qu'est-ce qui vous fait sortir du lit le matin ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est le plus susceptible de s’habiller comme son super-héros préféré ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle convention spécialisée définit le mieux chacun ? ",
+      "t": "A",
+      "v": "810462_1",
+      "n": "Prompt"
+    }
+  ]
+}

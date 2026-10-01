@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Avant d'entrer dans un dîner, vous découvrez que vous êtes totalement sous-habillé. Que fais-tu? ",
+      "t": "A",
+      "v": "833816_1",
+      "n": "Prompt"
+    }
+  ]
+}

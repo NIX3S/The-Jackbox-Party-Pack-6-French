@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Films d'animation Disney ",
+      "t": "A",
+      "v": "798432_1",
+      "n": "Q"
+    }
+  ]
+}

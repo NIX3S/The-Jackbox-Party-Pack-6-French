@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Écoutons votre point de vue ",
+      "t": "A",
+      "v": "812224_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'est choquant ",
+      "t": "A",
+      "v": "812223_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui gagnerait un sprint de 100 m ? ",
+      "t": "A",
+      "v": "812227_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui parle le plus espagnol ? ",
+      "t": "A",
+      "v": "812226_2",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus susceptible d’élever des enfants qui luttent contre la criminalité ? ",
+      "t": "A",
+      "v": "812229_2",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui serait le moins dégoûté de manger de la cervelle ? ",
+      "t": "A",
+      "v": "812228_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Non...uZombie ",
+      "t": "A",
+      "v": "812222_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Révélez un secret choquant avec votre meilleure voix de feuilleton ! ",
+      "t": "A",
+      "v": "822954_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Révélez un secret choquant avec votre meilleure voix de feuilleton ! ",
+      "t": "A",
+      "v": "812221_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "S’ils faisaient une comédie musicale à Broadway sur votre vie, comment s’appellerait-elle ? ",
+      "t": "A",
+      "v": "812230_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Coup de théâtre ! ",
+      "t": "A",
+      "v": "812220_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Mais êtes-vous plutôt Sam ou Dean... ? ",
+      "t": "A",
+      "v": "812219_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle serait la meilleure utilisation de la super vitesse ? ",
+      "t": "A",
+      "v": "822955_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui a probablement l’histoire de fantômes la plus effrayante ? ",
+      "t": "A",
+      "v": "812225_2",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel drame de la CW êtes-vous ? ",
+      "t": "A",
+      "v": "812212_1",
+      "n": "Prompt"
+    }
+  ]
+}

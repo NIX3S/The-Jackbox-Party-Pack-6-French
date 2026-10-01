@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'un des pouvoirs des Planeteers de Captain Planet<br>indice : ce sont (pour la plupart) des éléments classiques de la nature ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l’un des pouvoirs des Planeteers de Captain Planet ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

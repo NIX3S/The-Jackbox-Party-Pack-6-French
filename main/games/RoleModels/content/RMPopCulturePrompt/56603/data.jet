@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Vous avez obtenu l’idole de l’immunité. ",
+      "t": "A",
+      "v": "810041_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Le chaînon manquant ",
+      "t": "A",
+      "v": "810040_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Faites de votre mieux pour interpréter a capella la chanson thème de <i>Jeopardy !</i>. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Si vous étiez sur votre lit de mort, que voudriez-vous avouer à Vanna White ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "OK, donc vous êtes Steve Harvey. Décrivez votre costume préféré à porter lors de l'hébergement de Family Feud. ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Improvisez votre propre rap freestyle en expliquant pourquoi vous êtes vraiment Wayne Brady. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Improvisez votre propre rap freestyle en expliquant pourquoi vous êtes vraiment Wayne Brady. ",
+      "t": "A",
+      "v": "810039_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "De toute façon, à qui revient ce rôle ? ",
+      "t": "A",
+      "v": "810038_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Faites votre meilleure impression exagérée de Steve Harvey choqué par la réponse d'un concurrent de Family Feud. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Quelle chance. ",
+      "t": "A",
+      "v": "810037_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui serait le plus susceptible de survivre en vivant sur une île déserte pendant un an ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Qui est un homme qui avait une moustache incroyable ? ",
+      "t": "A",
+      "v": "810036_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Lequel de ces acteurs ne se permettrait jamais d’être le maillon faible ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Composez un mot avec le plus de voyelles possible. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel animateur de jeu télévisé êtes-vous ? ",
+      "t": "A",
+      "v": "810029_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Quelle est la pire affaire que vous ayez jamais conclue ? ",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

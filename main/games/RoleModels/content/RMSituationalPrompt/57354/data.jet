@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Gary, je t'appellerai. ",
+      "t": "A",
+      "v": "828608_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous avez 1% des problèmes du monde ! ",
+      "t": "A",
+      "v": "828607_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "À part sauter des pierres, quelle est la chose la plus pathétique qu’une seule personne puisse faire au bord du lac ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Vous venez d'être rejeté par votre béguin pour le lycée. Que cries-tu avec colère contre la lune impitoyable ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Complétez cette phrase en tant que riche mondain : « Je jure que si je dois manger un _____ ennuyeux de plus, je m'évanouirai. » ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Your pet turtle just died.  What’s the best food for blocking out the pain?",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Je mange généralement le dessert en premier, moi-même. ",
+      "t": "A",
+      "v": "828606_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Montrez-nous votre visage lorsque 30 oiseaux de dessins animés arrivent pour vous remonter le moral. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "La nature est votre seule amie ",
+      "t": "A",
+      "v": "828605_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Lorsque vos futurs enfants vous demanderont comment vous et votre conjoint Chauffeur Lyft vous êtes rencontrés pour la première fois, que leur direz-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Les rats ne disent même pas bonjour ",
+      "t": "A",
+      "v": "828604_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Un jour, votre rôle viendra... c'est aujourd'hui ! ",
+      "t": "A",
+      "v": "828603_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Saisissez doucement votre cou et, paniqué, déclarez « Mes diamants ! » ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle chanson Disney résume le mieux votre désir de connexion humaine ?",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel genre de solitaire es-tu ?",
+      "t": "A",
+      "v": "828596_1",
+      "n": "Prompt"
+    }
+  ]
+}

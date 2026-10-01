@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Donnez à la pièce votre plus beau look de dégoût silencieux. ",
+      "t": "A",
+      "v": "806943_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel est le nom de votre roman inachevé ? ",
+      "t": "A",
+      "v": "806942_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Trouvez un nom pour la chanson de Steely Dan qui n’existe pas. ",
+      "t": "A",
+      "v": "806945_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a encore du pain sur la planche ? La personne la plus petite gagne. ",
+      "t": "A",
+      "v": "806944_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "\"Je dois retourner sur ma planète natale.\" ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus susceptible de renoncer à ses projets ? ",
+      "t": "A",
+      "v": "806946_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle excuse trouveriez-vous pour mettre fin à une conversation avec l’horrible ami de votre rendez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Si c’est « vous » et « pas eux », qu’est-ce qui ne va pas exactement chez vous ? ",
+      "t": "A",
+      "v": "806258_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle terrible excuse de rupture es-tu ? ",
+      "t": "A",
+      "v": "804638_1",
+      "n": "Prompt"
+    }
+  ]
+}

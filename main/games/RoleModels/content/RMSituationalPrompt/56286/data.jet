@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous n'y allez même pas. ",
+      "t": "A",
+      "v": "805132_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Avez-vous une minute à perdre ? ",
+      "t": "A",
+      "v": "805131_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui apporterait un livre au cinéma ? ",
+      "t": "A",
+      "v": "821788_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Dansez tout en racontant à la pièce vos animaux de compagnie d’enfance. ",
+      "t": "A",
+      "v": "821787_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qu’est-ce qui vous passionne actuellement énormément ? ",
+      "t": "A",
+      "v": "821790_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a pleuré lors de sa propre fête d'anniversaire ? ",
+      "t": "A",
+      "v": "821789_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Pourquoiyyyyy ??? ",
+      "t": "A",
+      "v": "805130_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui ferait le meilleur travail pour appliquer du mascara en conduisant ? ",
+      "t": "A",
+      "v": "821792_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Je veux dire, ça ne va pas se terminer tout seul. ",
+      "t": "A",
+      "v": "805129_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui se présenterait intentionnellement à une fête à laquelle il aurait été accidentellement invité ? ",
+      "t": "A",
+      "v": "821791_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "PAR-TAY ! ",
+      "t": "A",
+      "v": "805128_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Et d'une manière ou d'une autre, du chewing-gum aussi. ",
+      "t": "A",
+      "v": "805127_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Établissez un contact visuel intense avec quelqu'un dans la pièce et demandez-lui s'il se soucie de l'environnement. ",
+      "t": "A",
+      "v": "821793_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "La musique s’arrête : quelle est la meilleure chose à crier ? ",
+      "t": "A",
+      "v": "805133_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle personne lors d’une soirée universitaire seriez chacun d’entre vous ? ",
+      "t": "A",
+      "v": "805120_1",
+      "n": "Prompt"
+    }
+  ]
+}

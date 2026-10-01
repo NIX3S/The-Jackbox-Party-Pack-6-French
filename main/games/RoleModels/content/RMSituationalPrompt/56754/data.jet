@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ugh... la troisième fois ce mois-ci. ",
+      "t": "A",
+      "v": "813713_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Malheureusement, je ne peux tout simplement pas comprendre ",
+      "t": "A",
+      "v": "813712_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Imaginez que vous êtes coincé dans une stalle... Qui peut donner le « Petite aide ! » le plus pathétique ? ",
+      "t": "A",
+      "v": "813716_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui ferait le pire jongleur ? ",
+      "t": "A",
+      "v": "813715_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la meilleure chose à dire aux personnes endeuillées après avoir réalisé que vous ne connaissez pas la personne décédée ? ",
+      "t": "A",
+      "v": "822684_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est le pire sujet à aborder avec les parents de votre partenaire ? ",
+      "t": "A",
+      "v": "822683_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Wow, euh, c'est difficile de savoir quoi dire. ",
+      "t": "A",
+      "v": "813711_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel repas, s'il était mélangé, ferait la meilleure boisson ? Ou, vous savez, la boisson la moins mauvaise ? ",
+      "t": "A",
+      "v": "822686_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Pouvez-vous épargner un carré?",
+      "t": "A",
+      "v": "813710_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Si vous pouviez vous donner un nouveau nom sympa, lequel serait-il ? ",
+      "t": "A",
+      "v": "822685_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Le prochain verre est à vous. ",
+      "t": "A",
+      "v": "813709_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Bravo... vous. ",
+      "t": "A",
+      "v": "813708_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Faites de votre mieux pour faire semblant de rire. ",
+      "t": "A",
+      "v": "822687_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Vous avez oublié le nom de quelqu'un lors d'une fête... comment l'appelez-vous ? ",
+      "t": "A",
+      "v": "813714_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Dans quelle situation totalement embarrassante êtes-vous ? ",
+      "t": "A",
+      "v": "813701_1",
+      "n": "Prompt"
+    }
+  ]
+}

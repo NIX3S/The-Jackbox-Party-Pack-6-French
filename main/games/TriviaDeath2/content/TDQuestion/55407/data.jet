@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qu’est-ce que le Babadook a que je n’ai pas ? ",
+      "t": "A",
+      "v": "789154_2",
+      "n": "Q"
+    },
+    {
+      "s": "I don’t get it...",
+      "t": "A",
+      "v": "789161_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[une robe longue jusqu'au sol] [un chapeau de poêle] [une pipe en épi de maïs] [des verres de bouteille de coca] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

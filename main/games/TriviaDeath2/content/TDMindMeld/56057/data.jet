@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une des planètes de notre système solaire ",
+      "n": "PromptText"
+    },
+    {
+      "s": "une des planètes de notre système solaire ",
+      "t": "A",
+      "v": "800883_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

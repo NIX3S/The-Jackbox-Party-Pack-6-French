@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Lequel de ces suçons est destiné à regarder dans les oreilles ? ",
+      "t": "A",
+      "v": "778369_2",
+      "n": "Q"
+    },
+    {
+      "s": "Oh man, did I show you my collection of medical devices?  I know the Hippocratic Oath is “do no harm,” but I use these babies for the harmiest harm.",
+      "t": "A",
+      "v": "778376_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[otoscope] [gyroscope] [baroscope] [stéthoscope] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

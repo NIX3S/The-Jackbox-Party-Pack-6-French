@@ -1,0 +1,166 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Surfez! ",
+      "t": "A",
+      "v": "803920_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tu es VRAIMENT bien dans un sweat à capuche. ",
+      "t": "A",
+      "v": "803919_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Dans un projet de groupe, qui finirait par faire la majeure partie du travail ? ",
+      "t": "A",
+      "v": "810579_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est votre plan pour conquérir le monde ? ",
+      "t": "A",
+      "v": "810582_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Au lieu de « C’est l’heure de Clobberin ! », que crieriez-vous avant un combat ? ",
+      "t": "A",
+      "v": "810581_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Solide comme le roc ! ",
+      "t": "A",
+      "v": "803918_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Je sais qu'il s'appelle H.E.R.B.I.E., nerds. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous êtes en feu ! ",
+      "t": "A",
+      "v": "803917_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus glamour ? ",
+      "t": "A",
+      "v": "810583_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Qui est le plus glamour ? ",
+      "t": "A",
+      "v": "803916_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui est le plus susceptible de déclencher accidentellement un incendie ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Je pense que c'est exagéré, mais d'accord. ",
+      "t": "A",
+      "v": "803915_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel est votre QI ? Si vous n’êtes pas sûr, donnez-nous une estimation. Le groupe décidera si vous mentez. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Démontrez à quel point vous êtes flexible ",
+      "t": "A",
+      "v": "810577_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel personnage des Quatre Fantastiques correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "803908_1",
+      "n": "Prompt"
+    }
+  ]
+}

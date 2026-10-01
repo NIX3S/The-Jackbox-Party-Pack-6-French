@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Rangée inférieure d'un clavier QWERTY ",
+      "t": "A",
+      "v": "785169_1",
+      "n": "Q"
+    }
+  ]
+}

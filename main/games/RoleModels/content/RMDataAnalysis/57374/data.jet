@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes sur le point de vous retrouver bloqué sur une île déserte. Vous pouvez apporter un objet. Que choisis-tu ? ",
+      "t": "A",
+      "v": "829257_1",
+      "n": "Prompt"
+    }
+  ]
+}

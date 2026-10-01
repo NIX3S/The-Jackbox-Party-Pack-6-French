@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quel film parle d'une fête où quelqu'un est assassiné ? ",
+      "t": "A",
+      "v": "805936_1",
+      "n": "Q"
+    },
+    {
+      "s": "Okay.  I’m going a little off-brand with this one...",
+      "t": "A",
+      "v": "805943_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[<i>Mon dîner avec André</i>] [<i>Quatre mariages et un enterrement</i>] [<i>Gosford Park</i>] [<i>Devinez qui vient dîner ?</i>] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

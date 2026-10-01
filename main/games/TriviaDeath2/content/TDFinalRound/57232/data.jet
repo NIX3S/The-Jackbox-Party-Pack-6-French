@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Des mots qui ne sont PAS « ours » ",
+      "t": "A",
+      "v": "825142_1",
+      "n": "Q"
+    }
+  ]
+}

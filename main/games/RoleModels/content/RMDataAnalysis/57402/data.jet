@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Votre bureau veut faire une farce à votre patron. Quelle idée apportez-vous à la réunion de brainstorming ? ",
+      "t": "A",
+      "v": "829998_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Nous venons de trouver Internet.",
+        "INTERNET_DISCONNECTED": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "ROOM_DESTROYED": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "SOCKET_DISCONNECTED ": "Nous sommes désolés, nous avons perdu votre connexion aux serveurs de Jackbox Games.",
+        "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté. Veuillez réessayer.",
+        "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+        "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
+        "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch Prime.",
+        "LOST_DLC": "Nous sommes désolés, la licence de votre DLC est introuvable. Je vous ramène au menu...",
+        "BACK": "Retour",
+        "CLOSE": "Fermer",
+        "CANCEL": "Annuler",
+        "SELECT": "Sélectionner",
+        "OR": "Ou",
+        "ON": "On",
+        "OFF": "Off",
+        "HIDE": "Cacher",
+        "UNHIDE": "afficher",
+        "JOIN": "Rejoindre!",
+        "PLAY": "JOUER",
+        "SETTINGS": "Paramètres",
+        "BACK_TO_PACK": "Retour",
+        "PLAY_DESCRIPTION": "Créez une salle de jeux et jouez",
+        "TMI_DESCRIPTION": "Jouez à un tout nouveau mode dédié aux joueurs",
+        "SETTINGS_DESCRIPTION": "Censure, audience, etc.",
+        "LEADERBOARD_DESCRIPTION": "",
+        "BACK_TO_PACK_DESCRIPTION": "Revenez au Party Pack",
+        "SETTINGS_TITLE": "PARAMÈTRES",
+        "LEADERBOARD_TITLE": "CLASSEMENT",
+        "CONNECTING": "Connexion aux services de jeux Jackbox",
+        "CONNECTING_DELAY": "This is taking a while...<br />Please check your internet connection.",
+        "GO_TO": "Aller à",
+        "ROOM_CODE":"Code de la chambre",
+        "JOIN_ON_YOUR_DEVICE": "sur votre appareil mobile pour participer",
+        "JOIN_THE_AUDIENCE": "Rejoignez le public",
+        "ENTER_ROOM_CODE": "ENTRER LE CODE DE LA CHAMBRE",
+        "POST_GAME_CHOICE_TITLE": "Que veux-tu faire maintenant ?",
+        "EVERYBODY_S_IN": "Appuyez sur TOUT LE MONDE EST PARTI pour commencer !",
+        "PRESS": "Presse",
+        "TO_START": "pour commencer",
+        "TO_CANCEL": "annuler",
+        "TO_START_GAME": "pour commencer le jeu",
+        "TO_CANCEL_GAME": "annuler le jeu",
+        "JOIN_AUDIENCE": "Rejoignez le public !",
+        "PLAY_AGAIN_WITH": "JOUER À NOUVEAU AVEC",
+        "SAME_PLAYERS": "MÊMES JOUEURS",
+        "LOBBY_OR": "OU",
+        "NEW_PLAYERS": "NOUVEAUX JOUEURS",
+
+        "VOLUME": "Volume principal",
+        "VOLUME_DESCRIPTION": "Ajustez le volume global.",
+        "VOLUME_HOST": "Volume de l'hôte",
+        "VOLUME_HOST_DESCRIPTION": "Réglez le volume du ou des hôtes.",
+        "VOLUME_SFX": "Volume des effets sonores",
+        "VOLUME_SFX_DESCRIPTION": "Réglez le volume des effets sonores.",
+        "VOLUME_MUSIC": "Volume de la musique musique",
+        "VOLUME_MUSIC_DESCRIPTION": "Réglez le volume de la musique.",
+        
+        "FULL_SCREEN": "Mode plein écran",
+        "FULL_SCREEN_DESCRIPTION": "Mettez le jeu en plein écran.",
+
+        "AUDIENCE": "Public",
+        "AUDIENCE_MODE": "Public",
+        "AUDIENCE_MODE_DESCRIPTION": "Activez-le pour permettre à des non-joueurs de rejoindre et d'influencer le jeu.",
+        
+        "EXTENDED_TIMERS": "Minuteries prolongées",
+        "EXTENDED_TIMERS_DESCRIPTION": "Des minuteries prolongées vous donneront plus de temps pour prendre des décisions.",
+        
+        "PASSWORDED_GAME": "Jeu avec mots de passe",
+        "PASSWORDED_GAME_DESCRIPTION": "Générez un mot de passe que les joueurs doivent saisir pour rejoindre le jeu.",
+        
+        "SKIP_TUTORIALS": "Passer les didacticiels",
+        "SKIP_TUTORIALS_DESCRIPTION": "Ignorer les sections du didacticiel.",
+        
+        "TWITCH_REQUIRED": "Exiger Twitch",
+        "TWITCH_REQUIRED_DESCRIPTION": "Exiger que les joueurs soient connectés à Twitch.",
+        
+        "FILTER_US_CENTRIC": "Filtrer les questions centrées sur les États-Unis",
+        "FILTER_US_CENTRIC_DESCRIPTION": "Reduces the number of U.S.-centric questions. But does NOT entirely eliminate them.",
+                        
+        "POSTGAME_SHARING": "Partage d'après-jeu",
+        "POSTGAME_SHARING_DESCRIPTION": "Permettez aux joueurs de partager éventuellement les réponses et les scores du jeu sur les réseaux sociaux.",
+
+        "DISABLE_USER_ENTRY_KILLING_FLOORS":"Pas de mode d'écriture/dessin à l'écran",
+        "DISABLE_USER_ENTRY_KILLING_FLOORS_DESCRIPTION":"Vous ne faites pas confiance à vos terribles joueurs ? Ce mode garantit que les joueurs ne peuvent pas écrire ou dessiner des choses.",
+
+        "ENABLE_DICTATION_MINIGAME":"Dictation Mini-Game",
+        "ENABLE_DICTATION_MINIGAME_DESCRIPTION":"Activez le mini-jeu Dictée basé sur la vitesse.",
+        
+        "ENABLE_MATH_CHALLENGE_MINIGAME":"Mini-jeu de mathématiques",
+        "ENABLE_MATH_CHALLENGE_MINIGAME_DESCRIPTION":"Activez le mini-jeu Math basé sur la vitesse.",
+        
+        "ENABLE_TELEPHONE_MINIGAME":"Mini-jeu sur les téléphones",
+        "ENABLE_TELEPHONE_MINIGAME_DESCRIPTION":"Activez les mini-jeux basés sur la vitesse.",
+        
+        "ENABLE_RULES_MINIGAME":"Mini-jeu de règles",
+        "ENABLE_RULES_MINIGAME_DESCRIPTION":"Activez les règles du mini-jeu basées sur la vitesse.",
+        
+        "ENABLE_MADNESS_GIFT":"Cadeau de folie",
+        "ENABLE_MADNESS_GIFT_DESCRIPTION":"Activez l'objet Madness, qui a un élément basé sur la vitesse, dans le mini-jeu Cadeaux.",
+        
+        "START_GAMEPAD": "Démarrer le jeu à partir du contrôleur uniquement",
+        "START_GAMEPAD_DESCRIPTION": "Les jeux doivent être démarrés avec la manette et non à partir des appareils des joueurs.",
+        
+        "HIDE_ROOM_CODE": "Autoriser le masquage du code de chambre",
+        "HIDE_ROOM_CODE_DESCRIPTION": "Autorisez le masquage du code de la chambre à l’écran.",
+        
+        "MAX_PLAYERS": "Nombre maximum de joueurs",
+        "MAX_PLAYERS_DESCRIPTION": "Nombre de joueurs pouvant rejoindre le jeu avant que des personnes ne soient ajoutées au public.",
+        
+        "SUBTITLES": "Sous-titres",
+        "SUBTITLES_DESCRIPTION": "Afficher les sous-titres à l'écran.",
+
+        "PLAYER_NAME": "Nom du joueur",
+        "HIGH_SCORE": "Score élevé",
+        "AVERAGE_SCORE": "Note moyenne",
+        "GAMES_PLAYED": "Jeux joués",
+        "GAMES_WON": "Jeux gagnés",
+
+        "INTRO_BANNER":"Appuyez sur ce bouton si vous souhaitez ignorer",
+        "INTRO_BUTTON":"PASSER",
+        "END_GAME_BANNER":"Qu'est-ce que vous voulez faire?",
+        "END_GAME_SAME_PLAYERS_BUTTON":"SUITE",
+        "END_GAME_NEW_PLAYERS_BUTTON":"REDÉMARRER LA FRANCHISE",
+        "DEATH_BET_BANNER":"Devinez qui va mourir et gagnez 100 $",
+        "DEATH_BET_AUDIENCE_BANNER":"Devinez qui va mourir et gagnez de l'argent !",
+        
+        "CONFIRM_NONE":"N’en soumettez aucun.",
+        "CONFIRM_ALL":"Soumettez-les tous",
+        "CONFIRM_BUTTON":"SOUMETTRE",
+        
+        "CONFIRM_QUESTION":"Vous avez choisi<br>%s",
+        "CONFIRM_DEATH_BET":"Vous pensez que %s va mourir. Vous gagnerez %d $ si vous avez raison !",
+        "CONFIRM_DEATH_BET_AUDIENCE":"Merci pour votre choix très macabre",
+        
+        "HIGH_ROLLERS_BANNER":"Vous avez %d dés",
+        "HIGH_ROLLERS_BUTTON":"ROULER",
+        "HIGH_ROLLERS_SAFE_PLAYER_BANNER":"À qui donnerez-vous un dé supplémentaire ?",
+        
+        "SKULL_DICE_BANNER":"Total actuel : %d",
+        "SKULL_DICE_SAFE_PLAYER_BANNER":"Appuyez sur ce bouton pour rouler !",
+        "SKULL_DICE_BUTTON_ENABLED":"ROULER",
+        "SKULL_DICE_BUTTON_DISABLED":"ROULEMENT...",
+        
+        "DICTATION_BANNER":"Se préparer",
+        "DICTATION_ENTRY":"TYPER LA LETTRE ICI",
+        
+        "MATH_FROZEN_BANNER":"Tu es gelé",
+        
+        "MIRROR_BANNER":"Qu'a écrit tante Mildred sur le miroir ?",
+        "MIRROR_ENTRY":"Tapez ici",
+        "MIRROR_SAFE_PLAYER_BANNER":"Dessine un mot sur ce miroir",
+        
+        "DONATIONS_CHOOSE_PLAYER_BANNER":"À qui souhaitez-vous faire un don ?",
+        "DONATIONS_CHOOSE_AMOUNT_BANNER":"Combien souhaitez-vous donner ?",
+        "DONATIONS_ENTRY":"(0-<DONATION_LIMIT>)",
+        
+        "PASSWORD_BANNER":"Entrez un mot de 4 lettres",
+        "PASSWORD_ENTRY":"XXXX",
+        
+        "SKEWERS_BANNER":"Choisissez où vous voulez vous cacher !",
+        "SKEWERS_ERROR":"Un autre joueur s'y cache déjà. Essayer à nouveau!",
+        "SKEWERS_SAFE_PLAYER_BANNER":"Choisissez une ligne ou une colonne à poignarder !",
+        
+        "TATTOO_BANNER":"Dessine un tatouage doux et doux",
+        "TATTOO_VOTE_BANNER":"Quel tatouage est le meilleur ?",
+        
+        "GREED_BANNER":"Entrez un nombre compris entre %d et %d",
+        "GREED_ENTRY":"(%d-%d)",
+        
+        "CHALICE_BANNER":"Choisissez dans quel calice boire",
+        "CHALICE_SAFE_PLAYER_BANNER":"Choisissez quel calice empoisonner",
+
+        "GIFT_BANNER":"Choisissez un cadeau",
+        
+        "FINGERS_BANNER":"Choisissez un doigt à couper",
+        
+        "LOCK_AND_KEY_BANNER_ONE":"Prends une clé",
+        "LOCK_AND_KEY_BANNER_TWO":"Prends une autre clé",
+        "LOCK_AND_KEY_BANNER_THREE":"Prenez une dernière clé",
+        
+        "LOSER_WHEEL_BANNER":"Bonne chance",
+        "LOSER_WHEEL_BUTTON":"ROTATION",
+        
+        "MIND_MELD_ENTRY":"RÉPONDRE ICI",
+        "MIND_MELD_ERROR":"Cette réponse est incorrecte ! Essayer à nouveau!",
+        "MIND_MELD_DUPLICATE":"Réponses déjà réclamées :<br>%s<br>Réessayez !",
+        
+        "PACHINKO_BANNER":"Glissez et déposez votre puce",
+        "PACHINKO_SAFE_PLAYER_BANNER":"Choisissez un seau à maudire"
+    
+    },
+    "fr": {},
+    "it": {},
+    "de": {},
+    "es": {}
+}
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Ça ressemble à un truc de raton laveur et ça sort la nuit, donc ça doit être le... quoi ? ",
+      "t": "A",
+      "v": "770840_1",
+      "n": "Q"
+    },
+    {
+      "s": "I recently went to Madagascar, I know, humblebrag, and I think something followed me home...",
+      "t": "A",
+      "v": "770847_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[wah-wah] [hee-hee] [non-non] [oui-oui] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

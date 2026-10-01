@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qui est célèbre pour la phrase « Je sais que je ne sais rien » ? ",
+      "t": "A",
+      "v": "781897_2",
+      "n": "Q"
+    },
+    {
+      "s": "I have a daily calendar on my desk of depressing quotations. Here’s one...",
+      "t": "A",
+      "v": "781904_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[Socrate] [Emmanuel Kant] [Friedrich Nietzsche] [Jaden Smith] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

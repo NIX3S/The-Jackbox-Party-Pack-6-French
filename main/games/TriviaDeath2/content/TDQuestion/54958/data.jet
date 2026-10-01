@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quel style créerait une belle couronne de cheveux qui fait tout le tour de ma tête ? ",
+      "t": "A",
+      "v": "779209_2",
+      "n": "Q"
+    },
+    {
+      "s": "I always forget the name for this whenever I’m talking to my stylist.",
+      "t": "A",
+      "v": "779216_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[Tresse hollandaise] [tresse à maillons de chaîne] [tresse de laitière] [tresse squelette] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est la pire chose à propos d’assister à des soirées universitaires ? ",
+      "t": "A",
+      "v": "829920_1",
+      "n": "Prompt"
+    }
+  ]
+}

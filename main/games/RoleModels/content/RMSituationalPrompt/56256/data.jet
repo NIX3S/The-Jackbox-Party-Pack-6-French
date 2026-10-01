@@ -1,0 +1,175 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Quoi que vous ayez à dire, je suis sûr que ce n’était pas important. ",
+      "t": "A",
+      "v": "804490_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a le moins parlé pendant ce match ? ",
+      "t": "A",
+      "v": "807253_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la chose la plus embarrassante que votre patron puisse vous entendre faire ? ",
+      "t": "A",
+      "v": "806985_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Veuillez vous excuser auprès de Janet. ",
+      "t": "A",
+      "v": "807255_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a été le plus confus pendant ce jeu, même si nous avons tout si bien expliqué ? ",
+      "t": "A",
+      "v": "807254_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Oh, je suis sûr que cela ne dérange pas du tout Jane. ",
+      "t": "A",
+      "v": "804488_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Écoutons la voix de votre robot ! ",
+      "t": "A",
+      "v": "807256_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Au cas où vous l'auriez manqué, vous avez obtenu la majorité des voix... ce qui signifie... que la plupart des gens vous ont choisi... pour ce rôle. ",
+      "t": "A",
+      "v": "804486_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quel cerveau est peut-être un fouillis de circuits et de fils ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "N’en dis pas plus. ",
+      "t": "A",
+      "v": "804485_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est le plus susceptible de m’INTERROMPRE avec une OBSERVATION BRILLANTE alors que je pose CETTE QUESTION ?! ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel texte pourriez-vous envoyer lors d’une réunion ennuyeuse ? ",
+      "t": "A",
+      "v": "806984_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Qui êtes chacun d’entre vous lors d’une conférence téléphonique d’entreprise ? ",
+      "t": "A",
+      "v": "804478_2",
+      "n": "Prompt"
+    }
+  ]
+}

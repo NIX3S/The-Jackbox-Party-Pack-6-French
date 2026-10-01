@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Une partie de l'empire d'Alexandre le Grand ",
+      "t": "A",
+      "v": "795405_1",
+      "n": "Q"
+    }
+  ]
+}

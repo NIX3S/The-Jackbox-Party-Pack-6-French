@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "En rencontrant les parents de votre partenaire, vous les reconnaissez parmi les plus recherchés d’Amérique. Que fais-tu? ",
+      "t": "A",
+      "v": "831558_1",
+      "n": "Prompt"
+    }
+  ]
+}

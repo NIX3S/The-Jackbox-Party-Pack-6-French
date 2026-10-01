@@ -1,0 +1,167 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Quel rebondissement ! ",
+      "t": "A",
+      "v": "805230_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Qui est un bon rôle ! Qui est un bon rôle ! ",
+      "t": "A",
+      "v": "805229_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui est le plus susceptible de marcher pieds nus ? ",
+      "t": "A",
+      "v": "806952_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Si vous étiez contre vous... Comment déjoueriez-vous votre futur moi ? ",
+      "t": "A",
+      "v": "805232_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle compétence unique apporteriez-vous à une mission spatiale de destruction d’astéroïdes ? ",
+      "t": "A",
+      "v": "806954_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Que faudrait-il pour que tu lances ce jeu ? ",
+      "t": "A",
+      "v": "806953_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Ne le sommes-nous pas tous ? ",
+      "t": "A",
+      "v": "805228_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ouah! C'est incroyable que votre carrière ait survécu à ça ?! ",
+      "t": "A",
+      "v": "805227_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Ouah! C'est incroyable que votre carrière ait survécu à ça ?! ",
+      "t": "A",
+      "v": "806955_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "N'oubliez pas votre montre ! ",
+      "t": "A",
+      "v": "805226_2",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Les gens débattront toujours si vous êtes un homme de Noël ",
+      "t": "A",
+      "v": "805225_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui décririez-vous comme un bébé adulte ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Combinons John McClaine et Mikey... dites votre réplique préférée de Die Hard avec une voix de bébé ! ",
+      "t": "A",
+      "v": "805231_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Si vous étiez un Bruce Willis, quel Bruce Willis seriez-vous ? ",
+      "t": "A",
+      "v": "805218_1",
+      "n": "Prompt"
+    }
+  ]
+}

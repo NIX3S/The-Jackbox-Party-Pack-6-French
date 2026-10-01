@@ -1,0 +1,169 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "À qui ou à quoi profite votre association caritative ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel est le bon nom pour un vin incroyablement cher ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel joueur a le plus d’art sur ses murs ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Comment appelleriez-vous votre yacht ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Ça doit être sympa. ",
+      "t": "A",
+      "v": "812042_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Comment appelleriez-vous votre poney de polo ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Wow, ça doit être sympa. ",
+      "t": "A",
+      "v": "812041_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Si vous êtes interrogé par l'IRS, quel joueur mentiriez-vous pour protéger ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ça doit être sympa. ",
+      "t": "A",
+      "v": "812040_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Super sympa. ",
+      "t": "A",
+      "v": "812039_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel joueur est le plus susceptible de prononcer « artiste » comme « arteeste » ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui aurait l'air le plus royal sur un poney de polo ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel passe-temps des super riches êtes-vous ? ",
+      "t": "A",
+      "v": "812032_1",
+      "n": "Prompt"
+    }
+  ]
+}

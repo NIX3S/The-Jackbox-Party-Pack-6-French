@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous venez de casser un grand pot de cornichons à l'épicerie. Que fais-tu? ",
+      "t": "A",
+      "v": "831506_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Le Manneken Pis est l'un des monuments les plus célèbres de Bruxelles, mais qu'est-ce que c'est ? ",
+      "t": "A",
+      "v": "775449_1",
+      "n": "Q"
+    },
+    {
+      "s": "I promised myself I wouldn’t laugh at this next question... huh. Okay, here it goes!",
+      "t": "A",
+      "v": "775456_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[un vitrail représentant une chèvre] [un train qui n'a jamais fonctionné] [un musée du chapeau] [une statue d'un garçon qui fait pipi] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

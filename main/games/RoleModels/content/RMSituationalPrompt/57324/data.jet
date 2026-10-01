@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Facile, partenaire. ",
+      "t": "A",
+      "v": "827451_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Saviez-vous que c'était réel ? ",
+      "t": "A",
+      "v": "827450_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la meilleure réponse au texte « U up ? » ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui aime les potins torrides ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "De qui as-tu le plus peur ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "What is something from a past decade that you wish would come back into style?",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Chic. ",
+      "t": "A",
+      "v": "827449_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Montrez-nous votre meilleur œil de côté. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Chaud! ",
+      "t": "A",
+      "v": "827448_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Selon vous, qui est le plus « régulier » ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "C'est encore le jour des bras ? ",
+      "t": "A",
+      "v": "827447_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Ne clignez pas des yeux. ",
+      "t": "A",
+      "v": "827446_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Celui qui peut embrasser ses deux biceps le plus rapidement gagne. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle est la plus grande chose que vous puissiez soulever au-dessus de votre tête ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel emoji êtes-vous le plus susceptible d’inclure dans un message ? ",
+      "t": "A",
+      "v": "827439_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous organisez un mixage pour célibataires, comment l’appelez-vous ? ",
+      "t": "A",
+      "v": "831672_1",
+      "n": "Prompt"
+    }
+  ]
+}

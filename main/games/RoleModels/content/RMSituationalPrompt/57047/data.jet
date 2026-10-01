@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Rien de mal à une combustion lente. ",
+      "t": "A",
+      "v": "819864_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous donnez le vertige à tout le monde. ",
+      "t": "A",
+      "v": "819863_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a l’ambiance la plus jeune ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est votre meilleure petite blague que vous faites pour des occasions comme celle-ci ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui met le plus de temps à bien se connaître ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a l’horaire quotidien le plus irrégulier ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Nous devons tous le laisser sortir parfois. ",
+      "t": "A",
+      "v": "819862_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Imaginez que vous êtes Nicholas Sparks. Décrivez un moment où deux amants sont pris sous la pluie. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Il va falloir que tu grandisses un de ces jours. ",
+      "t": "A",
+      "v": "819861_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui éternue le plus ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Hm, ça a dû être embarrassant. ",
+      "t": "A",
+      "v": "819860_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "N’oubliez pas la crème solaire. ",
+      "t": "A",
+      "v": "819859_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Avec qui pourriez-vous vraiment éteindre votre cerveau et vous détendre ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle critique Goodreads êtes-vous ? ",
+      "t": "A",
+      "v": "819852_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "D'après la chanson de Tracy Chapman, vous avez une voiture rapide, mais qu'a-t-elle ? ",
+      "t": "A",
+      "v": "775389_2",
+      "n": "Q"
+    },
+    {
+      "s": "(humming) Oh, sorry, I got this song stuck in my head.",
+      "t": "A",
+      "v": "775396_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[un plan pour nous sortir d'ici] [un plein d'essence et quelques collations] [une valise remplie de rêves] [une voiture rapide supplémentaire] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Animaux qui hibernent ",
+      "t": "A",
+      "v": "784611_2",
+      "n": "Q"
+    }
+  ]
+}

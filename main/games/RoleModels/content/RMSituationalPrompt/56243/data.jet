@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Merci d'avoir regardé. ",
+      "t": "A",
+      "v": "804220_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Vous êtes des collègues qui passent une nuit blanche sur un grand projet. Qui est fatigué vers minuit et rentre chez lui ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Après avoir dormi toute la journée, le téléphone sonne. Dites à l'appelant à quel point votre journée de travail a été difficile. ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Montrez votre fausse lutte en faisant semblant de soulever le canapé pour monter un escalier. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Non, s'il te plaît, après toi ! ",
+      "t": "A",
+      "v": "804218_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Disons que vous jouez, oh je ne sais pas, à des jeux Jackbox avec un groupe d'amis ou quelque chose du genre. Où commanderiez-vous une pizza ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous êtes un candidat pour l'Oscar. ",
+      "t": "A",
+      "v": "804217_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Si vous étiez à la recherche d'un nouvel emploi, à qui vous adresseriez-vous pour obtenir de bons contacts ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Quelqu’un N’A PAS besoin d’un massage du cou. ",
+      "t": "A",
+      "v": "804216_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Si vous faisiez un remake du film <i>Office Space</i>, qui jouerait Bill Lumbergh ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Se détendre. Vous pouvez vous reposer maintenant ! ",
+      "t": "A",
+      "v": "804215_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui interviendrait pour résoudre un conflit seulement si cela était absolument nécessaire ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "À qui demanderiez-vous en premier de vous aider à emménager dans un nouvel appartement ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment chacun de vous aiderait-il à déplacer un canapé en bas ? ",
+      "t": "A",
+      "v": "804208_1",
+      "n": "Prompt"
+    }
+  ]
+}

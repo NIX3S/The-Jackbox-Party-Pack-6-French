@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quel est le mot de passe le moins sécurisé auquel vous puissiez penser ? ",
+      "t": "A",
+      "v": "830076_1",
+      "n": "Prompt"
+    }
+  ]
+}

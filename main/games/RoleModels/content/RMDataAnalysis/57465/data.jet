@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si votre vie était un jeu vidéo, quel serait le boss final que vous deviez vaincre ? ",
+      "t": "A",
+      "v": "831330_1",
+      "n": "Prompt"
+    }
+  ]
+}

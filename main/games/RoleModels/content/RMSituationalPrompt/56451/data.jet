@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous avez déjà enfreint la première règle. ",
+      "t": "A",
+      "v": "807694_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "A moins que vous vouliez nous convaincre du contraire. ",
+      "t": "A",
+      "v": "807693_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous êtes élu, qu'allez-vous apporter à cette école ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Utilisez vos meilleures compétences en matière de club de débat pour convaincre tout le monde pourquoi vous devriez obtenir ce rôle. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui rejoindrait un club juste pour la photo dans l’annuaire ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "De quel sujet pourriez-vous parler pendant des heures ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Ah oui. ",
+      "t": "A",
+      "v": "807692_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "À qui feriez-vous confiance pour garder un secret ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Échec et mat. ",
+      "t": "A",
+      "v": "807691_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle nouvelle expression sympa pourrait remplacer « échec et mat » ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Je pense que nous savons de qui vient le drame. ",
+      "t": "A",
+      "v": "807690_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Vous dirigez cette école. ",
+      "t": "A",
+      "v": "807689_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui pourrait crier de la manière la plus convaincante pour se sortir d’une contravention pour excès de vitesse ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel club de lycée es-tu ? ",
+      "t": "A",
+      "v": "807682_1",
+      "n": "Prompt"
+    }
+  ]
+}

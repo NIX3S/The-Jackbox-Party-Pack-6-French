@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "<i>Teenage Mutant Ninja Turtles II :</i> ",
+      "t": "A",
+      "v": "770870_1",
+      "n": "Q"
+    },
+    {
+      "s": "Finish this movie title...",
+      "t": "A",
+      "v": "770877_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[<i>Guerre et pizza</i>] [<i>C'est l'heure des tortues</i>] [<i>Le secret du limon</i>] [<i>De retour dans la coquille</i>] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

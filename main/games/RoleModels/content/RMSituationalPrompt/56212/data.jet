@@ -1,0 +1,157 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Oh, tu es si proche de vendredi ! ",
+      "t": "A",
+      "v": "803664_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Aucun jour de la semaine n'est mieux accompagné que toi ",
+      "t": "A",
+      "v": "803663_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui est le plus susceptible de se trouver dans un bar ou un autre établissement bruyant le vendredi à 18 heures ? ",
+      "t": "A",
+      "v": "803666_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Mercredi, vous êtes coincé entre mardi et jeudi. Quel est le sandwich le plus ennuyeux auquel vous puissiez penser ? ",
+      "t": "A",
+      "v": "822089_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Vous avez 24 heures pour vous tout seul, qu'allez-vous en faire ? ",
+      "t": "A",
+      "v": "822088_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Profitez de la plage. ",
+      "t": "A",
+      "v": "803662_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui n'a aucun mal à dormir jusqu'à midi le dimanche ? ",
+      "t": "A",
+      "v": "822091_2",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Quelqu'un a-t-il un cas du lundi ?? ",
+      "t": "A",
+      "v": "803661_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Pourquoi jeudi est-il réellement meilleur que vendredi ? Faites valoir votre cause. ",
+      "t": "A",
+      "v": "822090_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Profitez de ce moment de repos, vous l'avez bien mérité. ",
+      "t": "A",
+      "v": "803660_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Je vous encouragerais à célébrer mais je suis sûr que vous êtes bien en avance sur moi. ",
+      "t": "A",
+      "v": "803659_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle est votre première pensée lorsque vous vous réveillez un lundi ? ",
+      "t": "A",
+      "v": "803665_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel jour de la semaine représente le mieux chacun d’entre vous ? ",
+      "t": "A",
+      "v": "803652_1",
+      "n": "Prompt"
+    }
+  ]
+}

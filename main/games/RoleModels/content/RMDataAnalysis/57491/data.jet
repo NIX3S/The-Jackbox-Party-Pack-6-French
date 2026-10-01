@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous disposez d'une heure supplémentaire le matin avant le travail. Comment l'utilisez-vous ? ",
+      "t": "A",
+      "v": "831824_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Possède un exosquelette ",
+      "t": "A",
+      "v": "798702_3",
+      "n": "Q"
+    }
+  ]
+}

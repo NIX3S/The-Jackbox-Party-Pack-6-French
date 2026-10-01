@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous faites du speed dating. Quelle est votre phrase d’ouverture qui attire l’attention ? ",
+      "t": "A",
+      "v": "830554_1",
+      "n": "Prompt"
+    }
+  ]
+}

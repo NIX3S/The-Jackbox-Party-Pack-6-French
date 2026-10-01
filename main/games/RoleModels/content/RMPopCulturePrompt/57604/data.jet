@@ -1,0 +1,145 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "classic middle child",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Ne vous inquiétez pas, ce n’est qu’une phase délicate.",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel serait votre adorable slogan de sitcom familiale ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Laquelle de vos capacités serait la plus précieuse pour une agence gouvernementale obscure ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui serait le plus beau dans la mode des années 90 ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui donnerait le pire conseil romantique ?",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "DJ (SFX : dj airhorn) TANNER !!!",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est un enfant du milieu... ou du moins agit comme tel ?",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "L'oncle Jesse de Stranger Things ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Comment appelleriez-vous votre club-house ?",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Comment appelleriez-vous votre club-house ?",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Presque aussi puissant que les jumeaux Olsen ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel enfant de <i>Stranger Things</i> ou de <i>Full House</i> êtes-vous ? ",
+      "t": "A",
+      "v": "833387_1",
+      "n": "Prompt"
+    }
+  ]
+}

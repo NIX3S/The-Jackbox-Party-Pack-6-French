@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Qu'arrive-t-il au grille-pain titulaire à la fin de <i>The Brave Little Toaster</i> ? ",
+      "t": "A",
+      "v": "800354_2",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to my own research, the killer has never seen the animated feature The Brave Little Toaster. So let me ask you...",
+      "t": "A",
+      "v": "800361_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[il est enterré dans une installation de recyclage] [il apparaît dans une publicité pour une pâtisserie à la cannelle] [il est donné à une maison de retraite] [il va à l'université avec son propriétaire] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

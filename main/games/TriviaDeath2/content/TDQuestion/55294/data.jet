@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qui sont les petits ouvriers de la construction verte à <i>Fraggle Rock</i> ? ",
+      "t": "A",
+      "v": "786521_2",
+      "n": "Q"
+    },
+    {
+      "s": "I feel like punishing young people...",
+      "t": "A",
+      "v": "786528_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[Hoozers] [Doozers] [Woozers] [Toozers] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

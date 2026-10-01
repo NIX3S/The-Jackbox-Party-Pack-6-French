@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une province canadienne<br>(pas de territoires !) ",
+      "n": "PromptText"
+    },
+    {
+      "s": "une province canadienne<br>(pas de territoires !) ",
+      "t": "A",
+      "v": "799146_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

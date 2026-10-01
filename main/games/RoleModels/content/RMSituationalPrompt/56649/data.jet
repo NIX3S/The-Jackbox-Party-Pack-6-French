@@ -1,0 +1,157 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Quelle chanson joueriez-vous pour vraiment mettre l’ambiance ? ",
+      "t": "A",
+      "v": "811318_1",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la pire chose à tremper dans une fondue au chocolat ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Au lieu d’une perle, qu’aimeriez-vous trouver à l’intérieur d’une huître ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Selon vous, quelle histoire de vieille femme est vraie ?t vraie ?t vraie ?",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle est votre idée d’un rendez-vous parfait ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est le lieu idéal pour un EVJF ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel aphrodisiaque es-tu ? ",
+      "t": "A",
+      "v": "811207_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Chantez votre meilleure interprétation de « Sous la mer » de <i>La Petite Sirène</i>. ",
+      "t": "A",
+      "v": "811320_1",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

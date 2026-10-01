@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "J'ai dit BONNE JOURNÉE ! ",
+      "t": "A",
+      "v": "810090_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Désolé Charlie ",
+      "t": "A",
+      "v": "810089_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Criez \"Je le veux maintenant!\" de ta voix la plus agaçante. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui ne mange pas beaucoup de bonbons ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui regarde le plus la télévision ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de mâcher du chewing-gum lors d’un entretien d’embauche ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Qui est le plus susceptible de mâcher du chewing-gum lors d’un entretien d’embauche ? ",
+      "t": "A",
+      "v": "810088_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "S'il vous plaît, informez quelqu'un qu'il a perdu dans votre meilleure impression de Wonka ! ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Au moins tu es plein d'antioxydants ",
+      "t": "A",
+      "v": "810087_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est le pot-de-vin que vous ne pourrez jamais refuser ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "KLAXONNER! ",
+      "t": "A",
+      "v": "810086_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui obtient toujours ce qu’il veut ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "C'est comme ça que je veux mourir. ",
+      "t": "A",
+      "v": "810085_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Terminez cette comptine comme vous le souhaitez : « Oompa loompa doopity doo… » ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment échoueriez-vous la tournée Willy Wonka ? ",
+      "t": "A",
+      "v": "810078_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Si vous vous transformiez en Blueberry et que vous vous présentiez à la présidence, quel serait votre slogan ? ",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

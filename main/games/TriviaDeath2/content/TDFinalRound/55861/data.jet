@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Aliments nommés d'après des personnes ",
+      "t": "A",
+      "v": "797397_1",
+      "n": "Q"
+    }
+  ]
+}

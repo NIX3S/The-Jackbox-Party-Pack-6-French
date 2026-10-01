@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous pouvez délivrer un message d’outre-tombe, qu’est-ce que c’est ? ",
+      "t": "A",
+      "v": "829179_1",
+      "n": "Prompt"
+    }
+  ]
+}

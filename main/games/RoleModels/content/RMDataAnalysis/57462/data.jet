@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vos amis vous aident à déménager. Que leur donneriez-vous en échange du travail physique ? ",
+      "t": "A",
+      "v": "831252_1",
+      "n": "Prompt"
+    }
+  ]
+}

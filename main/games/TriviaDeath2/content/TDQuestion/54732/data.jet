@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Si vous occupez le deuxième rang le plus élevé de votre promotion, quel est votre titre officiel ? ",
+      "t": "A",
+      "v": "776949_2",
+      "n": "Q"
+    },
+    {
+      "s": "According to my dad, you’d be the first loser, but...",
+      "t": "A",
+      "v": "776956_3",
+      "n": "Intro"
+    },
+    {
+      "s": "[le major de promotion] [l'avant-dernier] [l'antépénultième] [le salutatorien] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

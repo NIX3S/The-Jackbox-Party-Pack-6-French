@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "[EventName=HOST/AltHost]Lors du traitement d'une coupure, appliquez une pression directe sur la plaie avec <BLANK> jusqu'à ce que le saignement s'arrête. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Lors du traitement d'une coupure, appliquez une pression directe sur la plaie avec <BLANK> jusqu'à ce que le saignement s'arrête. ",
+      "t": "A",
+      "v": "808846_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

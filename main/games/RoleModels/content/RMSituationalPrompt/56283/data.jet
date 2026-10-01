@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Je préfère un train de sauce. ",
+      "t": "A",
+      "v": "805066_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Quoi qu'il en soit, vous le tranchez. ",
+      "t": "A",
+      "v": "805065_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Veuillez écrire le son d'un personnage de dessin animé qui se fait frapper à la tête avec une poêle à frire. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "À part les melons, quelle est votre deuxième chose préférée à mettre en boules ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est probablement le meilleur hacker ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui êtes-vous susceptible de trouver dans un KFC ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tellement complexe. ",
+      "t": "A",
+      "v": "805064_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Des trucs chauds. ",
+      "t": "A",
+      "v": "805063_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "La saucière de grand-mère a disparu ! Rapide! Dans quoi devrions-nous mettre toute cette sauce ?! ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Voici le scoop. ",
+      "t": "A",
+      "v": "805062_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Une cuillère est une fourchette et une cuillère. Quel autre bon combo d’ustensiles devrait exister ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Tu vas flipper. ",
+      "t": "A",
+      "v": "805061_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui change le plus d’avis ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel ustensile de cuisine convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "805054_1",
+      "n": "Prompt"
+    }
+  ]
+}

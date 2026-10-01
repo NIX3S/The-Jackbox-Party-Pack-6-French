@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Pour être légalement appelé « bourbon », comment le whisky doit-il vieillir ? ",
+      "t": "A",
+      "v": "778419_2",
+      "n": "Q"
+    },
+    {
+      "s": "Sure, I torture people and all, but my worst attribute is that I’m a whiskey snob.",
+      "t": "A",
+      "v": "778426_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[dans l'état du Tennessee] [dans le pays de l'Écosse] [dans un fût de pin frais] [dans un fût de chêne calciné] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

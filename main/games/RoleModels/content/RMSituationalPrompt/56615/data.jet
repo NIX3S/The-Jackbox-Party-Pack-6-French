@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Tout est si simple pour vous. ",
+      "t": "A",
+      "v": "810349_2",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui mesure toujours deux fois avant de couper une fois ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Imaginez que le monde est sur le point de prendre fin. Quel est le côté positif ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui serait votre partenaire de danse de rêve ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle est la dernière chose que vous avez renversée ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous avez obtenu la majorité et vous vous plaignez toujours. ",
+      "t": "A",
+      "v": "810347_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Je vois à travers ton déguisement et tu es belle. ",
+      "t": "A",
+      "v": "810346_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la pire chose que vous ayez écrite sur votre gâteau ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Vous pouvez désormais vous offrir une nouvelle craie ! ",
+      "t": "A",
+      "v": "810345_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Et vous venez de le faire ! ",
+      "t": "A",
+      "v": "810344_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est le plus susceptible de se moquer de quelqu’un qui vient de trébucher et de tomber ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelles expressions idiomatiques conviennent le mieux à tout le monde ? ",
+      "t": "A",
+      "v": "810337_1",
+      "n": "Prompt"
+    }
+  ]
+}

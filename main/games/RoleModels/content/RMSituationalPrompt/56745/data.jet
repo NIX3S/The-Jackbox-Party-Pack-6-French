@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je t'espionne avec mon petit oeil ",
+      "t": "A",
+      "v": "813435_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui peut dormir malgré tout ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Recherchez sur votre application cartographique préférée le dernier voyage pour lequel vous aviez besoin d'un itinéraire. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est le meilleur jeu de voiture ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle est votre excuse pour continuer à aller aux toilettes ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous voudrez peut-être faire vérifier cela ",
+      "t": "A",
+      "v": "813434_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Terminez la phrase : « Deux chemins se sont séparés dans un bois, et j'ai pris celui _____. » ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Réveillez-vous! ",
+      "t": "A",
+      "v": "813433_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est votre chanson numéro un en road trip ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Recalculer ",
+      "t": "A",
+      "v": "813432_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Marche dessus ",
+      "t": "A",
+      "v": "813431_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Réponse en tant que conducteur : Quelle est la règle numéro un dans votre voiture ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Que faites-vous lorsque vous partez en road trip ? ",
+      "t": "A",
+      "v": "813424_1",
+      "n": "Prompt"
+    }
+  ]
+}

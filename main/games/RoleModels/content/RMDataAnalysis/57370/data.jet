@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous pouviez concevoir une pièce dans une maison hantée, quelle serait-elle ? ",
+      "t": "A",
+      "v": "829153_1",
+      "n": "Prompt"
+    }
+  ]
+}

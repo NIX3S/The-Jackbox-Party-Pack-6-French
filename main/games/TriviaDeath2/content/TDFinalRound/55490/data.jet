@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "<i>Résidents de la rue Sésame</i> ",
+      "t": "A",
+      "v": "790462_1",
+      "n": "Q"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Suivez-moi sur celui-ci. ",
+      "t": "A",
+      "v": "804710_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "On dirait que tes amis t'ont servi le thé. ",
+      "t": "A",
+      "v": "804709_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui est le plus susceptible de trébucher et de tomber tête première dans un trou sans fond ? ",
+      "t": "A",
+      "v": "808943_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui a le plus grand sourire (en comptant la hauteur et la largeur) ? ",
+      "t": "A",
+      "v": "808942_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qu’est-ce qui vous inquiète profondément en ce moment ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tout ne pourrait pas être plus froid. ",
+      "t": "A",
+      "v": "804708_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel objet du quotidien tout le monde devrait-il commencer à utiliser comme récipient à boire ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Quel objet du quotidien tout le monde devrait-il commencer à utiliser comme récipient à boire ? ",
+      "t": "A",
+      "v": "804707_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui reste étrangement détendu même dans des situations stressantes ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Efface ce sourire de ton visage. ",
+      "t": "A",
+      "v": "804706_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Si vous étiez soudainement très, très petit, dans quelle chose adorable dormiriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "De plus en plus curieux. ",
+      "t": "A",
+      "v": "804705_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Faites votre impression de Johnny Depp expliquant son processus pour devenir le Chapelier Fou. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle est la dernière chose qui vous a vraiment, vraiment mis en colère ? ",
+      "t": "A",
+      "v": "808941_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel personnage d'<i>Alice au Pays des Merveilles</i> êtes-vous ? ",
+      "t": "A",
+      "v": "804698_1",
+      "n": "Prompt"
+    }
+  ]
+}

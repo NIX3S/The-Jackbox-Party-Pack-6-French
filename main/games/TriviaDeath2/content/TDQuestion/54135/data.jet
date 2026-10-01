@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Si votre chauffeur Uber est en route et EN CROUTE, comment va-t-il arriver ? ",
+      "t": "A",
+      "v": "770930_1",
+      "n": "Q"
+    },
+    {
+      "s": "Here’s a question I put in my You Don’t Know Jack writing packet. Frickin’ jerks never got back to me...",
+      "t": "A",
+      "v": "770937_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[enveloppé dans une pâte] [dégoulinant de diamants] [trempé dans du vin rouge] [en feu] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt11"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Nommez le pays étranger le plus obscur auquel vous puissiez penser. ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Hulk écrase! ",
+      "t": "A",
+      "v": "805024_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Par la barbe d’Odin, vous l’avez fait. ",
+      "t": "A",
+      "v": "805023_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Une vieille dame traverse la rue et une banque se fait braquer au même moment. Que fais-tu? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la première invention que vous bâtiriez avec l’intelligence de Tony Starks ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "À quel joueur feriez-vous confiance si vous aviez besoin de faire de l'espionnage ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "À quel joueur feriez-vous confiance si vous aviez besoin de faire de l'espionnage ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Wakanda pour toujours ! ",
+      "t": "A",
+      "v": "805022_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Vous n'avez pas d'arme. Vous ÊTES une arme. ",
+      "t": "A",
+      "v": "805021_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le meilleur pour contrôler son humeur ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "À l'aise, soldat. ",
+      "t": "A",
+      "v": "805020_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Votre routeur est en panne. À qui appelez-vous pour obtenir une assistance technique ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Vous ÊTES Iron Man. ",
+      "t": "A",
+      "v": "805019_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui ferait le meilleur candidat à la présidentielle ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel membre des Avengers correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "805012_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Quels sont les murs personnels les plus difficiles à briser ? ",
+      "t": "A",
+      "n": "RevealPrompt10"
+    },
+    {
+      "s": "Faites une référence culturelle à quelque chose d’avant votre naissance. ",
+      "t": "A",
+      "n": "RevealPrompt11"
+    }
+  ]
+}

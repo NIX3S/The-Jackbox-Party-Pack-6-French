@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Les animaux sont statistiquement susceptibles de survivre à un élan ",
+      "t": "A",
+      "v": "784201_2",
+      "n": "Q"
+    }
+  ]
+}

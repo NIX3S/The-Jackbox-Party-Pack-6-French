@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Alors prouvez que vous êtes innocent et dites-moi où Calvin Harris et Rihanna ont trouvé l'amour dans \"We Found Love\". ",
+      "t": "A",
+      "v": "797438_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Our crime lab ran tests and found there is no way the killer knows the lyrics to Rihanna songs....",
+      "t": "A",
+      "v": "797445_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[« un lieu saint »] [« un lieu humble »] [« un lieu sans espoir »] [« un lieu hanté »] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

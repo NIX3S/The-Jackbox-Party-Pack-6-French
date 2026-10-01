@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Comment es-tu devenu si enflé ? ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Officier. ",
+      "t": "A",
+      "v": "804036_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Et dire que je t'ai inscrit dans mon testament ! ",
+      "t": "A",
+      "v": "804035_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a le plus de contraventions pour excès de vitesse ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui peut faire le plus de pompes ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "À votre avis, qui porte secrètement un micro ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Faites la chose la plus distrayante possible en ce moment. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Je refuse de faire attention à toi. ",
+      "t": "A",
+      "v": "804034_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Gardez ce moteur en marche. ",
+      "t": "A",
+      "v": "804033_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Si vous étiez policier dans un film d'action, quel serait votre slogan ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "La force fait le bien ! ",
+      "t": "A",
+      "v": "804032_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Si vous étiez interpellé pour avoir trahi un ami, quelle serait votre justification à toute épreuve ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Vous saviez que cela arriverait depuis le début, n’est-ce pas ? ",
+      "t": "A",
+      "v": "804031_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Ok Smartie, quel est ton plan pour entrer dans le coffre-fort ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel rôle dans un film de braquage convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "804024_1",
+      "n": "Prompt"
+    }
+  ]
+}

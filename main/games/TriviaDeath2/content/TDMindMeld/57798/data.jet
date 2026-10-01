@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un nom de corde de guitare<br>chacun n'est qu'une lettre ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un nom de corde de guitare<br>chacun n'est qu'une lettre ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

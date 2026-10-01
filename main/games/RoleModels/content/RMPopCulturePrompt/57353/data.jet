@@ -1,0 +1,145 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "You put the “nutrifu” in “nutrifusion”",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Hip hip, raisins secs ! ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Soit les gens vous aiment, soit ils vous détestent. Pourquoi donc? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Vous agitez votre baguette et prononcez le mot magique : « Trèfle ». Ce qui se produit? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel serait le pire personnage de fiction à accompagner lors d’une soirée de match ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Ça doit être si court pour du pain. ",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Donnez la définition du dictionnaire du mot « Nutrifusion ». ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "PB et Yay ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Nommez une façon dont vous êtes douloureusement moyen. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Nommez une façon dont vous êtes douloureusement moyen. ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Si frais et si mince ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Si un cannibale vous cuisinait et vous mangeait, quelle partie aurait le goût le plus mentholé ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel cookie Girl Scout es-tu ? ",
+      "t": "A",
+      "v": "828576_1",
+      "n": "Prompt"
+    }
+  ]
+}

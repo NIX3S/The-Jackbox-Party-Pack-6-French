@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Papa. ",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "votre langage amoureux est en train d'être réduit à néant.\nOU\nvous vous entendez bien avec tous vos axes. ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qu'y a-t-il dans votre autre poche ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "De quoi as-tu faim en ce moment ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Vous savez pourquoi vous avez des ennuis. Alors dis-moi, qu'as-tu fait pour qu'on t'envoie au lit sans dîner ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui te laisserait prendre le dernier beignet de la boîte ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "au lit...\nOU\n(comme une réponse risquée) Qu'est-ce que... adultfriendfinder.com ? ",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Donnez-nous votre hurlement le plus sauvage. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Faim, soif, même différence ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Faim, soif, même différence ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "ET je suis heureux de te voir ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Vous êtes fantôme !\nOU\nvous devrez peut-être vous contenter de quelqu'un qui ressemble à Waldo à première vue. ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui est le meilleur pour se cacher à la vue de tous ?",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel livre pour enfants décrit votre vie amoureuse ?",
+      "t": "A",
+      "v": "828816_1",
+      "n": "Prompt"
+    }
+  ]
+}

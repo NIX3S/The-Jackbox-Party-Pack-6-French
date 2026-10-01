@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Si vous étiez volé aux Grammys, qui interromprait les discours pour vous féliciter ? ",
+      "t": "A",
+      "v": "836197_0",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "UGH...moi aussi ",
+      "t": "A",
+      "v": "811768_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "J'espère que tu es prêt pour ce rôle ",
+      "t": "A",
+      "v": "811767_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui ferait la meilleure personne Sugar Daddy/Mama ? ",
+      "t": "A",
+      "v": "811771_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Pour quelle gelée n'êtes-vous tout simplement pas prêt ? ",
+      "t": "A",
+      "v": "811773_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle persuasion peut construire une nation ? ",
+      "t": "A",
+      "v": "811772_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "je voterais pour toi ",
+      "t": "A",
+      "v": "811766_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "811765_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus ivre en ce moment ? ",
+      "t": "A",
+      "v": "811774_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Vous ÊTES toutes des femmes célibataires ",
+      "t": "A",
+      "v": "811764_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Imaginez que vous tenez quelque chose de très chaud... comment le laisseriez-vous tomber ? ",
+      "t": "A",
+      "v": "822497_1",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Soupir... moi aussi ",
+      "t": "A",
+      "v": "811763_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Vous êtes nommée Reine B du monde... comment renommez-vous la planète ? ",
+      "t": "A",
+      "v": "822496_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "À qui aimeriez-vous vraiment vous biper en ce moment ? ",
+      "t": "A",
+      "v": "811769_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle ballade de Beyoncé es-tu ? ",
+      "t": "A",
+      "v": "811756_2",
+      "n": "Prompt"
+    }
+  ]
+}

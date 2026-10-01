@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "À qui Dolly Parton a-t-elle supplié « s’il vous plaît, ne prenez pas mon homme » ?",
+      "t": "A",
+      "v": "777819_2",
+      "n": "Q"
+    },
+    {
+      "s": "Satan’s not the only deity I worship. I’m also obsessed with the great Dolly Parton!",
+      "t": "A",
+      "v": "777826_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[Jolene] [Aimée] [Lorraine] [Gloria] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

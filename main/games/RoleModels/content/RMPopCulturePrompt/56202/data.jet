@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Doux. ",
+      "t": "A",
+      "v": "803496_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Regarde-toi, tu as grandi. ",
+      "t": "A",
+      "v": "803495_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Selon vous, qui se battait constamment pour la domination avec ses frères et sœurs ? ",
+      "t": "A",
+      "v": "803511_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui passe le plus de temps à rêver ? ",
+      "t": "A",
+      "v": "803510_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Dans <i>That's So Raven</i>, Raven peut voir l'avenir. Prédisez l’avenir de la personne à votre gauche. ",
+      "t": "A",
+      "v": "803528_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Si vous étiez secrètement une pop star adolescente, quel serait votre nom de scène ? ",
+      "t": "A",
+      "v": "803527_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C'est juste. ",
+      "t": "A",
+      "v": "803494_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui a l’air d’avoir grandi dans un hôtel ? ",
+      "t": "A",
+      "v": "824952_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Qui a l’air d’avoir grandi dans un hôtel ? ",
+      "t": "A",
+      "v": "803493_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Pour briser cette égalité, dites Shia Labouef 10 fois de suite. La personne la plus rapide gagne. ",
+      "t": "A",
+      "v": "803529_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ugh, c'est TELLEMENT toi. ",
+      "t": "A",
+      "v": "803492_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Faites une impression de Miley Cyrus commandant dans un drive de Wendy's. ",
+      "t": "A",
+      "v": "824954_1",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Le meilleur des deux mondes. ",
+      "t": "A",
+      "v": "803491_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "De quoi êtes-vous très fier ? ",
+      "t": "A",
+      "v": "824953_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle émission de Disney Channel êtes-vous ? ",
+      "t": "A",
+      "v": "803484_1",
+      "n": "Prompt"
+    }
+  ]
+}

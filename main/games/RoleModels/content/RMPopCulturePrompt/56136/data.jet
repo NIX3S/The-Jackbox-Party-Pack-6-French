@@ -1,0 +1,198 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Quelle méchante insulte avez-vous préparée pour votre lit de mort ? ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Tu essaies juste d'éviter le drame ",
+      "t": "A",
+      "v": "802473_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Euh... félicitations ? ",
+      "t": "A",
+      "v": "802472_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui aimeriez-vous voir assis sur le trône de fer ? ",
+      "t": "A",
+      "v": "806836_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "D'accord... lequel d'entre vous est le moins intéressé par la politique ? ",
+      "t": "A",
+      "v": "802475_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Écoutons un peu de Granny Tyrell Snark... donnez-nous votre meilleure insulte inspirée du GOT. ",
+      "t": "A",
+      "v": "806838_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Écoutons un peu de Granny Tyrell Snark... donnez-nous votre meilleure insulte inspirée du GOT. ",
+      "t": "A",
+      "v": "806837_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Ooo tu es le SASSY ",
+      "t": "A",
+      "v": "802471_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Les gens ne te connaissent pas vraiment parce qu'ils évitent tes soirées donc tu es la Maison Frey ",
+      "t": "A",
+      "v": "817560_0",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Je suis désolé pour ta famille ",
+      "t": "A",
+      "v": "802470_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Faites-nous peur... qui peut faire le meilleur sourire fou ? ",
+      "t": "A",
+      "v": "806839_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Je suppose que tu aimes vraiment tes animaux de compagnie ",
+      "t": "A",
+      "v": "802469_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qu’y aurait-il sur le drapeau de votre famille ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Votre rôle arrive ",
+      "t": "A",
+      "v": "802468_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "De quel type d'animal aimeriez-vous avoir un contrôle total ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Rendons cela aussi inconfortable que la finale... à qui préféreriez-vous prêter de l'argent ? ",
+      "t": "A",
+      "v": "802474_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "De quelle partie de Westeros es-tu ? ",
+      "t": "A",
+      "v": "802461_2",
+      "n": "Prompt"
+    },
+    {
+      "s": "Qui est le plus amateur de chiens ? ",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

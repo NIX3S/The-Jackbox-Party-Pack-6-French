@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est la pire chose que vous puissiez dire lors d’un premier rendez-vous ? ",
+      "t": "A",
+      "v": "830476_1",
+      "n": "Prompt"
+    }
+  ]
+}

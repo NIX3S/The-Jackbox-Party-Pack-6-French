@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Principaux gaz à effet de serre ",
+      "t": "A",
+      "v": "808537_1",
+      "n": "Q"
+    }
+  ]
+}

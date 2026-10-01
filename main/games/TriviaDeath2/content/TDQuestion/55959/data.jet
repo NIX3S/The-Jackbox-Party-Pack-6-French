@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Quel est le nom du groupe fictif qui a joué avec Ziggy Stardust ? ",
+      "t": "A",
+      "v": "799014_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to INTERPOL, the killer knows absolutely nothing about the singer David Bowie, so I’d love to see if you know...",
+      "t": "A",
+      "v": "799021_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Les araignées de Mars] [Ground Control] [Space Jam] [Les incendies de Vénus] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

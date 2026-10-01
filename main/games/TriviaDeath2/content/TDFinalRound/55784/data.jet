@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Oeuvre de la Renaissance ",
+      "t": "A",
+      "v": "795799_1",
+      "n": "Q"
+    }
+  ]
+}

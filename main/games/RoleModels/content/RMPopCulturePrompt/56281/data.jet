@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Le seul geste gagnant est de ne pas jouer. ",
+      "t": "A",
+      "v": "804990_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je signerai cette pétition. ",
+      "t": "A",
+      "v": "804989_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Retour à l'horrible planche à dessin... comment la conception du mille-pattes humain pourrait-elle être améliorée ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "En tant que système de soutien du groupe, que feriez-vous pour garder le moral au plus haut ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "A part les crimes contre l'humanité... qui vous aiderait dans vos propres affaires louches ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Que feriez-vous si vous voyiez un mille-pattes humain ramper dans la rue ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C'est bien d'avoir des passe-temps, je suppose. ",
+      "t": "A",
+      "v": "804988_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Vous êtes à l'arrière du mille-pattes... comment utiliseriez-vous vos pieds libres ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous êtes à l'arrière du mille-pattes... comment utiliseriez-vous vos pieds libres ? ",
+      "t": "A",
+      "v": "804987_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel joueur a la meilleure voix chantée ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ils sont tous mauvais, mais celui-ci est le pire. Désolé. ",
+      "t": "A",
+      "v": "804986_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Bien chemin à parcourir ? ",
+      "t": "A",
+      "v": "804985_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui a probablement participé au plus grand nombre de manifestations ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Commande pour la table alias le Centipède, quelle serait votre première demande de repas et pourquoi ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle position dans le mille-pattes humain occuperiez-vous chacun ? Nous sommes également désolés. ",
+      "t": "A",
+      "v": "804978_1",
+      "n": "Prompt"
+    }
+  ]
+}

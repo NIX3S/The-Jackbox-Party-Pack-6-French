@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Tu es mignon. Maintenant, grandis. ",
+      "t": "A",
+      "v": "805202_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Ce n'est pas joli mais ça marche. ",
+      "t": "A",
+      "v": "805201_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous étiez perdu dans la nature, comment attireriez-vous un avion de sauvetage ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui choisiriez-vous pour faire vos faire-part de mariage adressés à la main ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle excuse utiliseriez-vous pour annuler des projets avec quelqu'un à la dernière minute ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a passé le plus de temps en réunion de bureau ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Ne restez pas là-haut toute la semaine. ",
+      "t": "A",
+      "v": "805200_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Comment supportez-vous le reste d’entre nous, PaperMates ? ",
+      "t": "A",
+      "v": "805199_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Si vous retiriez trois chemises au hasard de votre garde-robe, quelles couleurs seraient probablement présentées ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Tu vas ULTRA bien ! Ou tout simplement très bien, si vous préférez. ",
+      "t": "A",
+      "v": "805198_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Même vous ne pouvez pas effacer cette réussite. ",
+      "t": "A",
+      "v": "805197_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui est audacieux, mais pas très flashy ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel instrument d’écriture représente le mieux chacun d’entre vous ? ",
+      "t": "A",
+      "v": "805190_1",
+      "n": "Prompt"
+    }
+  ]
+}

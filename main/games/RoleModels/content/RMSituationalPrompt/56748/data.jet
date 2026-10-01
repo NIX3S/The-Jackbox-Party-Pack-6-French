@@ -1,0 +1,168 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui est le plus susceptible de se lancer dans un voyage de découverte de soi <i>Manger, Prier, Aimer</i> en Italie après un divorce ? ",
+      "t": "A",
+      "v": "813584_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Montrez à la pièce comment vous frapperiez un requin. ",
+      "t": "A",
+      "v": "813586_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle est la dernière chose que vous voudriez voir tomber à côté de vous en parachutisme ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est la première phrase que vous voudriez apprendre en italien ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "OK, nerd. Quel est votre personnage de Shakespeare préféré et pourquoi ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quel est le secret de votre immortalité ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qu'est-ce qui aurait été plus cool à dire pour Neil Armstrong lorsqu'il a marché sur la lune pour la première fois ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Puisque vous êtes un amateur de sensations fortes, quelle est la façon la plus excitante dont vous voudriez mourir ? ",
+      "t": "A",
+      "v": "813580_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel élément de la bucket list êtes-vous ? ",
+      "t": "A",
+      "v": "813494_2",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Existe-t-il d'autres types de poissons ? ",
+      "t": "A",
+      "v": "819393_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Doux! ",
+      "t": "A",
+      "v": "819392_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Donnez-nous votre meilleur miaulement sinistre ! ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Lequel de ces joueurs est de type feu ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle chanson chanteriez-vous pour endormir quelqu’un ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de s’allonger et de se rendre lors d’un combat de rue ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tous les chats ne parlent pas, mais tous les chats SONT des criminels. ",
+      "t": "A",
+      "v": "819391_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Selon vous, quel criminel célèbre détestait les chiens et aimait les chats ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Tous champions ",
+      "t": "A",
+      "v": "819390_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Tous champions ",
+      "t": "A",
+      "v": "819389_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "De plus, vous êtes apparemment un détective. ",
+      "t": "A",
+      "v": "819388_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle entreprise démarreriez-vous sous le nom de « Electric Mouse » ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel est le seul animal plus dangereux qu’un rongeur qui tire des éclairs ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Laquelle de ces vagues descriptions de Pokémon vous décrit également ? ",
+      "t": "A",
+      "v": "819381_1",
+      "n": "Prompt"
+    }
+  ]
+}

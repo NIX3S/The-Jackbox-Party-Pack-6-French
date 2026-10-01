@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "En parachutisme, quelle est la chose la plus cool à crier en sautant d’un avion ? ",
+      "t": "A",
+      "v": "831710_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Tu es superbe dans une robe. ",
+      "t": "A",
+      "v": "807968_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous êtes la star de Spamilton ! ",
+      "t": "A",
+      "v": "807967_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel nom donneriez-vous le plus à l’actualité ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel nom terrible pour un dispensaire ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel crime avez-vous commis pour être emprisonné dans un pays étranger ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui pourrait probablement mieux expliquer ce que fait une vésicule biliaire ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Impliquez l’ambassadeur ! ",
+      "t": "A",
+      "v": "807966_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est le plus convaincant ?",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Des mains si fermes. ",
+      "t": "A",
+      "v": "807965_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est le titre de votre numéro à couper le souffle ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Allez-vous démissionner en disgrâce ? Découvrez-le après un mot de nos sponsors ! ",
+      "t": "A",
+      "v": "807964_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Même les entrepreneurs ont un petit creux, mec ",
+      "t": "A",
+      "v": "807963_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle version de vous-même dans un univers alternatif est chacun de vous ? ",
+      "t": "A",
+      "v": "807956_1",
+      "n": "Prompt"
+    }
+  ]
+}

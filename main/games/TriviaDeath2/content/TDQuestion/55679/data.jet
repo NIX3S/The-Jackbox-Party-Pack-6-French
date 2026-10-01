@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Si tu es mon pion et que je te sacrifie lors de mon ouverture d'échecs, comment ça s'appelle ? ",
+      "t": "A",
+      "v": "793535_2",
+      "n": "Q"
+    },
+    {
+      "s": "I’m like the Bobby Fischer of murder: everyone’s searching for me!",
+      "t": "A",
+      "v": "793542_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[un pari] [une gigue] [un snooker] [une esquive] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

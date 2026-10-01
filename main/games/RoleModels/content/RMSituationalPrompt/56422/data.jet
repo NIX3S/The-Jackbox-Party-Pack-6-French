@@ -1,0 +1,141 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Euh. ",
+      "t": "A",
+      "v": "807334_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Qu'essayez-vous de prouver ?! ",
+      "t": "A",
+      "v": "807333_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Avec quel joueur voudriez-vous vous blottir sous une couette, à côté d'un feu chaud... pendant que vous aviez une terrible diarrhée. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la façon la plus ridicule avec laquelle vous avez essayé d’économiser de l’argent ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel était le pire endroit où vous ayez jamais eu pour faire vos besoins ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel livre et pourquoi ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Aucun commentaire. ",
+      "t": "A",
+      "v": "807332_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Ah, la lingette de l'intellectuel ",
+      "t": "A",
+      "v": "807331_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Décrivez le style et le motif de votre chaussette d'urgence. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Espèce de radin ",
+      "t": "A",
+      "v": "807330_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Le choix numéro un pour les mamies chics ",
+      "t": "A",
+      "v": "807329_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Soyez honnête : quel matériau pour essuyer les fesses êtes-vous ? ",
+      "t": "A",
+      "v": "807322_1",
+      "n": "Prompt"
+    }
+  ]
+}

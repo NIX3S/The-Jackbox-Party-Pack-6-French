@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quelle pièce de Tennessee Williams met en scène un personnage patriarcal nommé « Big Daddy » ? ",
+      "t": "A",
+      "v": "781059_2",
+      "n": "Q"
+    },
+    {
+      "s": "Taking captives and playing sinister games... Wow, I’ve become my father.",
+      "t": "A",
+      "v": "781066_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[<i>Un tramway nommé Désir</i>] [<i>Un chat sur un toit brûlant</i>] [<i>La ménagerie de verre</i>] [<i>La nuit de l'iguane</i>] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

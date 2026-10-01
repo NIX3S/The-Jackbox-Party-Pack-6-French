@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Notez-en un pour l’équipe Jacob ! ",
+      "t": "A",
+      "v": "803960_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tu es mon Jonas préféré. ",
+      "t": "A",
+      "v": "803959_2",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui aurait fière allure avec des cheveux noir de jais huilés avec beaucoup de produit ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel aurait été un meilleur nom pour le groupe des Jonas Brothers ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Donnez-nous votre meilleur hurlement de loup-garou ! ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "J'aimerais pouvoir te quitter. ",
+      "t": "A",
+      "v": "803958_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Ce qui vous rend belle? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ce qui est génial chez toi, c'est que tu ne sais pas que tu es belle ! ",
+      "t": "A",
+      "v": "803957_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus susceptible de se remettre d’une mauvaise rupture ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Qui est le plus susceptible de se remettre d’une mauvaise rupture ? ",
+      "t": "A",
+      "v": "803956_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui serait le plus à l’aise sur une plage nudiste ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Votre corps est vraiment un pays des merveilles. ",
+      "t": "A",
+      "v": "803955_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui décririez-vous comme maussade, sarcastique et talentueux ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel ancien petit-ami de Taylor Swift correspond le mieux à chacun d'entre vous ? ",
+      "t": "A",
+      "v": "803948_1",
+      "n": "Prompt"
+    }
+  ]
+}

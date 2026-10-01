@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Quelle est la seule chose dont tu as besoin et que tes stupides parents ne t’ont jamais donnée ? ",
+      "t": "A",
+      "v": "823791_1",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "S'incliner. ",
+      "t": "A",
+      "v": "816734_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Ouah. ",
+      "t": "A",
+      "v": "816733_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a l'air le plus innocent ? ",
+      "t": "A",
+      "v": "822659_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui est le plus susceptible de faire une crise ? ",
+      "t": "A",
+      "v": "816736_2",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel chanteur ou groupe de rêve embauchez-vous pour jouer à votre fête d'anniversaire ? ",
+      "t": "A",
+      "v": "822661_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui pourrait vraiment arborer une longue barbe blanche ? ",
+      "t": "A",
+      "v": "822660_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Trop vieux pour rêver. ",
+      "t": "A",
+      "v": "816732_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Montrez à tout le monde le regard que fait un nouveau-né lorsqu'il découvre pour la première fois l'état actuel du monde. ",
+      "t": "A",
+      "v": "822663_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Si charmant. ",
+      "t": "A",
+      "v": "816731_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel achat impulsif feriez-vous pendant votre crise de la quarantaine ? ",
+      "t": "A",
+      "v": "822662_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Temps mort! ",
+      "t": "A",
+      "v": "816730_2",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Awwww. ",
+      "t": "A",
+      "v": "816729_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel est le meilleur conseil de vie que vous puissiez donner ? ",
+      "t": "A",
+      "v": "816735_2",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel âge représente le mieux chacun d’entre vous ? ",
+      "t": "A",
+      "v": "816722_2",
+      "n": "Prompt"
+    }
+  ]
+}

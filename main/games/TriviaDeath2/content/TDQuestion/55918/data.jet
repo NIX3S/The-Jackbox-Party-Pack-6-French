@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Pour prouver votre innocence, dites-moi simplement quelle citation est attribuée à René Descartes. ",
+      "t": "A",
+      "v": "798204_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to witness testimony, the real killer finds French philosophy gauche... so...",
+      "t": "A",
+      "v": "798211_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[« Ce qui ne me tue pas me rend plus fort. »] [« La vie sans examen ne vaut pas la peine d’être vécue. »] [« Je pense, donc je suis. »] [« Comment les miroirs peuvent-ils être réels si nos yeux ne le sont pas ? »] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

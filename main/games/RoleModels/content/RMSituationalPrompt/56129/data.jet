@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Personne ne comprend à quel point tu es important ",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "j'aimerai et m'abonnerai ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "À vos marques, prêts... faites un squat ! ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Selon vous, qui a le plus de followers ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est ton surnom sympa pour tes muscles ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Partagez vos bénédictions... quelle est la chose la plus chanceuse qui vous soit arrivée cette semaine ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "J'ai le sentiment qu'un vendredi tu as raison ",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous êtes ici pour passer un bon moment ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "et tu es superbe ! ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Que feriez-vous d'une seconde vie ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Ta vie enchantée continue ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui a la meilleure journée capillaire ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "D'accord, nous sommes en milieu de semaine et j'ai besoin d'un aperçu... quelle est la chose la plus intelligente que vous pourriez publier sur les réseaux sociaux ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel hashtag classique êtes-vous ? ",
+      "t": "A",
+      "v": "802299_1",
+      "n": "Prompt"
+    }
+  ]
+}

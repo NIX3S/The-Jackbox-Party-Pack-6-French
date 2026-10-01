@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "<i>World of Warcraft</i> Classes jouables ",
+      "t": "A",
+      "v": "788422_1",
+      "n": "Q"
+    }
+  ]
+}

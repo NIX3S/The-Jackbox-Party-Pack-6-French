@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous et vos autres amis célibataires êtes dans un club. Quel est votre objectif pour la soirée ? ",
+      "t": "A",
+      "v": "835635_1",
+      "n": "Prompt"
+    }
+  ]
+}

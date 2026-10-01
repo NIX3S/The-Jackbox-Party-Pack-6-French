@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "AAAAAARRRRGH ! ",
+      "t": "A",
+      "v": "819952_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "arc-chika-bow-wow ",
+      "t": "A",
+      "v": "819951_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui reçoit le plus de choses livrées chez lui ? ",
+      "t": "A",
+      "v": "819954_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "En un mot, quel est votre plus grand atout ? ",
+      "t": "A",
+      "v": "823655_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Que choisiriez-vous pour votre dernier repas ? ",
+      "t": "A",
+      "v": "823651_2",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Surpris que vous ayez rassemblé l'énergie nécessaire pour choisir quelque chose. ",
+      "t": "A",
+      "v": "819950_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel joueur a probablement été « intime » le plus récemment ? ",
+      "t": "A",
+      "v": "823663_2",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Tu devrais en être fier ",
+      "t": "A",
+      "v": "819949_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel joueur fait le plus de siestes ? ",
+      "t": "A",
+      "v": "823659_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Bah c'est de la bêtise ! ",
+      "t": "A",
+      "v": "819948_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Votre béguin est de l’autre côté de la pièce. Attirez leur attention sans utiliser de mots. ",
+      "t": "A",
+      "v": "823665_1",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Vous ne voulez pas partager ce rôle, n’est-ce pas ? ",
+      "t": "A",
+      "v": "819947_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle est la plus petite chose dans une journée moyenne qui vous déclenche ? ",
+      "t": "A",
+      "v": "823664_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qu’est-ce que tu convoites le plus ? ",
+      "t": "A",
+      "v": "819953_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Lequel des péchés capitaux es-tu ? ",
+      "t": "A",
+      "v": "819940_2",
+      "n": "Prompt"
+    }
+  ]
+}

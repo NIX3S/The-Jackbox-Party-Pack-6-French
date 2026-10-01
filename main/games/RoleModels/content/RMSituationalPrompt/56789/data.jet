@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Nœud coulant? Plutôt un glissement... oui ! ",
+      "t": "A",
+      "v": "814251_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Puis-je emprunter de la laque pour cheveux ",
+      "t": "A",
+      "v": "814250_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a les meilleurs cheveux headbangants ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Si Death avait un travail quotidien, quel serait-il ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel objet inanimé vous ferait le plus peur s’il se mettait soudainement à parler ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a le plus de contraventions pour excès de vitesse ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Trippy, mec. ",
+      "t": "A",
+      "v": "814249_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est la chose la plus lourde que vous ayez soulevée ce mois-ci ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Pas si vite ",
+      "t": "A",
+      "v": "814248_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la meilleure façon de manger du Korn ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Tu es vraiment le maître des marionnettes ",
+      "t": "A",
+      "v": "814247_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Salut Satan ",
+      "t": "A",
+      "v": "814246_2",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Inventez le titre d'une nouvelle chanson du groupe Cendrillon. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel genre de métal es-tu ? ",
+      "t": "A",
+      "v": "814239_3",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "<i>Chroniques de Narnia</i> Livres ",
+      "t": "A",
+      "v": "796779_1",
+      "n": "Q"
+    }
+  ]
+}

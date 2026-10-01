@@ -1,0 +1,189 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Décrivez les uniformes assortis de votre commune. ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Vous l’êtes certainement. ",
+      "t": "A",
+      "v": "815958_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Ce n'est pas une secte, MAMAN ! ",
+      "t": "A",
+      "v": "815957_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Hé génie, en trois mots, quel est le sens de la vie ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Veuillez nommer une activité que vous êtes trop belle pour faire. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est ton travail dans ton autre vie ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est ton travail dans ton autre vie ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui pleure quand il n’obtient pas ce qu’il veut ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "La pièce est-elle devenue froide ? ",
+      "t": "A",
+      "v": "815955_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel serait le nom officiel de votre commune ou culte idéal ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ne détestez pas. ",
+      "t": "A",
+      "v": "815954_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelle marque devrait vous embaucher pour être ambassadeur des réseaux sociaux ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est le plus hanté par son passé ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel est le nom du fantôme qui était dans la pièce pendant tout ce temps ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel épisode de MTV <i>True Life</i> êtes-vous chacun ? ",
+      "t": "A",
+      "v": "815946_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

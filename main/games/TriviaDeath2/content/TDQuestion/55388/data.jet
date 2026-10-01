@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Selon WebMD, quelle est la taille approximative des punaises de lit ? ",
+      "t": "A",
+      "v": "788945_2",
+      "n": "Q"
+    },
+    {
+      "s": "Look, everything is fine at the hotel and I don’t want any follow-up questions about why I know this but...",
+      "t": "A",
+      "v": "788952_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[un pépin de pomme] [une graine de sésame] [une graine de citrouille] [une graine de mangue] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

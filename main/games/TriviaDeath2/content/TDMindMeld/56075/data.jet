@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'un des livres <i>Harry Potter</i> originaux<br><i>Harry Potter et les ________</i> ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l'un des livres <i>Harry Potter</i> originaux :<br><i>Harry Potter et les ________</i> ",
+      "t": "A",
+      "v": "801134_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

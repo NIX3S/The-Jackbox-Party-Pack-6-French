@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un personnage jouable dans le premier jeu <i>Super Smash Bros.</i> ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un personnage jouable dans le premier jeu <i>Super Smash Bros.</i> ",
+      "t": "A",
+      "v": "799480_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

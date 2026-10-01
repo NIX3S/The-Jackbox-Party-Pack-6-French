@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Chérie boo boo n'a rien sur toi toi. ",
+      "t": "A",
+      "v": "802285_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Suivez le vert, pas le rêve. ",
+      "t": "A",
+      "v": "802284_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Bienvenue au Great British Bake Off. Le thème de cette ronde est les Confiseries Patriotiques. Boulangers, veuillez décrire votre plat. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Je vais être honnête, il existe un moyen assez clair de briser cette égalité. Entre ces deux joueurs, qui survivrait plus longtemps sur une île sauvage et déserte ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Ces deux joueuses s'affrontent pour le rôle de Real Housewives. Qui est le plus susceptible de sortir d’une pièce en trombe pendant un combat ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "L’argent ne peut pas acheter vos cours. ",
+      "t": "A",
+      "v": "802283_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Si ces deux joueurs étaient sur Shark Tank, qui financeriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "C'est une bonne pâtisserie. ",
+      "t": "A",
+      "v": "802282_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "C'est une bonne pâtisserie. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Wow, on dirait que nous avons un biscuit dur ici. ",
+      "t": "A",
+      "v": "802281_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "J'espère que vous accepterez cette rose. ",
+      "t": "A",
+      "v": "802280_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel plat pourriez-vous concocter en utilisant uniquement les objets trouvés dans cette pièce ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Vous êtes tous les deux en compétition pour The Bachelor. Mais je n'ai qu'une rose... Si vous étiez le célibataire lui-même, que prévoiriez-vous pour un rendez-vous en tête-à-tête ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle émission de téléréalité correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "802273_2",
+      "n": "Prompt"
+    }
+  ]
+}

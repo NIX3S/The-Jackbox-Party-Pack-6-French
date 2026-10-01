@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Eh bien... je suis content que tu aies pu y arriver. ",
+      "t": "A",
+      "v": "803202_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "En secret, tout le monde te déteste. ",
+      "t": "A",
+      "v": "803201_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Montrez-nous votre meilleure pose de statue. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la meilleure farce en classe ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Que faisais-tu au lieu de venir le jour de la photo ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui ne peut PAS garder un secret ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "OH MON DIEU! Avez-vous entendu qui a été élu le plus gros potin ? ",
+      "t": "A",
+      "v": "803200_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Tellement artistique ! ",
+      "t": "A",
+      "v": "803199_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Donnez-nous votre meilleure pose photo de bal. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Qui est drôle maintenant ? En fait, c’est vous. ",
+      "t": "A",
+      "v": "803198_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Pour quelle célébrité aviez-vous le béguin au lycée ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui gagne toujours aux jeux de dessin Jackbox ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Comment appelleriez-vous votre marque de laque ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel superlatif de l’annuaire du lycée convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "803190_1",
+      "n": "Prompt"
+    }
+  ]
+}

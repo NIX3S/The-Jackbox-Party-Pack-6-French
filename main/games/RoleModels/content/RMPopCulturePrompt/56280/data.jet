@@ -1,0 +1,149 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Une grosse araignée marche sur le rebord de votre fenêtre. Que faites-vous à ce sujet ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui chante à plein volume chaque fois que l’hymne national est joué ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Vous êtes fier d’être membre d’un syndicat et titulaire d’une carte. Lequel? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a passé plus de temps à cheval ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Est-ce un paquet de viande que vous tenez ou êtes-vous juste... tant pis. ",
+      "t": "A",
+      "v": "804968_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est le plus grand ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Bravo, partenaire. ",
+      "t": "A",
+      "v": "804967_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Décrire les vertus de la couleur marron. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Décrire les vertus de la couleur marron. ",
+      "t": "A",
+      "v": "804966_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Je vous salue. ",
+      "t": "A",
+      "v": "804965_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle équipe de la NFL convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "804958_1",
+      "n": "Prompt"
+    }
+  ]
+}

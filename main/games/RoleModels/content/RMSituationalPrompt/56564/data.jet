@@ -1,0 +1,191 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Il est minuit un samedi soir dans la grande ville : que fais-tu ? ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Sérieusement, pourquoi aller ailleurs ? ",
+      "t": "A",
+      "v": "809316_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'est un terrain sacré. ",
+      "t": "A",
+      "v": "809315_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Une fois que vous avez grimpé au sommet, quelle est la dernière chose que vous souhaitez voir là-haut ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Donnez-nous votre meilleur yodel au sommet d’une montagne. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel élément devriez-vous toujours éviter sur un buffet de bateau de croisière ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Veuillez faire le bruit du klaxon d'un bateau de croisière. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Les lumières. Les odeurs. ",
+      "t": "A",
+      "v": "809314_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est le plus susceptible d’avoir été maudit par une vieille divinité ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Tot tot. ",
+      "t": "A",
+      "v": "809313_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui prétend connaître tous les « points chauds » d’une ville ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Bon sangoooooo ! ",
+      "t": "A",
+      "v": "809312_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Écrivez un slogan pour l'office du tourisme d'une grande ville de votre choix. ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Aloha. ",
+      "t": "A",
+      "v": "809311_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui déteste le plus les autres ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui a probablement mis du jus de citron dans ses cheveux lorsqu'il était adolescent ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle destination de vacances êtes-vous chacun ?",
+      "t": "A",
+      "v": "809304_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

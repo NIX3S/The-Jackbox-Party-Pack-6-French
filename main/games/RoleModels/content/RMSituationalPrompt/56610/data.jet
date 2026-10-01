@@ -1,0 +1,176 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Pourquoi si sérieux ? ",
+      "t": "A",
+      "v": "810238_3",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Accro à l'adrénaline par ici ! ",
+      "t": "A",
+      "v": "810237_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Montrez à la pièce comment vous prendriez un selfie torse nu. (Mais laissez votre chemise.) ",
+      "t": "A",
+      "v": "810241_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Décrivez votre programme d'entraînement. ",
+      "t": "A",
+      "v": "810240_2",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Racontez une blague, mais assurez-vous qu'elle est TORSADÉE. ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Décrivez ce qu'un poisson dit de vous en tant que rendez-vous potentiel. ",
+      "t": "A",
+      "v": "810242_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Etes-vous le mignon !? ",
+      "t": "A",
+      "v": "810236_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Comment connaissez-vous les mariés ? ",
+      "t": "A",
+      "v": "810245_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Trop occupé aussi à poser. ",
+      "t": "A",
+      "v": "810235_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Dites-nous où vous étiez garé lorsque vous avez pris le selfie. ",
+      "t": "A",
+      "v": "810244_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Apprivoisez mon cœur comme vous avez apprivoisé ce poisson. ",
+      "t": "A",
+      "v": "810234_2",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle a été votre dernière grande aventure ? ",
+      "t": "A",
+      "v": "810246_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel est l'endroit le plus badass où aller pour un rendez-vous en cosplay joker ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Lequel de ces mecs sur Tinder es-tu ? ",
+      "t": "A",
+      "v": "810226_1",
+      "n": "Prompt"
+    }
+  ]
+}

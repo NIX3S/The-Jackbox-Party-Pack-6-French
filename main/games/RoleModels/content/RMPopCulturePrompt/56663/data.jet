@@ -1,0 +1,189 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Quelle catastrophe de chat. ",
+      "t": "A",
+      "v": "811680_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tellement endormi. ",
+      "t": "A",
+      "v": "811679_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui serait élue reine du tas d’ordures ? ",
+      "t": "A",
+      "v": "811682_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus proche de la retraite ? ",
+      "t": "A",
+      "v": "818151_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui ne seriez-vous pas surpris d'apprendre à faire de la magie en gros plan ? ",
+      "t": "A",
+      "v": "818150_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Qui ne seriez-vous pas surpris d'apprendre à faire de la magie en gros plan ? ",
+      "t": "A",
+      "v": "811678_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui parlerait de divorce dans un discours de mariage ? ",
+      "t": "A",
+      "v": "818153_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "C'est toi le patron. ",
+      "t": "A",
+      "v": "811677_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la chanson la plus endormie ? ",
+      "t": "A",
+      "v": "818152_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Quelle gaffe. ",
+      "t": "A",
+      "v": "811676_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Faites la tête d'un chat qui a été surpris en train de faire une farce sexy. ",
+      "t": "A",
+      "v": "818155_1",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Miaou-et monstre. ",
+      "t": "A",
+      "v": "811675_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Chantez « Memory » de mémoire. Si vous ne le savez pas, inventez-le. ",
+      "t": "A",
+      "v": "818154_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qu'est-ce que les chats trouvent sexy ? ",
+      "t": "A",
+      "v": "811681_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel chat de la comédie musicale <i>Cats</i> êtes chacun d'entre vous ? ",
+      "t": "A",
+      "v": "811668_1",
+      "n": "Prompt"
+    }
+  ]
+}

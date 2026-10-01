@@ -1,0 +1,157 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "First in my heart, last in the alphabet",
+      "t": "A",
+      "v": "805154_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tu es le survivant ultime ",
+      "t": "A",
+      "v": "805153_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle remarque vraiment tranchante pourriez-vous dire à votre méchant père ? ",
+      "t": "A",
+      "v": "806974_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Assez de plaisanteries... qui peut faire le plus de tractions ! ",
+      "t": "A",
+      "v": "805162_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est le chat qui ne s’en sortira pas quand il y a un danger ? ",
+      "t": "A",
+      "v": "806976_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Vous vous souvenez de cette partie où Indy a failli perdre son chapeau ? Qui est le plus susceptible de laisser quelque chose d’important derrière lui ? ",
+      "t": "A",
+      "v": "806975_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tu as sacrément raison ! ",
+      "t": "A",
+      "v": "805152_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Votre place est dans un musée ! ",
+      "t": "A",
+      "v": "805151_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui serait le meilleur rendez-vous pour un dîner ? ",
+      "t": "A",
+      "v": "806977_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Qui serait le meilleur rendez-vous pour un dîner ? ",
+      "t": "A",
+      "v": "805150_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "La force est assez forte avec toi. ",
+      "t": "A",
+      "v": "805149_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle est la mystérieuse carte de visite que vous laisseriez derrière vous après une aventure ? ",
+      "t": "A",
+      "v": "805161_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel héros de cinéma classique es-tu ? ",
+      "t": "A",
+      "v": "805142_1",
+      "n": "Prompt"
+    }
+  ]
+}

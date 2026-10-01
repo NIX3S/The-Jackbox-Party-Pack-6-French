@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quelle partie d’une montgolfière est techniquement appelée « l’enveloppe » ? ",
+      "t": "A",
+      "v": "778329_2",
+      "n": "Q"
+    },
+    {
+      "s": "Here’s a question only nineteenth-century millionaires should know...",
+      "t": "A",
+      "v": "778336_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[le sac de sable] [la corde nouée] [le compartiment à cheval] [le ballon] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

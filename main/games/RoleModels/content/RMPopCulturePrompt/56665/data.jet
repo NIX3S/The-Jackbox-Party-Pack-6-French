@@ -1,0 +1,158 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous n'êtes pas Burt Reynolds, mais qui l'est ? ",
+      "t": "A",
+      "v": "811731_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous deviez adopter légalement un des enfants de votre ami, lequel choisiriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Un journaliste d'une grande ville veut avoir des nouvelles de vous. Qui prétendent-ils être pour gagner votre confiance ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est le nom de votre comédie spéciale Netflix ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Personne ne veut jouer avec le Zohan. ",
+      "t": "A",
+      "v": "811730_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Si l’ancien quarterback de la NFL ne fonctionne pas, quel est votre personnage de secours Adam Sandler ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel établissement de restauration rapide Adam Sandler devrait-il promouvoir dans son prochain grand film ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Dites quelque chose de mal avec la pire voix d'Adam Sandler que vous puissiez imaginer ",
+      "t": "A",
+      "v": "811733_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Lequel de ces personnages d'Adam Sandler êtes-vous ? ",
+      "t": "A",
+      "v": "811720_1",
+      "n": "Prompt"
+    }
+  ]
+}

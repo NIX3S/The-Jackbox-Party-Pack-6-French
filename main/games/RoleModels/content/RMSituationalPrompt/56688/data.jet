@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Je peux ressentir celui-ci à un niveau très réel. ",
+      "t": "A",
+      "v": "812280_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous avez répondu pour votre RIP. ",
+      "t": "A",
+      "v": "812279_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Pourquoi es-tu stressé ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Montrez à la pièce à quoi vous ressembleriez en tombant d’une très haute falaise. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Comment es-tu mort ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qu’est-ce qui ne vous dérangerait pas d’être poursuivi ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Courir! ",
+      "t": "A",
+      "v": "812278_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est la pire classe dans laquelle être nu ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous avez du chewing-gum. ",
+      "t": "A",
+      "v": "812277_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Analysez ce cauchemar. À votre avis, que signifie rêver d’insectes rampant sous votre peau ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Un peu comme des chips sans fond ? ",
+      "t": "A",
+      "v": "812276_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Oh, et il y a aussi un test. ",
+      "t": "A",
+      "v": "812275_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Si vous pouviez remplacer vos dents perdues par n’importe quoi au monde, que choisiriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle était la première personne que vous ne vouliez pas voir nue au lycée ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel cauchemar es-tu ? ",
+      "t": "A",
+      "v": "812268_1",
+      "n": "Prompt"
+    }
+  ]
+}

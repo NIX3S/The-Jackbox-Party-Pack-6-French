@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Lorsque vous êtes photographié, avez-vous un meilleur côté ? ",
+      "t": "A",
+      "v": "802237_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "La plupart de vos secrets seront enterrés avec vous. ",
+      "t": "A",
+      "v": "802236_3",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a le style de vie le plus équilibré ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui a le plus de facettes dans sa personnalité ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Nommez trois choses de valeur égale dans la vie. ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui pouvez-vous imaginer travailler au ministère américain de la Défense ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Général, je vous salue. ",
+      "t": "A",
+      "v": "802235_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Vous êtes très pointu. ",
+      "t": "A",
+      "v": "802234_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus susceptible de recevoir un enterrement de pharaon élaboré ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Un jour, tu deviendras un rectangle. ",
+      "t": "A",
+      "v": "802233_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Sérieusement, quel est votre point de vue ? ",
+      "t": "A",
+      "v": "802232_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Si vous deviez tout emballer dans cette pièce dans une seule grande boîte, par où commenceriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui est le plus susceptible d’attacher des stylos à une poche de chemise ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Qui représente chaque forme géométrique ? ",
+      "t": "A",
+      "v": "802225_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qu’est-ce qui cause le gel du cerveau ? ",
+      "t": "A",
+      "v": "773360_1",
+      "n": "Q"
+    },
+    {
+      "s": "I’ve studied the most excruciating tortures.",
+      "t": "A",
+      "v": "773367_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[nourriture froide sur votre langue] [nourriture froide sur vos dents] [nourriture froide sur le palais] [nourriture froide qui descend dans votre gorge] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

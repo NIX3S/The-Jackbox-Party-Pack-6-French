@@ -1,0 +1,262 @@
+{
+  "content": [
+    {
+      "id": "00000000",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Cinq ans plus tard "
+      }
+    },
+    {
+      "id": "00000001",
+      "minSequel": 2,
+      "tag": "DOC",
+      "playerNamePrefix": "Dr.",
+      "text": {
+        "main": "Un an plus tard ",
+        "sub": "(lors d'un congrès médical réservé à l'hôtel) "
+      }
+    },
+    {
+      "id": "00000002",
+      "minSequel": 2,
+      "tag": "NOT",
+      "playerNamePrefix": "Not ",
+      "text": {
+        "main": "Dix-neuf ans plus tard ",
+        "sub": "(des invités complètement différents sont rassemblés) "
+      }
+    },
+    {
+      "id": "00000003",
+      "minSequel": 2,
+      "tag": "AM",
+      "text": {
+        "lowerThird": "3:01 a.m."
+      }
+    },
+    {
+      "id": "00000004",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Sept ans plus tard ",
+        "sub": "(en réalité c'est plus proche de six ans et demi mais c'est arrondi) "
+      }
+    },
+    {
+      "id": "00000005",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Dix ans plus tard "
+      }
+    },
+    {
+      "id": "00000006",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Vingt ans plus tard "
+      }
+    },
+    {
+      "id": "00000007",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Quinze ans plus tard "
+      }
+    },
+    {
+      "id": "00000008",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Cinq ans plus tard ",
+        "sub": "(mais ça fait vraiment six ans) "
+      }
+    },
+    {
+      "id": "00000009",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Huit ans plus tard ",
+        "sub": "(plus ou moins) "
+      }
+    },
+    {
+      "id": "00000010",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Douze ans plus tard ",
+        "sub": "(à peu près un jour) "
+      }
+    },
+    {
+      "id": "00000011",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Un certain temps passe ",
+        "sub": "(personne n'a gardé la trace de combien) "
+      }
+    },
+    {
+      "id": "00000012",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Vingt ans plus tard ",
+        "sub": "mais beaucoup plus tôt dans la journée "
+      }
+    },
+    {
+      "id": "00000013",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Cinq ans plus tard ",
+        "sub": "mais pas exactement le même jour "
+      }
+    },
+    {
+      "id": "00000014",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Vendredi prochain ",
+        "sub": "mais pas le film <i>Vendredi prochain</i> "
+      }
+    },
+    {
+      "id": "00000015",
+      "minSequel": 2,
+      "tag": "MONDAY",
+      "text": {
+        "main": "Le lundi suivant ",
+        "sub": "mais on dirait un mercredi "
+      }
+    },
+    {
+      "id": "00000016",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Quelque temps plus tard ",
+        "sub": "ne vous inquiétez pas des détails "
+      }
+    },
+    {
+      "id": "00000017",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Quelque temps plus tard ",
+        "sub": "ce n'est pas important de savoir exactement combien de temps, d'accord ?! "
+      }
+    },
+    {
+      "id": "00000018",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Le lendemain ",
+        "sub": "mais l'ambiance est bien différente "
+      }
+    },
+    {
+      "id": "00000019",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "24 heures plus tard "
+      }
+    },
+    {
+      "id": "00000020",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "Une quinzaine de jours plus tard ",
+        "sub": "... mais pas CELA Fortnite "
+      }
+    },
+    {
+      "id": "00000021",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "47 mois plus tard "
+      }
+    },
+    {
+      "id": "00000022",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "À la prochaine pleine lune ",
+        "sub": "(effrayant, non ?!) "
+      }
+    },
+    {
+      "id": "00000023",
+      "minSequel": 2,
+      "tag": "CHRISTMAS",
+      "text": {
+        "main": "Sept Noëls plus tard "
+      }
+    },
+    {
+      "id": "00000024",
+      "minSequel": 2,
+      "tag": "SIMPLE",
+      "text": {
+        "main": "2 709 jours plus tard "
+      }
+    },
+    {
+      "id": "00000025",
+      "minSequel": 2,
+      "tag": "AKA",
+      "playerNamePrefix": "AKA ",
+      "text": {
+        "main": "Vingt ans plus tard ",
+        "sub": "(la plupart du temps passé à se cacher) "
+      }
+    },
+    {
+      "id": "00000026",
+      "minSequel": 2,
+      "tag": "CAPT",
+      "playerNamePrefix": "Capt ",
+      "text": {
+        "main": "Quinze ans plus tard ",
+        "sub": "(une convention des capitaines de navire est en ville) "
+      }
+    },
+    {
+      "id": "00000027",
+      "minSequel": 2,
+      "generationJump": 13,
+      "tag": "FUTURE",
+      "text": {
+        "main": "300 ans plus tard "
+      }
+    },
+    {
+      "id": "00000028",
+      "minSequel": 2,
+      "tag": "ALT",
+      "playerNamePrefix": " ",
+      "nameModifier": "REVERSE",
+      "text": {
+        "main": "Trente ans plus tard",
+        "sub": "(dans une dimension alternative similaire à la nôtre)"
+      }
+    }
+  ]
+}

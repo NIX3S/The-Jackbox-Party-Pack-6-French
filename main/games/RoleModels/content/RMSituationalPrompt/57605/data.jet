@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ohé, mon pote !",
+      "t": "A",
+      "v": "833423_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Avez-vous essayé de mettre vos lunettes 3D ?",
+      "t": "A",
+      "v": "833422_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui va probablement renverser quelque chose dans l’heure ?",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui pourriez-vous voir faire des blagues sur les films... même lorsqu'ils les regardent seuls à la maison ?",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Le film ne fonctionne pas. Qui se lève le premier pour trouver un manager ?",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est le meilleur film à regarder ?",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Hé, hé, hé... casse-toi.",
+      "t": "A",
+      "v": "833421_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Collant !",
+      "t": "A",
+      "v": "833420_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Si vous étiez un pirate de cinéma, quel serait le nom de votre navire ?",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Je suis sûr que vous obtenez de l'aide de vos amis robots.",
+      "t": "A",
+      "v": "833419_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Attention aux trous géants !",
+      "t": "A",
+      "v": "833418_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel est le film le plus déroutant que vous ayez jamais vu ?",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Que fait chacun de vous dans cette salle de cinéma ?",
+      "t": "A",
+      "v": "833411_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Lequel de ces éléments ne fait PAS partie de la trilogie <i>À la croisée des chemins</i> ? ",
+      "t": "A",
+      "v": "797961_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to our criminal profilers the killer avoids Young Adult Fiction because it makes them feel lonely. So... tell me...",
+      "t": "A",
+      "v": "797968_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[<i>La boussole dorée</i>] [<i>Le couteau subtil</i>] [<i>La corde d'hickory</i>] [<i>La longue-vue d'ambre</i>] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

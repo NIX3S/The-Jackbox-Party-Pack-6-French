@@ -1,0 +1,75 @@
+{
+    "table":{
+    "en": {
+        "LANGUAGE_NAME": "English",
+        "LANGUAGE": "Language",
+        "INTERNET_CONNECTED": "Nous venons de trouver Internet.",
+        "INTERNET_DISCONNECTED": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "ROOM_DESTROYED": "Nous sommes désolés, une erreur réseau s'est produite et votre chambre a été détruite.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "SOCKET_DISCONNECTED": "Nous sommes désolés, nous avons perdu votre connexion aux serveurs de Jackbox Games.",
+        "TIMEOUT": "Nous sommes désolés, nous n'arrivons pas à nous connecter aux serveurs de Jackbox Games.<br />Veuillez vérifier que votre connexion Internet fonctionne correctement.",
+        "USER_DISCONNECT": "Nous sommes désolés, le serveur vous a déconnecté. Veuillez réessayer.",
+        "LOST_LICENSE": "Nous sommes désolés, nous avons perdu la licence pour ce contenu !",
+        "STEAM_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Steam.",
+        "TWITCH_PRIME_ERROR": "Nous sommes désolés, nous n'avons pas pu valider votre licence Twitch.",
+        "LOST_DLC": "Nous sommes désolés, la licence de votre DLC est introuvable. Je vous ramène au menu...",
+        "CLOSE": "Fermer",
+        "QUIT": "Quitter",
+        "BACK": "Retour",
+        "MENU_GAME_NAME_1": "TRIVIA MURDER PARTY 2",
+        "MENU_GAME_NAME_2": "ROLE MODELS",
+        "MENU_GAME_NAME_3": "JOKE BOAT",
+        "MENU_GAME_NAME_4": "DICTIONARIUM",
+        "MENU_GAME_NAME_5": "PUSH THE BUTTON",
+        "MENU_GAME_NAME_DISABLED": "??????????",
+        "MENU_DLC": "DLC",
+        "MENU_SETTINGS": "PARAMÈTRES",
+        "MENU_HOW_TO": "COMMENT FAIRE",
+        "BADGE_TITLE_PLAYERS": "JOUEUR",
+        "BADGE_TITLE_FAMILY_MODE": "FAMILY FRIENDLY",
+        "BADGE_TITLE_NOT_FAMILY_MODE": "PAS FAMILIAL",
+        "BADGE_TITLE_AUDIENCE": "PUBLIC",
+        "BADGE_SUB_PLAYERS": "UTILISER DES TÉLÉPHONES/TABLETTES",
+        "BADGE_SUB_FAMILY_MODE": "FACULTATIVE",
+        "BADGE_SUB_NOT_FAMILY_MODE": "NOUS LE SIGNIFIONS!",
+        "BADGE_SUB_AUDIENCE": "LES NON-JOUEURS PEUVENT REJOINDRE",
+        "INFO_DESCRIPTION_GAME_1": "Un tueur en série organise un jeu-questionnaire absurde dans le Murder Hotel, une entreprise familiale dans laquelle il a grandi. Pouvez-vous survivre ?",
+        "INFO_DESCRIPTION_GAME_2": "Tout le monde est quelqu’un, alors qui es-tu ? Le planificateur ? Le flocon ? Le plus impertinent ? Entrez dans le laboratoire et découvrez-le.",
+        "INFO_DESCRIPTION_GAME_3": "Ahah! Vous êtes un comique amateur sur un bateau de croisière de quatrième ordre. Avez-vous ce qu'il faut pour gagner le concours de talents ?",
+        "INFO_DESCRIPTION_GAME_4": "Les humains inventent des mots et des expressions depuis des siècles. C'est maintenant à votre tour de contribuer en contribuant aux pages du Dictionarium.",
+        "INFO_DESCRIPTION_GAME_5": "Danger! Des extraterrestres métamorphes ont infiltré votre vaisseau. Pouvez-vous et votre équipe les retrouver avant la fin du temps imparti ?",
+        "INFO_DESCRIPTION_GAME_DISABLED": "??? ??????? ???? ? ????????? ????? ??????? ??????-???? ????.",
+        "SETTINGS_TITLE": "PARAMÈTRES",
+        "SETTINGS_FULL_SCREEN": "Mode plein écran",
+        "SETTINGS_VOLUME": "Contrôle du volume",
+        "SETTINGS_FULL_SCREEN_DESCRIPTION": "ON rendra le jeu en plein écran.",
+        "SETTINGS_VOLUME_DESCRIPTION": "Rendez le jeu FORT ou SILENCIEUX.",
+        "SETTINGS_TOGGLE_ON": "ACTIVÉ",
+        "SETTINGS_TOGGLE_OFF": "DÉSACTIVÉ",
+        "HELP_TITLE": "INSTRUCTIONS",
+        "HELP_LINE_1": "Sélectionnez et démarrez un jeu à l’aide d’un contrôleur.",
+        "HELP_LINE_2": "Une fois que vous avez atteint le lobby du jeu, sortez votre téléphone, votre tablette ou votre ordinateur portable.",
+        "HELP_LINE_3": "Accédez à jackbox.tv sur votre appareil.",
+        "HELP_LINE_4": "Entrez le code de la chambre à 4 lettres affiché sur l'écran du téléviseur et votre nom de joueur.",
+        "HELP_LINE_5": "Le premier joueur à rejoindre le lobby du jeu (le VIP) peut démarrer le jeu depuis son appareil une fois que tout le monde est prêt.",
+        "HELP_LINE_6": "Profitez-en avec vos amis, votre famille ou de parfaits inconnus.",
+        "HELP_URL": "help.jackboxgames.com"
+    },
+    "fr": {
+        "LANGUAGE_NAME": "Français",
+        "LANGUAGE": "Langue"
+    },
+    "it": {
+        "LANGUAGE_NAME": "Italiano",
+        "LANGUAGE": "Lingua"
+    },
+    "de": {
+        "LANGUAGE_NAME": "Deutsche",
+        "LANGUAGE": "Sprache"
+    },
+    "es": {
+        "LANGUAGE_NAME": "Español",
+        "LANGUAGE": "idioma"
+    }
+}
+}

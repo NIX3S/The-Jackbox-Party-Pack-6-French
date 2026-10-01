@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Elles ont toutes de bonnes murailles, mais laquelle de ces villes chinoises contient une partie de la Grande Muraille ? ",
+      "t": "A",
+      "v": "778289_2",
+      "n": "Q"
+    },
+    {
+      "s": "So here’s a question I’m workshopping...",
+      "t": "A",
+      "v": "778296_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[Shenzhen] [Pékin] [Shanghai] [Xi'an] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

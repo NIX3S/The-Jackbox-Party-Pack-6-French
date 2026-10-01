@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Attends, attends, c'est toi. ",
+      "t": "A",
+      "v": "809296_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Pantalon intelligent. ",
+      "t": "A",
+      "v": "809295_2",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui ne peut tout simplement pas garder un secret ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "S’il existait une véritable Planet Money, quel serait le nom de sa lune ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui pourrait réaliser le look de « Marilyn Monroe debout au-dessus d’une grille de rue soufflée par le vent » ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel serait un bon cocktail sur le thème d’une émission télévisée ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Acclamations! ",
+      "t": "A",
+      "v": "809294_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "En tant que dirigeant suprême de Planet Money, faites votre rire le plus maniaque. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Aaaahhhhh. ",
+      "t": "A",
+      "v": "809293_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Aaaahhhhh. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Cha-ching. ",
+      "t": "A",
+      "v": "809292_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Regarder le monde se réveiller de l’histoire. ",
+      "t": "A",
+      "v": "809291_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui énonce le plus souvent l’évidence ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle émission NPR correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "809284_1",
+      "n": "Prompt"
+    }
+  ]
+}

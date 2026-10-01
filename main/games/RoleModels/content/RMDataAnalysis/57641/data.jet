@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Une horde de zombies végétariens et non violents s'est installée dans votre quartier. Comment les gérez-vous ? ",
+      "t": "A",
+      "v": "833906_1",
+      "n": "Prompt"
+    }
+  ]
+}

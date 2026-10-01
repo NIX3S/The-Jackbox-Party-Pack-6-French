@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous disposiez de fonds illimités pour une séance de shopping d’une heure, qu’achèteriez-vous ?",
+      "t": "A",
+      "v": "835687_1",
+      "n": "Prompt"
+    }
+  ]
+}

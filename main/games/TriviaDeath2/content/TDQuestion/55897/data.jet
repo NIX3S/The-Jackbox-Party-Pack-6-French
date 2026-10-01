@@ -1,0 +1,59 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Si je franchis une porte et crie « Voici Johnny ! », laquelle de ces critiques auriez-vous raison de me faire ? ",
+      "t": "A",
+      "v": "797889_1",
+      "n": "Q"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Intro"
+    },
+    {
+      "s": "[« Vous arnaquez Jack Nicholson qui arnaqueait Steve Martin. »] [« Vous arnaquez Jack Nicholson qui arnaqueait Steve Allen. »] [« Vous arnaquez Jack Nicholson qui arnaque Ed McMahon. »] [« Vous arnaquez Jack Nicholson qui arnaque Joan Rivers. »] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

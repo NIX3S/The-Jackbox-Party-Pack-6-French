@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Lequel de mes poissons d’ornement est orné de panaches ? ",
+      "t": "A",
+      "v": "780879_2",
+      "n": "Q"
+    },
+    {
+      "s": "I’m not picking favorites, but...",
+      "t": "A",
+      "v": "780886_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[mon poisson-lion] [mon poisson-clown] [mon poisson-papillon] [mon aiguillat] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

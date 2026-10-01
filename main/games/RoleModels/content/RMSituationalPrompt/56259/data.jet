@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Les monstres marins aussi doivent manger. ",
+      "t": "A",
+      "v": "804550_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Mauvais timing. La Nouvelle-Angleterre est super libérale ces jours-ci. ",
+      "t": "A",
+      "v": "804549_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Que sacrifieriez-vous pour obtenir de la pénicilline ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Vous venez de subir une blessure mortelle. Quels sont vos derniers mots ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Pendant que vous brûlez sur le bûcher, quel sort lanceriez-vous pour affliger vos bourreaux ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a plus d’estomac pour les films d’horreur éclaboussés ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C’est tellement difficile d’obtenir une ordonnance pour ça ! ",
+      "t": "A",
+      "v": "804548_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Je suppose que ça valait le coup. ",
+      "t": "A",
+      "v": "804547_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui serait assez courageux pour aller nager seul dans le Loch Ness ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Vous aurez fière allure dans un gilet lors de vos funérailles. ",
+      "t": "A",
+      "v": "804546_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Vous ne savez même pas ce qu’est l’étoile polaire, n’est-ce pas ? ",
+      "t": "A",
+      "v": "804545_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "À qui ne demanderiez-vous JAMAIS votre chemin ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment chacun de vous serait-il mort en 1610 ? ",
+      "t": "A",
+      "v": "804538_1",
+      "n": "Prompt"
+    }
+  ]
+}

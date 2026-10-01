@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Un câlin aux arbres. ",
+      "t": "A",
+      "v": "806916_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est votre idée d’une soirée romantique ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "À qui ne peut-on pas faire confiance pour prendre les choses au sérieux ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui exploiterait un événement culturel comme une occasion de faire la fête ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C'était une bonne chose. Tu m'as eu. ",
+      "t": "A",
+      "v": "806915_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel est le meilleur arbre à embrasser ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Puis-je vous procurer un autre Dos Equis ? ",
+      "t": "A",
+      "v": "806914_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Tu es adorable. ",
+      "t": "A",
+      "v": "806913_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "J'adore ton costume de vampire-slash-Sailor Moon ! ",
+      "t": "A",
+      "v": "806912_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel est le meilleur endroit pour acheter à prix réduit ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel est votre costume d'Halloween préféré ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel jour férié non public convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "806905_1",
+      "n": "Prompt"
+    }
+  ]
+}

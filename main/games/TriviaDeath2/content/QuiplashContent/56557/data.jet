@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "[EventName=HOST/AltHost]Si vous achetiez un chariot d'épicerie rempli de ceci, le caissier appellerait certainement les flics. ",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Si vous achetiez un chariot d'épicerie rempli de ceci, le caissier appellerait certainement les flics. ",
+      "t": "A",
+      "v": "808936_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Vous devez sortir de la maison. Sérieusement. ",
+      "t": "A",
+      "v": "804200_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous êtes le héros méconnu du lieu de travail. ",
+      "t": "A",
+      "v": "804199_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "En tant qu'empereur, quel serait votre premier décret officiel ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel poète ou écrivain célèbre vous inspire ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Que trouverions-nous épinglé sur les murs de votre cabine ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui n'hésiterait pas à se salir les mains... et à puer ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tu sens la carpe. ",
+      "t": "A",
+      "v": "804198_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Cela pourrait être le début d’une dynastie. ",
+      "t": "A",
+      "v": "804197_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est votre nom d'influenceur cool ou bizarre ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Les mots me manquent. ",
+      "t": "A",
+      "v": "804196_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui a la pire écriture ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Je vous recontacterai dans trois mois. ",
+      "t": "A",
+      "v": "804195_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Dans quel domaine de la médecine vous spécialiseriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel métier correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "804188_1",
+      "n": "Prompt"
+    }
+  ]
+}

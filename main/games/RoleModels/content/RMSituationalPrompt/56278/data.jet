@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ne regardez pas les phares. ",
+      "t": "A",
+      "v": "804930_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Récréation! ",
+      "t": "A",
+      "v": "804929_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui se soucie plus d’atteindre rapidement une destination que de partir en voyage ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui laisserait un étranger faire la queue dans une épicerie ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a probablement le tiroir à sous-vêtements le plus soigné ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Comment appelleriez-vous votre voiture de sport conçue sur mesure ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tu es vraiment un bourrin ! ",
+      "t": "A",
+      "v": "804928_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Expliquez pourquoi les enfants sont l'avenir. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Dangereux mais complet. ",
+      "t": "A",
+      "v": "804927_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "C’est comme si toute votre vie n’était qu’un raccourci géant. ",
+      "t": "A",
+      "v": "804926_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "C'est bon, tu as le vert. ",
+      "t": "A",
+      "v": "804925_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui serait le plus à l’aise dans les bois ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle plaque de rue es-tu ? ",
+      "t": "A",
+      "v": "804918_1",
+      "n": "Prompt"
+    }
+  ]
+}

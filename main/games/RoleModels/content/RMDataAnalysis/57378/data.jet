@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quel piège maison prépareriez-vous pour deux cambrioleurs maladroits ? ",
+      "t": "A",
+      "v": "829374_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est la meilleure chanson sur laquelle s’entraîner ? ",
+      "t": "A",
+      "v": "831798_1",
+      "n": "Prompt"
+    }
+  ]
+}

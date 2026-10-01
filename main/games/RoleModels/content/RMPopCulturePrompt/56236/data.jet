@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "S’il y avait quelque chose d’étrange dans votre quartier, qui appelleriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous aviez une machine à remonter le temps, où et quand iriez-vous ? ",
+      "t": "A",
+      "v": "810492_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui peut le mieux chanter la chanson thème d’Oscar Meyer ? ",
+      "t": "A",
+      "v": "810495_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle leçon d’école pourrait être améliorée en se téléportant à l’intérieur ? ",
+      "t": "A",
+      "v": "810494_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Chantez n'importe quelle chanson de <i>Cendrillon</i> ",
+      "t": "A",
+      "v": "810496_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelle nouvelle voiture alimentaire créeriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Que transformeriez-vous comme par magie en quelque chose d’autre pour épater les gens ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui a le plus probablement un alter ego ? ",
+      "t": "A",
+      "v": "810491_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel véhicule célèbre correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "804068_1",
+      "n": "Prompt"
+    }
+  ]
+}

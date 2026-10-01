@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Je vous laisse donc partir si vous parvenez à identifier laquelle de ces émissions est une série originale de Hulu ! ",
+      "t": "A",
+      "v": "798226_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]We’ve seen the killer’s bank account, we know they can’t afford streaming services....",
+      "t": "A",
+      "v": "798233_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[<i>La Couronne</i>] [<i>La tique</i>] [<i>L'OA</i>] [<i>Le conte de la servante</i>] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

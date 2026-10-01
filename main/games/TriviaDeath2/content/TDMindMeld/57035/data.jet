@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "le titre de l'un des sept premiers films <i>Fast and the Furious</i> ",
+      "n": "PromptText"
+    },
+    {
+      "s": "le titre de l'un des sept premiers films <i>Fast and the Furious</i> ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

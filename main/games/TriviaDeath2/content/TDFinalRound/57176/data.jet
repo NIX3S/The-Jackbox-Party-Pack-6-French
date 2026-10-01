@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Exercices d'entraînement dans les films <i>Rocky</i> ",
+      "t": "A",
+      "v": "823122_1",
+      "n": "Q"
+    }
+  ]
+}

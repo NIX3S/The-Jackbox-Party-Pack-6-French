@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ooo lala. ",
+      "t": "A",
+      "v": "809166_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Mode bête. ",
+      "t": "A",
+      "v": "809165_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "À qui pouvez-vous faire confiance pour faire réellement ce que vous leur avez demandé de faire ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui a mangé du Taco Bell le plus récemment ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Hé, fantaisie, qu'est-ce que tu vas t'offrir plus tard ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Hé grincheux, quelle est ta plus grande bête noire ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous avez gagné par un nez. ",
+      "t": "A",
+      "v": "809164_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est le conducteur le plus rapide ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Hourra! ",
+      "t": "A",
+      "v": "809163_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Vous êtes peut-être dur à l’extérieur, mais qu’est-ce qui vous rend doux et pâteux ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Harumph. ",
+      "t": "A",
+      "v": "809162_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Qui est un bon garçon ? ",
+      "t": "A",
+      "v": "809161_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "S'il vous plaît, essayez d'aboyer avec un accent français. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle race de chien es-tu ? ",
+      "t": "A",
+      "v": "809154_1",
+      "n": "Prompt"
+    }
+  ]
+}

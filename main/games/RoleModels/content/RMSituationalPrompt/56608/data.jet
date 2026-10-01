@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Mais ça te va bien. ",
+      "t": "A",
+      "v": "810181_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'est le titre de mon profil de rencontre ",
+      "t": "A",
+      "v": "810180_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui serait le meilleur pour allumer un incendie, mais en faisant passer cela pour un accident. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "À votre avis, que fait votre frère jumeau secret en ce moment ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Expliquez la dernière fois que vous avez gâché quelque chose qui était parfaitement sympa. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C'est pourquoi on ne se moque jamais des protecteurs de poche ",
+      "t": "A",
+      "v": "810179_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est la pire chose à faire rétrécir accidentellement. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "D'où ça vient ? ",
+      "t": "A",
+      "v": "810178_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Faites-vous aussi petit que possible. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "AKA un nombril ",
+      "t": "A",
+      "v": "810177_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Cha-Ching ! ",
+      "t": "A",
+      "v": "810176_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle serait la pire chose à réaliser lorsqu’il manque une vis ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Faites votre meilleure impression de monnaie rebondissant autour de la sécheuse. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Parmi ces objets trouvés dans le sèche-linge, lequel êtes-vous ? ",
+      "t": "A",
+      "v": "810169_1",
+      "n": "Prompt"
+    }
+  ]
+}

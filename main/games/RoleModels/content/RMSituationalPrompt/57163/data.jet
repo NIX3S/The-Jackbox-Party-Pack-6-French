@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Prenez une orange, ou cinq. ",
+      "t": "A",
+      "v": "822413_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous grattez le sol, mais bravo. ",
+      "t": "A",
+      "v": "822412_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel est votre nom intimidant de pirate centré sur le crochet ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Alors tout le monde se demande : comment en êtes-vous arrivé à porter un cache-œil ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui passerait le plus de temps à poncer, teindre et vernir son pied de cheville ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle chose agaçante votre perroquet ne cesse-t-il de répéter en public ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tu es comme le diable sur mon épaule. ",
+      "t": "A",
+      "v": "822411_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui consomme le moins de fruits frais ?",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Sérieusement, les mains sont surfaites. ",
+      "t": "A",
+      "v": "822410_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Il ne faut pas grand-chose pour accessoiriser. ",
+      "t": "A",
+      "v": "822409_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Je te vois ! ",
+      "t": "A",
+      "v": "822408_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Sur quelle partie de votre visage/corps porteriez-vous votre seule boucle d'oreille en or ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel accessoire de pirate porteriez-vous au quotidien ? ",
+      "t": "A",
+      "v": "822401_1",
+      "n": "Prompt"
+    }
+  ]
+}

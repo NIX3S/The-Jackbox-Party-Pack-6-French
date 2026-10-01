@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous étiez dans <i>The Bachelor</i> ou <i>The Bachelorette</i>, quel serait votre plan pour vous démarquer ? ",
+      "t": "A",
+      "v": "829868_1",
+      "n": "Prompt"
+    }
+  ]
+}

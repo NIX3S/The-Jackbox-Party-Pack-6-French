@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "La bonne nouvelle est que vous n’avez pas eu à attendre longtemps. ",
+      "t": "A",
+      "v": "803900_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Chucky, je pense que tu as besoin d'un temps mort. ",
+      "t": "A",
+      "v": "803899_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Incarnez un extraterrestre sortant de votre poitrine. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel est le pire cauchemar que vous ayez jamais fait ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel serait le pire jouet pour prendre vie et tenter de vous tuer ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui serait le plus beau avec des dreadlocks ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui a la collection de pulls la plus moche ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Excusez-moi, vous avez un peu de bave sur le menton. ",
+      "t": "A",
+      "v": "803897_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Excusez-moi, vous avez un peu de bave sur le menton. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Qui fait tes ongles ?! ",
+      "t": "A",
+      "v": "803896_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Derrière ce masque se cache une horrible personne qui attend de sortir ! ",
+      "t": "A",
+      "v": "803895_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est le plus proche de sa mère ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel personnage de film d’horreur correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "803888_1",
+      "n": "Prompt"
+    }
+  ]
+}

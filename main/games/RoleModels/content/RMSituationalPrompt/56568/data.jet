@@ -1,0 +1,173 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Avec votre meilleure voix de capitaine, veuillez décrire ce que tout le monde verrait s’il regardait par la fenêtre. ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Pourriez-vous passer sous votre siège, s'il vous plaît ? ",
+      "t": "A",
+      "v": "809396_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Cela pourrait aller dans les deux sens.",
+      "t": "A",
+      "v": "809395_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui n’a JAMAIS tort ? ",
+      "t": "A",
+      "v": "809398_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "En tant que membre de première classe, pourquoi êtes-vous meilleur que tout le monde ici ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Oh mon garçon. ",
+      "t": "A",
+      "v": "809394_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel est le livre que vous emporterez avec vous mais que vous n’aurez jamais lu ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous avez mérité ça. ",
+      "t": "A",
+      "v": "809393_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qu’est-ce qui vous fait toujours pleurer, peu importe où vous êtes ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Des bretzels s'il vous plaît. ",
+      "t": "A",
+      "v": "809392_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quel est l’avantage de voyager gratuitement autour du monde ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Roger. ",
+      "t": "A",
+      "v": "809391_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle est la chose sur laquelle vous vous êtes trompé et sur laquelle vous avez refusé de reculer ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Indiquez toutes les sorties dans la pièce. ",
+      "t": "A",
+      "v": "809397_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Qui es-tu dans cet avion ? ",
+      "t": "A",
+      "v": "809384_1",
+      "n": "Prompt"
+    }
+  ]
+}

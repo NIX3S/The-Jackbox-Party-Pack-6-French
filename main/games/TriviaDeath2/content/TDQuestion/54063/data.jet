@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Le plasma qui entoure le soleil est connu sous le nom de... quoi ? ",
+      "t": "A",
+      "v": "770210_1",
+      "n": "Q"
+    },
+    {
+      "s": "Let’s get lit y’all!",
+      "t": "A",
+      "v": "770217_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Lune bleue] [Stella Artois] [Skol] [Corona] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

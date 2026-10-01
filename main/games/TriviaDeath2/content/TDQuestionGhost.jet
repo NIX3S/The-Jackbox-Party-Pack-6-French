@@ -1,0 +1,33 @@
+{
+    "episodeid": 1396,
+    "content": [
+        {
+            "hasOutro": false,
+            "x": false,
+            "id": 55866,
+            "text": "[EventName=HOST/AltHost]Donnez-vous 50 $ de vos gains de jeu au fonds « exorcisme » ?",
+            "pic": false,
+            "choices": [
+                {
+                    "controllerClass": "",
+                    "correct": true,
+                    "text": "Oui. Faites un don de 50 $. C'est la bonne chose à faire."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Non."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Certainement pas."
+                },
+                {
+                    "controllerClass": "",
+                    "text": "Laissez-moi réfléchir. Hmm... non."
+                }
+            ],
+            "us": false,
+            "hasIntro": false
+        }
+    ]
+}

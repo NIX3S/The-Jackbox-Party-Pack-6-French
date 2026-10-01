@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Votre famille a un débat très animé au dîner. Comment désamorcer les tensions ? ",
+      "t": "A",
+      "v": "830050_1",
+      "n": "Prompt"
+    }
+  ]
+}

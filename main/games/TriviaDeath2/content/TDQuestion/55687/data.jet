@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Si j'essaie d'endormir mes captifs en utilisant la méthode Ferber, que dois-je faire ? ",
+      "t": "A",
+      "v": "793653_1",
+      "n": "Q"
+    },
+    {
+      "s": "Ugh, I am so behind on sleep. Some of my captives keep getting upset in the middle of the night. It’s exhausting.",
+      "t": "A",
+      "v": "793660_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Laissez-les simplement crier.] [Restez avec eux la première nuit et rapprochez-vous de la sortie chaque nuit par la suite.] [Entrez, rassurez-les et partez. Finalement, arrêtez d'entrer.] [Conduisez-les en ville jusqu'à ce qu'ils s'endorment dans leur siège d'auto.] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

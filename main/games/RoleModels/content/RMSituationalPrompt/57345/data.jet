@@ -1,0 +1,145 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "clin d'oeil ",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "mère nature le veut ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui partagerait constamment l’histoire de la fois où ils ont fait caca dans leur pantalon ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel endroit a vraiment besoin de toilettes plus pratiques ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui n’aurait aucun problème à continuer sa journée après avoir fait caca dans son pantalon ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus facilement effrayé ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "comme la file d'attente pour la salle de bain ? ",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Researching your novel?",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est un meilleur terme pour « faire caca » ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Une agitation et un flux incontrôlable ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Sloppy Joes coupe comme un couteau ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle a été la chose la plus « risquée » que vous ayez jamais mangée ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Laquelle de ces explications serait la plus susceptible d'être la raison pour laquelle vous auriez hypothétiquement chié dans votre pantalon ? ",
+      "t": "A",
+      "v": "828164_1",
+      "n": "Prompt"
+    }
+  ]
+}

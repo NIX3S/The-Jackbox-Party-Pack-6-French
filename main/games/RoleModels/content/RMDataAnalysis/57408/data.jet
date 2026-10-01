@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Tes amis sont chargés de préparer un bal au lycée, quel métier prends-tu ? ",
+      "t": "A",
+      "v": "830154_1",
+      "n": "Prompt"
+    }
+  ]
+}

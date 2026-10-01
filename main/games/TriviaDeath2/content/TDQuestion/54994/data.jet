@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Pourquoi est-ce que je paie mon horloger ? ",
+      "t": "A",
+      "v": "779569_3",
+      "n": "Q"
+    },
+    {
+      "s": "If I’m going to make this hotel thing work I need to keep better track of my spending.",
+      "t": "A",
+      "v": "779576_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[pour entretenir mon jardin d'herbes aromatiques] [pour me maquiller] [pour réparer ma montre] [pour nourrir mon serpent] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

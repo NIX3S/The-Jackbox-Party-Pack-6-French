@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Comment caractériseriez-vous l'architecture rococo ? ",
+      "t": "A",
+      "v": "797323_2",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]The one things we know for sure about the killer is they know NOTHING about 18th century European architecture. So tell me...",
+      "t": "A",
+      "v": "797330_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[toits à poutres martelées dans d'immenses salles] [ornementation substantielle et très élaborée] [colonnes autoportantes néoclassiques] [accent mis sur les lignes épurées et la symétrie] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelles sont les trois choses essentielles pour passer un samedi soir parfait ? ",
+      "t": "A",
+      "v": "831304_1",
+      "n": "Prompt"
+    }
+  ]
+}

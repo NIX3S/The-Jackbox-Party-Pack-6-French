@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Profitez de ce rôle, à la maison. ",
+      "t": "A",
+      "v": "802425_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous êtes tous musclés. ",
+      "t": "A",
+      "v": "802424_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui n’hésiterait pas à enfreindre quelques lois gênantes pour avancer ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui inciterait quelqu’un à vider son compte bancaire ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le meilleur pour suivre les commandes ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui ferait la meilleure première impression en rencontrant maman et papa ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Une réalisation salutaire. ",
+      "t": "A",
+      "v": "802423_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Je n’oserais pas te contrarier. ",
+      "t": "A",
+      "v": "802422_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui donnerait des informations privilégiées au juste prix ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "J'ai su que tu avais des ennuis dès que je t'ai vu. ",
+      "t": "A",
+      "v": "802421_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "C'est une vraie plume dans votre fedora. ",
+      "t": "A",
+      "v": "802420_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Complétez cette phrase : « Quand elle est entrée dans mon bureau… » ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel rôle dans un film noir correspond à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "802413_1",
+      "n": "Prompt"
+    }
+  ]
+}

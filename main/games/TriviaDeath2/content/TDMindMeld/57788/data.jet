@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une des huit premières lettres de l'alphabet ",
+      "n": "PromptText"
+    },
+    {
+      "s": "une des huit premières lettres de l'alphabet ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

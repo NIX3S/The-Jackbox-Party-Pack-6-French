@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous avez été poussé sur scène pour faire du stand-up à micro ouvert. Vous n'avez rien de préparé. Comment commencer ? ",
+      "t": "A",
+      "v": "833842_1",
+      "n": "Prompt"
+    }
+  ]
+}

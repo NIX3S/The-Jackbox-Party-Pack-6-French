@@ -1,0 +1,188 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Aww ",
+      "t": "A",
+      "v": "809433_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "La gravité souffle. ",
+      "t": "A",
+      "v": "809432_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la meilleure nourriture pour s’endormir ? ",
+      "t": "A",
+      "v": "809436_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui a eu des ennuis pour avoir dit les choses telles qu’elles sont ? ",
+      "t": "A",
+      "v": "809435_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Vous êtes le nouveau porte-parole du Roomba. Sur quoi dépensez-vous votre argent ? ",
+      "t": "A",
+      "v": "818255_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a porté un vêtement à l’envers pendant une journée entière ? ",
+      "t": "A",
+      "v": "818254_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Oh non, tu ne l'as pas fait. ",
+      "t": "A",
+      "v": "809431_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Oh non, tu ne l'as pas fait. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Quel chat cool. ",
+      "t": "A",
+      "v": "809430_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Que criez-vous en descendant du toit ? ",
+      "t": "A",
+      "v": "818256_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Oui chihuahua. ",
+      "t": "A",
+      "v": "809429_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Cela laissera une marque. ",
+      "t": "A",
+      "v": "809428_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Faites l'impression d'un chien coincé dans un pull qui a aussi quelque chose qui brûle dans le four. ",
+      "t": "A",
+      "v": "818258_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Faites le bruit que vous feriez après avoir été frappé à l’entrejambe. ",
+      "t": "A",
+      "v": "809434_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle vidéo drôle classique correspond à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "809421_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Vous êtes un chat sur un Roomba : où souhaiteriez-vous que ce petit robot vous emmène ? ",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

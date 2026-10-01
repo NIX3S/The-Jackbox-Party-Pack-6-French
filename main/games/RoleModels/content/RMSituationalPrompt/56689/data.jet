@@ -1,0 +1,101 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "s": "Miam miam miam.",
+      "t": "A",
+      "v": "812300_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous n’avez pas besoin d’ordonnance pour cela.",
+      "t": "A",
+      "v": "812299_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Faites de votre mieux la voix de « petite fille possédée par le diable ». ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Pourquoi tu es autant nul ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle pratique médicale dépassée êtes-vous ? ",
+      "t": "A",
+      "v": "812288_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Ce n’est pas une chirurgie cérébrale. Attendez. ",
+      "t": "A",
+      "v": "812298_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Ça descend en douceur. ",
+      "t": "A",
+      "v": "812297_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "J'essaie d'exorciser pendant 20 minutes chaque jour. ",
+      "t": "A",
+      "v": "812296_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Merci d'avoir sucé. ",
+      "t": "A",
+      "v": "812295_1",
+      "n": "RevealJoke0"
+    }
+  ]
+}

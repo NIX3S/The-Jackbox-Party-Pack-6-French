@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une pièce d'échecs ",
+      "n": "PromptText"
+    },
+    {
+      "s": "une pièce d'échecs ",
+      "t": "A",
+      "v": "799458_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

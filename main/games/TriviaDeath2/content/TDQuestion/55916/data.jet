@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Quel artiste avait un penchant pour peindre des nénuphars ? ",
+      "t": "A",
+      "v": "798186_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to my research, the killer never finished their art history degree.... so tell me... “innocent bystander”...",
+      "t": "A",
+      "v": "798193_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Pablo Picasso] [Frida Kahlo] [Claude Monet] [Grand-mère Moïse] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

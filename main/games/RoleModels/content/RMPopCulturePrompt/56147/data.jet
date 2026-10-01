@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous avez été touché par un ange léopard. ",
+      "t": "A",
+      "v": "802694_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "AbRAWRcadabra ! ",
+      "t": "A",
+      "v": "802693_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui fait toute une histoire à propos de son anniversaire ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "À qui feriez-vous le plus confiance pour vous donner des conseils ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Lequel de vos tours de magie le public aime-t-il le plus ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui publie sur les réseaux sociaux à propos de chaque moment de sa journée ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Je m'intéresse à quelque chose ici. ",
+      "t": "A",
+      "v": "802692_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Dites « Ta da ! » comme un ours. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Dites « Ta da ! » comme un ours. ",
+      "t": "A",
+      "v": "802691_0",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui décririez-vous comme « envoyé du ciel » ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Oh, votre majesté. ",
+      "t": "A",
+      "v": "802690_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Espèce d'adorable coquin. ",
+      "t": "A",
+      "v": "802689_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Faites un bruit comme une baleine qui saute enfin par-dessus un arc-en-ciel après trois efforts infructueux. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle est la façon la plus adorable de demander un cupcake supplémentaire ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel modèle de Lisa Frank êtes chacun d'entre vous ? ",
+      "t": "A",
+      "v": "802682_2",
+      "n": "Prompt"
+    }
+  ]
+}

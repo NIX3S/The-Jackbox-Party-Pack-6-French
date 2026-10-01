@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quelle est la planète la plus chaude de notre système solaire ? ",
+      "t": "A",
+      "v": "770340_1",
+      "n": "Q"
+    },
+    {
+      "s": "Oh my god! This is such a fun sleepover! Let’s rate some heavenly bodies!",
+      "t": "A",
+      "v": "770347_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Jupiter] [Mercure] [Saturne] [Vénus] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

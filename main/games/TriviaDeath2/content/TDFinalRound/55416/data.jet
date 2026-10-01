@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Langages de programmation ",
+      "t": "A",
+      "v": "789283_1",
+      "n": "Q"
+    }
+  ]
+}

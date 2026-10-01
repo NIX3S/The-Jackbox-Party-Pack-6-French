@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Marques de yaourt ",
+      "t": "A",
+      "v": "791075_1",
+      "n": "Q"
+    }
+  ]
+}

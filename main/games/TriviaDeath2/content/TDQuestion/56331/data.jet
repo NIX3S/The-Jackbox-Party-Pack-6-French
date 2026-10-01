@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Sur <i>Rotten Tomatoes</i>, quel est le pourcentage le plus élevé qu'un film peut obtenir tout en étant considéré comme « pourri » ? ",
+      "t": "A",
+      "v": "805781_1",
+      "n": "Q"
+    },
+    {
+      "s": "Don’t you just love the smell of rot?  Speaking of...",
+      "t": "A",
+      "v": "805788_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[60%] [59%] [55%] [54%] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "De bas en haut ",
+      "t": "A",
+      "v": "814231_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je fais! ",
+      "t": "A",
+      "v": "814230_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la plus grande exportation de votre planète extraterrestre ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qu'est-ce qui n'a PAS été écrit dans le Charlotte's Web, mais qui aurait dû l'être ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel goût avait le breuvage de la sorcière ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qu’avez-vous inventé qui vous a rendu si riche ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Psssh... goodie deux chaussures ",
+      "t": "A",
+      "v": "814229_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Un bébé serpent très mortel se trouve sur le perron de votre maison. C’est mortel mais aussi un bébé. Que fais-tu? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Cha-ching ",
+      "t": "A",
+      "v": "814228_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui porte le plus de bijoux ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Emmène-moi à ton orphelinat. ",
+      "t": "A",
+      "v": "814227_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelque chose picote ",
+      "t": "A",
+      "v": "814226_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment chacun d’entre vous obtiendrait-il des super pouvoirs ? ",
+      "t": "A",
+      "v": "814219_1",
+      "n": "Prompt"
+    }
+  ]
+}

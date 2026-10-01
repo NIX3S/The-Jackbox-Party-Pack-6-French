@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Laquelle de ces vieilles conneries mes invités peuvent-ils utiliser pour faire du café ? ",
+      "t": "A",
+      "v": "788934_2",
+      "n": "Q"
+    },
+    {
+      "s": "My alleged cousin Aloysius left a bunch of old crap in a steamer trunk the last time he was here.",
+      "t": "A",
+      "v": "788941_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[scintillateur] [thermorégulateur] [granulateur] [percolateur] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

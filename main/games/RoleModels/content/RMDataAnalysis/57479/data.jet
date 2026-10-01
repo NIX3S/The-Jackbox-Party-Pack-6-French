@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est la vengeance parfaite ? ",
+      "t": "A",
+      "v": "831596_1",
+      "n": "Prompt"
+    }
+  ]
+}

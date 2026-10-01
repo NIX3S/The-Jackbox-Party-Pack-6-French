@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'une des six plus grandes chaînes de restauration rapide aux États-Unis<br>(en fonction du nombre d'établissements) ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l'une des six plus grandes chaînes de restauration rapide aux États-Unis en termes de nombre d'emplacements ",
+      "t": "A",
+      "v": "799212_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

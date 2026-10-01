@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est la première chose que vous recherchez lorsque vous achetez une nouvelle voiture ? ",
+      "t": "A",
+      "v": "831368_1",
+      "n": "Prompt"
+    }
+  ]
+}

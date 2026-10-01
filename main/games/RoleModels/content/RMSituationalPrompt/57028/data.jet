@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Pouvez-vous retirer notre balle du toit ? ",
+      "t": "A",
+      "v": "819488_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Félicitations pour votre prochain documentaire Netflix ",
+      "t": "A",
+      "v": "819487_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Il est temps de se détendre un peu... qui peut émettre des sons apaisants de l'océan ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui met probablement une couronne quand il a besoin de venir me chercher ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui pourriez-vous voir se lancer également dans le CrossFit ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Que laisseriez-vous comme menace dans le lit de quelqu’un ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Mais tu ne l'as pas entendu de moi ",
+      "t": "A",
+      "v": "819486_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Hé, tu joues au basket ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Euh... Joke Boat a utilisé tous les jeux de mots sur la mer. ",
+      "t": "A",
+      "v": "819485_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Où que tu sois assis se trouve un trône ",
+      "t": "A",
+      "v": "819484_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Terminez la comptine «Ciel rouge la nuit…» ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Une majorité démocrate a trouvé cela vrai ",
+      "t": "A",
+      "v": "819483_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel joueur est le plus grand ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel est votre slogan de campagne ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel type de leader êtes-vous ? ",
+      "t": "A",
+      "v": "819476_1",
+      "n": "Prompt"
+    }
+  ]
+}

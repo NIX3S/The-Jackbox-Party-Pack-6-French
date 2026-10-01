@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'un des dix premiers présidents américains ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l'un des dix premiers présidents américains ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

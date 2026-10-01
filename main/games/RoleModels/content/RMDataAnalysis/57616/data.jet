@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Sur le chemin d'un rendez-vous à l'aveugle, vous rencontrez votre ancienne flamme. Ils vous demandent si vous êtes libre pour un café maintenant. Comment le gérez-vous ? ",
+      "t": "A",
+      "v": "833550_1",
+      "n": "Prompt"
+    }
+  ]
+}

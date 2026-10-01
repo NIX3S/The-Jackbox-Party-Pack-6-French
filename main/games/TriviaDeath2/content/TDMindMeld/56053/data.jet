@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'une des cinq lettres de tuile <i>Scrabble</i> les plus élevées ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l'une des cinq lettres de tuiles de Scrabble les plus élevées ",
+      "t": "A",
+      "v": "800795_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

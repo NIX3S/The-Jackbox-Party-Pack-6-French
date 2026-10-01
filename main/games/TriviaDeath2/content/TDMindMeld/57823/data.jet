@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un membre de la Communauté de l'Anneau du <i>Le Seigneur des Anneaux</i>",
+      "n": "PromptText"
+    },
+    {
+      "s": "un membre de la Communauté de l'Anneau du <i>Le Seigneur des Anneaux</i>",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

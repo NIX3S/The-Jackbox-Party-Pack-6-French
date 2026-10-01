@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous viviez à Westeros, comment appelleriez-vous votre épée ? ",
+      "t": "A",
+      "v": "829335_1",
+      "n": "Prompt"
+    }
+  ]
+}

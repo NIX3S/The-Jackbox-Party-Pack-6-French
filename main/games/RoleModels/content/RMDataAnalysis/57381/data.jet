@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est la collation de fête parfaite ? ",
+      "t": "A",
+      "v": "829452_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes le gardien d’un hôtel hanté. Vous êtes enneigé. Comment passez-vous votre temps ? ",
+      "t": "A",
+      "v": "830632_1",
+      "n": "Prompt"
+    }
+  ]
+}

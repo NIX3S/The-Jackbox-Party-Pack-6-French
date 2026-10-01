@@ -1,0 +1,147 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Jouez à ce sujet de test ! ",
+      "t": "A",
+      "v": "809814_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Do not let this test subject babysit!",
+      "t": "A",
+      "v": "809813_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la meilleure activité les jours de pluie ? ",
+      "t": "A",
+      "v": "809823_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui déteste le plus les lundis ? ",
+      "t": "A",
+      "v": "809822_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Donnez votre salut le plus amical ! ",
+      "t": "A",
+      "v": "818847_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Imaginez ces joueurs entourés de texte... Qui ferait le meilleur mème ? ",
+      "t": "A",
+      "v": "818846_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Salut! ",
+      "t": "A",
+      "v": "809812_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Je suis sûr que c'est juste pour reposer le visage d'un chat ",
+      "t": "A",
+      "v": "809811_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui serait le meilleur pour faire semblant de jouer d'un instrument de musique ",
+      "t": "A",
+      "v": "818848_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Tu n'es qu'une énigme sans réponse ",
+      "t": "A",
+      "v": "809810_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Vous êtes tellement commercialisable ! ",
+      "t": "A",
+      "v": "809809_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Vous êtes tellement commercialisable ! ",
+      "t": "A",
+      "v": "809821_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel chat célèbre es-tu ? ",
+      "t": "A",
+      "v": "809802_1",
+      "n": "Prompt"
+    }
+  ]
+}

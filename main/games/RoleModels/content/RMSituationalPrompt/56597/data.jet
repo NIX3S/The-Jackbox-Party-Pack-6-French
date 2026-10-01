@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "C'est un super pouvoir ",
+      "t": "A",
+      "v": "809936_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Aucun rôle ne peut vous contenir ",
+      "t": "A",
+      "v": "809935_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui est le plus grand maniaque du contrôle ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Choisissez quelqu’un dans la pièce et écrivez ce qu’il pense en ce moment. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a le visage le plus extensible... allez-y ! ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui pourrait probablement vous convaincre de faire quelque chose de stupide et de dangereux ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Il y a des aspects positifs et négatifs dans ce rôle ",
+      "t": "A",
+      "v": "809934_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Faites pleuvoir ! ",
+      "t": "A",
+      "v": "809933_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui peut faire la meilleure impression de Frasier Crane ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Mais tu le savais ",
+      "t": "A",
+      "v": "809932_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Tu es le meilleur dans ce que tu fais ",
+      "t": "A",
+      "v": "809931_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Parlons de guérison émotionnelle... Quelle est la meilleure façon de surmonter une rupture ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel pouvoir mutant décrit le mieux votre personnalité ? ",
+      "t": "A",
+      "v": "809924_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Schwazenegger/Devito 2020 ",
+      "t": "A",
+      "v": "813199_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Pourquoi boitait-il aussi ? ",
+      "t": "A",
+      "v": "813198_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous deviez choisir, quelle personne célèbre auriez-vous le plus envie de manger ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Décrivez votre vie après la mort idéale. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a des idées étonnamment bonnes ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Jouez la scène où vous réalisez que ce paysage infernal extraterrestre est en réalité la Terre. ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Il n’y a pas d’endroit comme chez soi. ",
+      "t": "A",
+      "v": "813197_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui aime la musique hold ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vérifiez, s'il vous plaît. ",
+      "t": "A",
+      "v": "813196_2",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Je suis un peu perdu. ",
+      "t": "A",
+      "v": "813195_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quel est le pire endroit sur Terre ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "J'ai eu un pressentiment à ce sujet. ",
+      "t": "A",
+      "v": "813194_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est votre jumeau célèbre ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle est la manière la plus passive dont vous pourriez mourir sans même vous en rendre compte ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle fin de twist es-tu ? ",
+      "t": "A",
+      "v": "813187_1",
+      "n": "Prompt"
+    }
+  ]
+}

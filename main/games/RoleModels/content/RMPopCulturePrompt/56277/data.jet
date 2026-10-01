@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Cela ne nécessite aucune autre explication. ",
+      "t": "A",
+      "v": "804910_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tu veux acheter un Orange Julius au centre commercial plus tard ? ",
+      "t": "A",
+      "v": "804909_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Sur qui pouviez-vous voir parler de qui dans les tabloïds ? ",
+      "t": "A",
+      "v": "821536_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qu’espérez-vous secrètement faire « un jour » ? ",
+      "t": "A",
+      "v": "821535_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a probablement le secret le plus sale ? ",
+      "t": "A",
+      "v": "821538_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Si un chat pouvait soudainement utiliser des mots humains, quelle serait la première chose qu’il dirait ? ",
+      "t": "A",
+      "v": "821537_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous savez ce que vous avez fait. ",
+      "t": "A",
+      "v": "804908_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Miaou comme un chat en crise existentielle. ",
+      "t": "A",
+      "v": "821540_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Miaou comme un chat en crise existentielle. ",
+      "t": "A",
+      "v": "804907_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Sur quoi as-tu dépensé tout l'argent de tes <i>amis</i>, Jennifer ? ",
+      "t": "A",
+      "v": "821539_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Vous avez un super Pa-pa-pa-pa-pa-pa-pokerface. ",
+      "t": "A",
+      "v": "804906_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Je suis un Be-lieber. ",
+      "t": "A",
+      "v": "804905_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Vous êtes très, très célèbre, mais pour quoi ? ",
+      "t": "A",
+      "v": "821541_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui a probablement fait pipi sur une clôture électrique quand il était enfant ? ",
+      "t": "A",
+      "v": "821534_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel parfum de célébrité êtes-vous ? ",
+      "t": "A",
+      "v": "804898_1",
+      "n": "Prompt"
+    }
+  ]
+}

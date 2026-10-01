@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'un des cinq Grands Lacs d'Amérique du Nord ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l'un des cinq Grands Lacs d'Amérique du Nord ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

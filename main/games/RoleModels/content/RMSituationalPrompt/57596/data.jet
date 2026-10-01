@@ -1,0 +1,155 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "L'honnêteté est la meilleure politique ",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "mais je ne peux pas non plus venir vendredi prochain, désolé.\nOR\nL'amnésie sociale est réelle ! ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qu’est-ce qu’une bonne maladie inventée pour sortir des projets ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui peut faire le faux éternuement le plus convaincant ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est le nom de votre chien très nécessiteux ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est le meilleur son d’alarme pour se réveiller ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "it won’t stop texting!",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est à quelques secondes d’exprimer sa haine envers tout le monde dans ce jeu ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Besoin de passer 8 à 12 heures ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quels sont vos projets pour vendredi ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Être un flocon est contagieux ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Comme c'est généreux ! ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui a le week-end le plus chargé à venir ?",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle excuse pour échouer dans vos projets correspond le mieux à chacun d’entre vous ?",
+      "t": "A",
+      "v": "833267_1",
+      "n": "Prompt"
+    }
+  ]
+}

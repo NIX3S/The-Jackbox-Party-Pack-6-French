@@ -1,0 +1,158 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "You’re a beast!!!",
+      "t": "A",
+      "v": "803688_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Le père assassin d'Arya ",
+      "t": "A",
+      "v": "803687_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui ne veut PAS être aux commandes… genre, n’en veut vraiment pas ? ",
+      "t": "A",
+      "v": "810794_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Écoutons vos « Dracarys » les plus féroces ! ",
+      "t": "A",
+      "v": "810793_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "À l’aide d’un stylo ou d’un crayon, montrez-nous votre plus beau coup de couteau ! ",
+      "t": "A",
+      "v": "810796_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Terminez cette phrase : « C’est ce que je fais, je bois et je… » ",
+      "t": "A",
+      "v": "810795_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Surveillez sa main gauche, les amis ! ",
+      "t": "A",
+      "v": "803686_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Tu as besoin de plus d'amour, tout comme le très bon garçon Ghost ",
+      "t": "A",
+      "v": "817722_0",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ironiquement, vous ne voulez probablement pas ce rôle. ",
+      "t": "A",
+      "v": "803685_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Hé... je suis sûr que tu avais tes raisons. ",
+      "t": "A",
+      "v": "803684_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Hé... je suis sûr que tu avais tes raisons. ",
+      "t": "A",
+      "v": "803683_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Si un incendie se déclarait soudainement, qui serait le plus paniqué ? ",
+      "t": "A",
+      "v": "817723_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Comme « Mère des dragons, briseuse de chaînes », quels titres pourriez-vous attacher à votre nom ? ",
+      "t": "A",
+      "v": "810792_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel personnage de <i>Game of Thrones</i> vous correspond le mieux ? ",
+      "t": "A",
+      "v": "803676_1",
+      "n": "Prompt"
+    }
+  ]
+}

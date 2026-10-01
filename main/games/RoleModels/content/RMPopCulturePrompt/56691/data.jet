@@ -1,0 +1,168 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Euh, quoi ? ",
+      "t": "A",
+      "v": "812368_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Farrfagoorglem. ",
+      "t": "A",
+      "v": "812367_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la garniture de crêpe la plus sexy ? ",
+      "t": "A",
+      "v": "812371_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Comme un vrai Dampfnudel, partagez quelque chose de triste avec le groupe qui gâchera le moment de plaisir de tout le monde. ",
+      "t": "A",
+      "v": "812370_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui serait probablement heureux de vivre dans une maison faite de pain ? ",
+      "t": "A",
+      "v": "818107_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel élément autre qu'une tarte mettriez-vous dans une tarte ? ",
+      "t": "A",
+      "v": "818106_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tout le monde en a besoin. ",
+      "t": "A",
+      "v": "812366_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Criez Dampfnudel comme si c'était un gros mot. ",
+      "t": "A",
+      "v": "818109_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ooo la la. ",
+      "t": "A",
+      "v": "812365_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Ooo la la. ",
+      "t": "A",
+      "v": "818108_2",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Trop chaud ! ",
+      "t": "A",
+      "v": "812364_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Arrêtez de monopoliser les rôles. ",
+      "t": "A",
+      "v": "812363_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui cache à l’intérieur la colère la plus brûlante ? ",
+      "t": "A",
+      "v": "812369_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle recette de <i>The Great British Bake Off</i> êtes-vous ? ",
+      "t": "A",
+      "v": "812356_1",
+      "n": "Prompt"
+    }
+  ]
+}

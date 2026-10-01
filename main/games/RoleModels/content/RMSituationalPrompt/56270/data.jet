@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "J’ai soudain très froid. ",
+      "t": "A",
+      "v": "804770_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Dites-moi simplement lequel de mes béguins m'aime bien ! ",
+      "t": "A",
+      "v": "804769_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Vous devez peindre quelque chose sur votre club house... Comment s'appellerait votre équipe fantomatique de résolution de crimes ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel serait le nom de votre émission de téléréalité fantôme ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "C'est maintenant votre chance de donner des noms... À votre avis, qui vous a tué ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Pas de jugement, mais... Qui est le plus susceptible d'avoir une collection de poupées effrayantes ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C'est la sixième étape du deuil. ",
+      "t": "A",
+      "v": "804768_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "J'apprécie de passer du temps dans tous les Bed & Breakfast où je suis allé. ",
+      "t": "A",
+      "v": "804767_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la chose la plus effrayante qu’une planche Ouija puisse épeler ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Maudits soient ces enfants qui se mêlent des choses ! ",
+      "t": "A",
+      "v": "804766_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Effrayant ET ennuyeux ! ",
+      "t": "A",
+      "v": "804765_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui aurait l'air le mieux de flotter dans une longue chemise de nuit fluide ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui peut faire le meilleur gémissement lugubre ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment passeriez-vous votre temps en tant que fantôme ? ",
+      "t": "A",
+      "v": "804758_1",
+      "n": "Prompt"
+    }
+  ]
+}

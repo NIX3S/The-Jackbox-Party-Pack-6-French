@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Mmmm... des trucs marrons ? ",
+      "t": "A",
+      "v": "813801_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Honnêtement, tant mieux pour toi ",
+      "t": "A",
+      "v": "813800_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Une oie vole près de la fenêtre et vous murmure quelque chose. Qu'a dit l'oie ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la pire chose que vous pourriez commenter sur une photo de l’animal de compagnie de quelqu’un d’autre ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la plus belle nourriture ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Si vous possédiez un bateau, comment s'appellerait-il ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous avez attrapé un poisson. ",
+      "t": "A",
+      "v": "813799_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Pourquoi regarder une photo quand on peut en lire davantage ? ",
+      "t": "A",
+      "v": "813798_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est le déjeuner le plus triste que vous puissiez préparer ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Mais votre chien est-il au moins vérifié ? ",
+      "t": "A",
+      "v": "813797_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Le ciel est un nuage flou à travers un hublot. ",
+      "t": "A",
+      "v": "813796_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Créez votre propre citation inspirante. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle photo sur Instagram représente chacun d'entre vous ? ",
+      "t": "A",
+      "v": "813789_1",
+      "n": "Prompt"
+    }
+  ]
+}

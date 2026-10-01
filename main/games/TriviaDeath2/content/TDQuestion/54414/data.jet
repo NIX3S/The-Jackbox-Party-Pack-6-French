@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qui a écrit ma quadrilogie préférée sur l'amitié féminine à Naples, en Italie ? ",
+      "t": "A",
+      "v": "773720_1",
+      "n": "Q"
+    },
+    {
+      "s": "Sorry this one is super easy, but...",
+      "t": "A",
+      "v": "773727_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Ann Brashares] [Meg Cabot] [Judy Blume] [Elena Ferrante] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

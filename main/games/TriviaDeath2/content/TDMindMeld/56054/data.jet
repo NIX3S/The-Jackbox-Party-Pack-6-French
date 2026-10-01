@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un des prénoms de la famille <i>Les Simpsons</i> ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un des prénoms de la famille <i>Les Simpsons</i> ",
+      "t": "A",
+      "v": "800817_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

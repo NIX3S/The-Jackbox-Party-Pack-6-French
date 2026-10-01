@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Monstres qui ont combattu Godzilla ",
+      "t": "A",
+      "v": "782954_2",
+      "n": "Q"
+    }
+  ]
+}

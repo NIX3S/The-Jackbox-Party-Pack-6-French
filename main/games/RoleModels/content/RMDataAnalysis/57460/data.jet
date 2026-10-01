@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes embauché comme clown pour un anniversaire. Comment divertissez-vous les enfants ? ",
+      "t": "A",
+      "v": "831200_1",
+      "n": "Prompt"
+    }
+  ]
+}

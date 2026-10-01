@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Avec qui le prince Harry a-t-il épousé en 2018 ? ",
+      "t": "A",
+      "v": "774209_4",
+      "n": "Q"
+    },
+    {
+      "s": "Guh. I’m such a sucker for royal weddings!",
+      "t": "A",
+      "v": "774216_4",
+      "n": "Intro"
+    },
+    {
+      "s": "[Samantha Wheeler de <i>Suits</i>] [Jessica Pearson de <i>Suits</i>] [Donna Paulsen de <i>Suits</i>] [Rachel Zane de <i>Suits</i>] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

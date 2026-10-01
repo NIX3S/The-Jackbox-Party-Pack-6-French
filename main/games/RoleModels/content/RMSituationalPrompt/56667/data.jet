@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Tu fais toi ",
+      "t": "A",
+      "v": "811800_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Et nous vous remercions ",
+      "t": "A",
+      "v": "811799_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui n'écoute jamais ses parents ?",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui mettrait le plus de temps à essayer de retrouver sa voiture dans un parking ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui peut porter le plus de poids émotionnel ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Des trucs chauds arrivent ! ",
+      "t": "A",
+      "v": "811798_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Donnez votre cri d'oiseau le plus séduisant ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Votre séquence de victoires ne finira jamais ! ",
+      "t": "A",
+      "v": "811797_2",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui serait le plus beau dans une veste en plumes ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Un labyrinthe ! ",
+      "t": "A",
+      "v": "811796_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelle est la chose la plus effrayante à trouver dans un labyrinthe de maïs ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Une bonne façon d'avancer ! ",
+      "t": "A",
+      "v": "811795_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Que voleriez-vous d’autre aux dieux grecs ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui serait probablement le meilleur avec une épée ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel conte grec es-tu ? ",
+      "t": "A",
+      "v": "811788_1",
+      "n": "Prompt"
+    }
+  ]
+}

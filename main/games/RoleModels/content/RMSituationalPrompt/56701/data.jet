@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ah... des souvenirs ",
+      "t": "A",
+      "v": "812578_4",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'était toi tout le temps ! ",
+      "t": "A",
+      "v": "812577_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui organiserait une fête dans le dos de ses parents ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui ne remarque jamais quand les gens flirtent avec eux ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Pouvons-nous voir votre danse de touché ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Au buzzer ! ",
+      "t": "A",
+      "v": "812576_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Vous vous réinventez complètement, quel est votre nouveau nom ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "OMG tu es belle ",
+      "t": "A",
+      "v": "812575_2",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui cache le plus probablement des pouvoirs surnaturels ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "...mais ensuite tes parents rentrent tôt.... ",
+      "t": "A",
+      "v": "812574_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Au moins ils t'ont laissé sortir du casier ",
+      "t": "A",
+      "v": "812573_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qu'est-ce qu'une terrible mascotte pour une équipe de football de lycée ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui pourrait vous aider à tricher dans ce jeu ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle scène d'un film pour adolescents êtes-vous ? ",
+      "t": "A",
+      "v": "812566_1",
+      "n": "Prompt"
+    }
+  ]
+}

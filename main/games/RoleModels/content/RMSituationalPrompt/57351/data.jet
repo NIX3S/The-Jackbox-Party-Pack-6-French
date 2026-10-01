@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "30 à la fois, bébé ",
+      "t": "A",
+      "v": "828548_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "La vérité est là-bas ",
+      "t": "A",
+      "v": "828547_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui déteste le plus les bruits forts ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel message électronique imprimeriez-vous et encadreriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Il y a eu un meurtre ! Qui l'a probablement fait ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Combien de temps êtes-vous resté éveillé ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "L'histoire médiévale est LIT ",
+      "t": "A",
+      "v": "828546_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Google vous pousse à boire ",
+      "t": "A",
+      "v": "828545_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel DVD n'est jamais emprunté à la bibliothèque ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Chaque chaîne de lettres FWDed tue une forêt ",
+      "t": "A",
+      "v": "828544_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Nous vous félicitons pour votre transparence ",
+      "t": "A",
+      "v": "828543_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Proposez le nom d'un nouveau magazine pour adultes avec un public cible très spécifique. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle personne êtes-vous dans une bibliothèque ? ",
+      "t": "A",
+      "v": "828536_1",
+      "n": "Prompt"
+    }
+  ]
+}

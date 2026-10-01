@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Oui, mon garçon. Oui. ",
+      "t": "A",
+      "v": "822001_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Cela explique ton côté ringard ",
+      "t": "A",
+      "v": "822000_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Relevez votre visage autant que possible. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Donnez-nous votre meilleure voix de marin !..et dites quelque chose de salé ! ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qu'est-ce que c'est que l'umami ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle est votre plus grande bête noire ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous AURIEZ ce rôle. ",
+      "t": "A",
+      "v": "821999_3",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Repensez à vos relations... De qui gardez-vous le plus doux souvenir ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Se froncer ",
+      "t": "A",
+      "v": "821998_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui gagnerait probablement une émission de téléréalité ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Espèce de chien salé ",
+      "t": "A",
+      "v": "821997_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelle est la collation salée par excellence ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Awwww! ",
+      "t": "A",
+      "v": "821996_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel est le plus beau cadeau que vous ayez jamais reçu ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle saveur es-tu ? ",
+      "t": "A",
+      "v": "821989_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

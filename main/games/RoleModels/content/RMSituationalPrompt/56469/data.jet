@@ -1,0 +1,153 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ne plaisantez pas avec cette perfection non filtrée. Cela pourrait vous rendre malade. ",
+      "t": "A",
+      "v": "807944_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Ouais, mec. C'est génial. ",
+      "t": "A",
+      "v": "807943_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la chose la plus heureuse que vous puissiez imaginer ? ",
+      "t": "A",
+      "v": "807946_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est le film ringard que vous aimez ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle est la chose la plus distraite que vous ayez faite ces derniers temps ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Qui n'aime pas le fromage ? ",
+      "t": "A",
+      "v": "807942_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel joueur ne pourrais-tu pas battre lors d’un match de boxe ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Rassemblez-le. ",
+      "t": "A",
+      "v": "807941_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui sait vraiment comment faire cuire un œuf ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Un œuf dur mais fidèle. ",
+      "t": "A",
+      "v": "807940_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Bonjour soleil. ",
+      "t": "A",
+      "v": "807939_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui appelleriez-vous pour vous sortir de prison ? ",
+      "t": "A",
+      "v": "807945_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle façon de cuisiner un œuf êtes-vous chacun ? ",
+      "t": "A",
+      "v": "807932_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel est le pire travail que vous ayez jamais eu ? ",
+      "t": "A",
+      "v": "806932_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel est l’achat le plus inutile que vous ayez jamais fait ? ",
+      "t": "A",
+      "v": "806931_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "À qui feriez-vous confiance pour gérer votre compte bancaire ? ",
+      "t": "A",
+      "v": "806934_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a plus de chance ? ",
+      "t": "A",
+      "v": "806933_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Faites votre meilleur rire diabolique. ",
+      "t": "A",
+      "v": "806935_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "À qui voudriez-vous planifier vos vacances ? ",
+      "t": "A",
+      "v": "806930_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Comment chacun de vous dépenserait-il un million de dollars ? ",
+      "t": "A",
+      "v": "804312_1",
+      "n": "Prompt"
+    }
+  ]
+}

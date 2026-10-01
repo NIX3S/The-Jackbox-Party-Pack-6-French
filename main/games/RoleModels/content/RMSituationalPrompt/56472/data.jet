@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Je sais qu'il y a beaucoup d'humidité impliquée... ",
+      "t": "A",
+      "v": "807999_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'est comme le stationnement en parallèle ",
+      "t": "A",
+      "v": "807998_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel est le pire fruit à utiliser pour démontrer l’utilisation appropriée du préservatif ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "À quoi une tortue ninja comparerait-elle le sexe ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la meilleure chose à dire à votre partenaire après un mauvais rapport sexuel ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "D'accord... Quel film vous a appris tout ce que vous savez ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "S'il s'agissait d'Avatar, vous vous poseriez peut-être encore des questions. ",
+      "t": "A",
+      "v": "807997_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel film Star Wars est-il préférable de regarder pour se mettre dans l'ambiance ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ross et Rachel étaient des monstres ! ",
+      "t": "A",
+      "v": "807995_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Le seul exemple où « show don’t tell » n’est pas approprié ",
+      "t": "A",
+      "v": "807994_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel euphémisme pour « sexe » votre mère serait-elle la plus susceptible d’utiliser ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle façon d'en apprendre davantage sur le sexe êtes-vous ? ",
+      "t": "A",
+      "v": "807987_1",
+      "n": "Prompt"
+    }
+  ]
+}

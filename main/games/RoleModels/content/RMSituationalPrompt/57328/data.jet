@@ -1,0 +1,145 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Si quelqu’un meurt seul, émet-il un bruit ? ",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "laisse-le sécher à l'air libre ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous étiez un super-héros invincible, quelle serait votre seule faiblesse ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui est le plus susceptible de faire du parachutisme avec sa mère ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est l’endroit le plus embarrassant pour mouiller son pantalon ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Lequel de vos amis maudiriez-vous avec votre dernier souffle ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vos oreilles pourraient éclater à cause du changement de pression des pairs ",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "tant que le parachute fonctionne... ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus effrayant quand ils sont silencieux ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ce n'est pas grave si c'est votre instructeur ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "vous vous appelez « un aventurier » sur Tinder, n'est-ce pas ? ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui sauterait d’un avion sans la moindre hésitation ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Laquelle de ces choses crieriez-vous en sautant d’un avion ? ",
+      "t": "A",
+      "v": "827519_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Unités de mesure du système métrique ",
+      "t": "A",
+      "v": "815101_1",
+      "n": "Q"
+    }
+  ]
+}

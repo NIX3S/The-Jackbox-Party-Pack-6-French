@@ -1,0 +1,170 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt10"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Dansez le plus mal possible. ",
+      "t": "A",
+      "v": "810850_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Écrivez une de vos observations pleines d’esprit. Je vais commencer par : \"Avez-vous déjà remarqué...\" ",
+      "t": "A",
+      "v": "810849_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le menteur le plus talentueux ? ",
+      "t": "A",
+      "v": "810851_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Ha ha ! ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "v": "810853_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quel est votre meilleur plan pour devenir riche rapidement ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui ne connaît pas sa propre force ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Faites irruption dans la pièce tout de suite ! ",
+      "t": "A",
+      "v": "810848_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel personnage de <i>Seinfeld</i> correspond le mieux à chacun d'entre vous ? ",
+      "t": "A",
+      "v": "803740_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Comment appelleriez-vous votre magazine de mode ? ",
+      "t": "A",
+      "n": "RevealPrompt10"
+    }
+  ]
+}

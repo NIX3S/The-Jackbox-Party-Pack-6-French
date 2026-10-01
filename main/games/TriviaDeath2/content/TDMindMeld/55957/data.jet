@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une espèce animale avec un rôle parlant dans la version originale du <i>Le Roi Lion</i> ",
+      "n": "PromptText"
+    },
+    {
+      "s": "une espèce animale avec un rôle parlant dans la version originale du <i>Le Roi Lion</i> ",
+      "t": "A",
+      "v": "798970_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

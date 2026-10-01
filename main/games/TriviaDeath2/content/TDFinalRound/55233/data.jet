@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Animaux avec plus de deux yeux ",
+      "t": "A",
+      "v": "783954_2",
+      "n": "Q"
+    }
+  ]
+}

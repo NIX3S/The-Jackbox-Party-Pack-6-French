@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous pouvez allumer la webcam de n’importe qui et l’espionner pendant 15 minutes. Qui choisissez-vous ? ",
+      "t": "A",
+      "v": "829049_1",
+      "n": "Prompt"
+    }
+  ]
+}

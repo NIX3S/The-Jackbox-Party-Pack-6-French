@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Cela semble dangereux de marcher sur des nuages. ",
+      "t": "A",
+      "v": "804730_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Comme c'est mignon. ",
+      "t": "A",
+      "v": "804729_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Faites votre meilleur discours de 15 secondes pour calmer tout le monde à propos de la bombe dans le bus. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Montrez à tout le monde le visage que vous feriez au moment même où vous découvririez que la vie est une simulation informatique. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus grand amoureux des chiens ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible d'être une simulation informatique ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Waouh. ",
+      "t": "A",
+      "v": "804728_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel était votre jouet préféré quand vous étiez enfant ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Quel était votre jouet préféré quand vous étiez enfant ? ",
+      "t": "A",
+      "v": "804727_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Des <i>vitesses</i> se sont produites dans un bus et un bateau. Où devrait avoir lieu le prochain ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Tu es un succès, mec. ",
+      "t": "A",
+      "v": "804726_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Le cuir vous va bien. ",
+      "t": "A",
+      "v": "804725_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui verrait-on exploiter son propre vignoble ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel personnage historique ramèneriez-vous dans votre machine à remonter le temps dans votre cabine téléphonique ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Dans quel film de Keanu Reeves es-tu ? ",
+      "t": "A",
+      "v": "804718_1",
+      "n": "Prompt"
+    }
+  ]
+}

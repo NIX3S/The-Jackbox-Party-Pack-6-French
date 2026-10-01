@@ -1,0 +1,2850 @@
+{
+  "episodeid": 1409,
+  "content": [
+    {
+      "same": [
+        "mec de fête ",
+        "carré ",
+        "élégant ",
+        "bizarre ",
+        "enfantin ",
+        "mature ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57724,
+      "prompt": "Si vous disposiez de fonds illimités pour une séance de shopping d’une heure, qu’achèteriez-vous ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "paresseux ",
+        "travailleur ",
+        "confiant ",
+        "anxieux ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ],
+      "id": 57723,
+      "prompt": "Quand Beyoncé vous demande pourquoi vous passez un entretien pour devenir sa prochaine assistante exécutive, que répondez-vous ? ",
+      "contradiction": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mec de fête ",
+        "carré ",
+        "agressif ",
+        "chérie ",
+        "solitaire ",
+        "idole "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ],
+      "id": 57722,
+      "prompt": "Vous et vos autres amis célibataires êtes dans un club. Quel est votre objectif pour la soirée ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "idole ",
+        "effrayant ",
+        "mec de fête ",
+        "fauteur de troubles "
+      ],
+      "x": true,
+      "opposite": [
+        [
+          "mignon ",
+          "effrayant "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57721,
+      "prompt": "Il y a un casting ouvert pour une comédie d’horreur et de sexe en tournage dans votre région. Pour quel rôle auditionnez-vous ? ",
+      "contradiction": [
+        [
+          "mignon ",
+          "effrayant "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "ennuyeux ",
+        "fauteur de troubles ",
+        "agressif ",
+        "chérie ",
+        "éthique ",
+        "inhumain ",
+        "enfantin ",
+        "mature "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57641,
+      "prompt": "Une horde de zombies végétariens et non violents s'est installée dans votre quartier. Comment les gérez-vous ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "créatif ",
+        "fauteur de troubles ",
+        "enfantin ",
+        "mature ",
+        "drôle ",
+        "sérieux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ],
+      "id": 57640,
+      "prompt": "Quelle touche artistique ajouteriez-vous à la <i>Mona Lisa</i> ? ",
+      "contradiction": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "se montrer ",
+        "introverti ",
+        "drôle ",
+        "sérieux ",
+        "courageux ",
+        "lâche ",
+        "fauteur de troubles "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ],
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ],
+      "id": 57638,
+      "prompt": "Vous avez été poussé sur scène pour faire du stand-up à micro ouvert. Vous n'avez rien de préparé. Comment commencer ? ",
+      "contradiction": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ],
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "insouciant ",
+        "inquiet ",
+        "élégant ",
+        "désordonné ",
+        "courageux ",
+        "lâche ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "élégant ",
+          "désordonné "
+        ],
+        [
+          "insouciant ",
+          "inquiet "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57637,
+      "prompt": "Avant d'entrer dans un dîner, vous découvrez que vous êtes totalement sous-habillé. Que fais-tu? ",
+      "contradiction": [
+        [
+          "élégant ",
+          "désordonné "
+        ],
+        [
+          "insouciant ",
+          "inquiet "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "fiable ",
+        "joker ",
+        "mature ",
+        "créatif ",
+        "insouciant ",
+        "sournois "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "fiable ",
+          "joker "
+        ]
+      ],
+      "id": 57616,
+      "prompt": "Sur le chemin d'un rendez-vous à l'aveugle, vous rencontrez votre ancienne flamme. Ils vous demandent si vous êtes libre pour un café maintenant. Comment le gérez-vous ? ",
+      "contradiction": [
+        [
+          "fiable ",
+          "joker "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mal ",
+        "agressif ",
+        "drôle ",
+        "chérie ",
+        "drôle ",
+        "ennuyeux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ],
+      "id": 57584,
+      "prompt": "Vous découvrez un microphone capable de diffuser un message à chaque personne sur terre. Que dites-vous? ",
+      "contradiction": [
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "paresseux ",
+        "travailleur ",
+        "mature ",
+        "joker ",
+        "bizarre ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ],
+      "id": 57491,
+      "prompt": "Vous disposez d'une heure supplémentaire le matin avant le travail. Comment l'utilisez-vous ? ",
+      "contradiction": [
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "travailleur ",
+        "agressif ",
+        "inhumain "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ],
+      "id": 57490,
+      "prompt": "Quelle est la meilleure chanson sur laquelle s’entraîner ? ",
+      "contradiction": [
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "grincheux ",
+        "chérie ",
+        "paresseux ",
+        "fauteur de troubles "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ],
+      "id": 57488,
+      "prompt": "Quel est le meilleur thème pour une suite d’hôtel romantique ? ",
+      "contradiction": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "chercheur de sensations fortes ",
+        "agressif ",
+        "se montrer ",
+        "courageux ",
+        "lâche ",
+        "acolyte "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57485,
+      "prompt": "En parachutisme, quelle est la chose la plus cool à crier en sautant d’un avion ? ",
+      "contradiction": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "amical ",
+        "grincheux ",
+        "solitaire ",
+        "idole ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57483,
+      "prompt": "Vous organisez un mixage pour célibataires, comment l’appelez-vous ? ",
+      "contradiction": [
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "élégant ",
+        "effrayant ",
+        "agressif ",
+        "bizarre ",
+        "inhumain ",
+        "paresseux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "élégant ",
+          "désordonné "
+        ],
+        [
+          "mignon ",
+          "effrayant "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57481,
+      "prompt": "Vous êtes sur le point d'entrer dans le Thunderdome. On vous dit de vous habiller pour intimider. Que portez-vous ? ",
+      "contradiction": [
+        [
+          "élégant ",
+          "désordonné "
+        ],
+        [
+          "mignon ",
+          "effrayant "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "joker ",
+        "intelligent ",
+        "mal "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57479,
+      "prompt": "Quelle est la vengeance parfaite ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "éthique ",
+        "mal ",
+        "inquiet "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57477,
+      "prompt": "En rencontrant les parents de votre partenaire, vous les reconnaissez parmi les plus recherchés d’Amérique. Que fais-tu? ",
+      "contradiction": [
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "chérie ",
+        "confiant ",
+        "anxieux ",
+        "lâche "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ],
+      "id": 57476,
+      "prompt": "Le restaurant a trop cuit votre repas. Le serveur demande comment tout va. Que dites-vous? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "fiable ",
+        "joker ",
+        "intelligent ",
+        "anxieux ",
+        "désordonné ",
+        "sournois "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57475,
+      "prompt": "Vous venez de casser un grand pot de cornichons à l'épicerie. Que fais-tu? ",
+      "contradiction": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "courageux ",
+        "stupide ",
+        "fiable ",
+        "chef "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57472,
+      "prompt": "Godzilla attaque votre ville. Que fais-tu? ",
+      "contradiction": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "enfantin ",
+        "chérie ",
+        "mignon ",
+        "grincheux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57471,
+      "prompt": "Quel est le meilleur jouet à offrir avec un repas de restauration rapide pour enfant ? ",
+      "contradiction": [
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "enfantin ",
+        "mature ",
+        "fiable ",
+        "joker ",
+        "bizarre"
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ],
+      "id": 57467,
+      "prompt": "Quelle est la première chose que vous recherchez lorsque vous achetez une nouvelle voiture ? ",
+      "contradiction": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "éthique ",
+        "prudent ",
+        "courageux ",
+        "mature ",
+        "confiant "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57465,
+      "prompt": "Si votre vie était un jeu vidéo, quel serait le boss final que vous deviez vaincre ? ",
+      "contradiction": [
+        [
+          "éthique ",
+          "mal "
+        ],
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mec de fête ",
+        "carré ",
+        "mignon ",
+        "effrayant "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "mignon ",
+          "effrayant "
+        ]
+      ],
+      "id": 57464,
+      "prompt": "Quelles sont les trois choses essentielles pour passer un samedi soir parfait ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "mignon ",
+          "effrayant "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "amical ",
+        "grincheux ",
+        "agressif ",
+        "chérie ",
+        "enfantin ",
+        "mature "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57463,
+      "prompt": "Quelle est une manière non verbale d’indiquer que vous avez fini d’avoir une conversation avec quelqu’un ? ",
+      "contradiction": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "fiable ",
+        "joker ",
+        "paresseux ",
+        "travailleur "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "paresseux ",
+          "travailleur "
+        ]
+      ],
+      "id": 57462,
+      "prompt": "Vos amis vous aident à déménager. Que leur donneriez-vous en échange du travail physique ? ",
+      "contradiction": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "paresseux ",
+          "travailleur "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "amical ",
+        "grincheux ",
+        "chef ",
+        "agressif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57461,
+      "prompt": "Vous devez écrire le premier message à la vie extraterrestre nouvellement découverte. Que dites-vous? ",
+      "contradiction": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "drôle ",
+        "fiable ",
+        "joker ",
+        "grincheux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "amical ",
+          "grincheux"
+        ]
+      ],
+      "id": 57460,
+      "prompt": "Vous êtes embauché comme clown pour un anniversaire. Comment divertissez-vous les enfants ? ",
+      "contradiction": [
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "fiable",
+          "joker "
+        ],
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "lâche ",
+        "grincheux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "grincheux ",
+          "amical "
+        ]
+      ],
+      "id": 57459,
+      "prompt": "Quel serait le nom de votre mouvement de lutte signature ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "grincheux ",
+          "amical "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "chérie ",
+        "paresseux ",
+        "travailleur ",
+        "prudent ",
+        "courageux ",
+        "lâche "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57425,
+      "prompt": "Quel serait votre travail sur l'Étoile de la Mort ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "chérie ",
+        "intelligent ",
+        "stupide ",
+        "éthique ",
+        "mal ",
+        "idole ",
+        "fauteur de troubles "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "intelligent et insensé ",
+          "intelligent et insensé "
+        ],
+        [
+          "éthique ",
+          "mal "
+        ]
+      ],
+      "id": 57424,
+      "prompt": "Vous êtes un espion. Un agent de comptoir attractif détient le dossier secret. Comment l'obtenez-vous d'eux ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ],
+        [
+          "éthique ",
+          "mal "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "insouciant ",
+        "inquiet ",
+        "courageux ",
+        "lâche ",
+        "intelligent ",
+        "stupide "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "insouciant ",
+          "inquiet "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ],
+      "id": 57423,
+      "prompt": "Vous êtes le gardien d’un hôtel hanté. Vous êtes enneigé. Comment passez-vous votre temps ? ",
+      "contradiction": [
+        [
+          "insouciant ",
+          "inquiet "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ],
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mec de fête ",
+        "bizarre ",
+        "idole "
+      ],
+      "x": true,
+      "opposite": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57422,
+      "prompt": "Si un bar donnait votre nom à une boisson, que contiendrait-elle ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "confiant ",
+        "bizarre ",
+        "solitaire ",
+        "grincheux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ],
+      "id": 57421,
+      "prompt": "Complétez cette phrase : Dans un film de lycée, je déjeunais avec les enfants « _____ ». ",
+      "contradiction": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "amical ",
+          "grincheux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "confiant ",
+        "idole ",
+        "amical ",
+        "chérie "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ],
+      "id": 57420,
+      "prompt": "Vous faites du speed dating. Quelle est votre phrase d’ouverture qui attire l’attention ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "idole ",
+        "confiant ",
+        "créatif ",
+        "solitaire "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ],
+      "id": 57419,
+      "prompt": "Quel serait le nom du roman de Jane Austen basé sur votre vie ? ",
+      "contradiction": [
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "confiant ",
+        "anxieux ",
+        "se montrer ",
+        "introverti ",
+        "idole ",
+        "solitaire ",
+        "inhumain",
+        "élégant "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "élégant ",
+          "désordonné "
+        ]
+      ],
+      "id": 57418,
+      "prompt": "Quelle serait votre tenue préférée pour un blind date ? ",
+      "contradiction": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "élégant ",
+          "désordonné "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "anxieux ",
+        "inquiet ",
+        "solitaire ",
+        "idole ",
+        "inhumain "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ],
+      "id": 57417,
+      "prompt": "Quelle est la pire chose que vous puissiez dire lors d’un premier rendez-vous ? ",
+      "contradiction": [
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "confiant ",
+        "courageux ",
+        "lâche ",
+        "prudent "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57416,
+      "prompt": "Vous n’avez plus d’argent, mais vous êtes certain que votre main de poker peut battre celle du méchant. Que pariez-vous ? ",
+      "contradiction": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "confiant ",
+        "anxieux ",
+        "se montrer ",
+        "bizarre ",
+        "inhumain "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ],
+      "id": 57415,
+      "prompt": "Vous êtes sur <i>Jeopardy !</i>. Quel fait intéressant sur vous partagez-vous avec Alex ? ",
+      "contradiction": [
+        [
+          "confiant ",
+          "anxieux "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "courageux ",
+        "lâche ",
+        "stupide ",
+        "prudent ",
+        "confiant "
+      ],
+      "x": true,
+      "opposite": [
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57414,
+      "prompt": "Vous venez de tuer accidentellement le chien de John Wick. Quelle est votre prochaine étape ? ",
+      "contradiction": [
+        [
+          "courageux ",
+          "lâche "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "courageux ",
+        "lâche ",
+        "prudent ",
+        "chercheur de sensations fortes "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "courageux ",
+          "lâche "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ]
+      ],
+      "id": 57413,
+      "prompt": "Si vous étiez un Ghostbuster, quel fantôme de personne célèbre aimeriez-vous éliminer ? ",
+      "contradiction": [
+        [
+          "courageux ",
+          "lâche "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "lâche ",
+        "bizarre ",
+        "inhumain "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ],
+      "id": 57412,
+      "prompt": "Quelle est la chose la plus étrange dont vous avez peur ? ",
+      "contradiction": [
+        [
+          "courageux ",
+          "lâche "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "amical ",
+        "grincheux ",
+        "fête ",
+        "mec ",
+        "solitaire ",
+        "ennuyeux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "mec de fête ",
+          "mec de fête "
+        ]
+      ],
+      "id": 57411,
+      "prompt": "Quelle est la meilleure façon de faire connaissance avec vos voisins ? ",
+      "contradiction": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "amical ",
+        "grincheux ",
+        "bizarre ",
+        "solitaire "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "mignon ",
+          "effrayant "
+        ]
+      ],
+      "id": 57410,
+      "prompt": "Qu’aimeriez-vous honnêtement écrire sur votre Welcome Mat ?",
+      "contradiction": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "mignon ",
+          "effrayant "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "amical ",
+        "grincheux ",
+        "chérie ",
+        "solitaire "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ],
+      "id": 57409,
+      "prompt": "« Bonjour » a été retiré. Vous êtes autorisé à choisir le nouveau message d'accueil universel. Qu'est-ce que c'est? ",
+      "contradiction": [
+        [
+          "amical ",
+          "grincheux "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "travailleur ",
+        "paresseux ",
+        "chef ",
+        "acolyte ",
+        "créatif ",
+        "fiable ",
+        "joker "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "travailleur ",
+          "paresseux "
+        ],
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ],
+      "id": 57408,
+      "prompt": "Tes amis sont chargés de préparer un bal au lycée, quel métier prends-tu ? ",
+      "contradiction": [
+        [
+          "travailleur ",
+          "paresseux "
+        ],
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "paresseux ",
+        "travailleur ",
+        "intelligent ",
+        "agressif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "paresseux ",
+          "travailleur "
+        ]
+      ],
+      "id": 57407,
+      "prompt": "S’il existait un jeu télévisé basé sur un défi physique, vous pourriez toujours dominer. Qu'est-ce que ce serait ? ",
+      "contradiction": [
+        [
+          "paresseux ",
+          "travailleur "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "paresseux ",
+        "travailleur ",
+        "intelligent ",
+        "fiable "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ],
+      "id": 57406,
+      "prompt": "Après l’effondrement du monde, quel service pouvez-vous offrir à votre groupe de survivants ? ",
+      "contradiction": [
+        [
+          "paresseux ",
+          "travailleur "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "stupide ",
+        "inquiet ",
+        "anxieux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57405,
+      "prompt": "Quel est le mot de passe le moins sécurisé auquel vous puissiez penser ? ",
+      "contradiction": [
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "intelligent ",
+        "stupide ",
+        "mature "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57404,
+      "prompt": "Votre famille a un débat très animé au dîner. Comment désamorcer les tensions ? ",
+      "contradiction": [
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "intelligent ",
+        "stupide ",
+        "enfantin ",
+        "mature ",
+        "inquiet ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "intelligent ",
+          "stupide "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57403,
+      "prompt": "Vous obtenez un souhait... mais vous devez le formuler très soigneusement. Que souhaites-tu ? ",
+      "contradiction": [
+        [
+          "intelligent ",
+          "stupide "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "drôle ",
+        "enfantin ",
+        "fauteur de troubles ",
+        "sournois ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57402,
+      "prompt": "Votre bureau veut faire une farce à votre patron. Quelle idée apportez-vous à la réunion de brainstorming ? ",
+      "contradiction": [
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "drôle ",
+        "sérieux ",
+        "chérie ",
+        "enfantin "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ],
+      "id": 57401,
+      "prompt": "Quel est ton film préféré quand tu es de très mauvaise humeur ? ",
+      "contradiction": [
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "drôle ",
+        "enfantin ",
+        "courageux ",
+        "inhumain "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57400,
+      "prompt": "Vous participez à une convention commerciale et pouvez écrire tout ce que vous voulez sur votre badge. Qu'écris-tu ? ",
+      "contradiction": [
+        [
+          "drôle ",
+          "sérieux "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "introverti ",
+        "carré ",
+        "solitaire ",
+        "anxieux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57399,
+      "prompt": "Quelle est la pire chose à propos d’assister à des soirées universitaires ? ",
+      "contradiction": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "introverti ",
+        "mec de fête ",
+        "solitaire ",
+        "ennuyeux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57398,
+      "prompt": "Vous êtes invité à une after-party des Oscars. Les célébrités sont partout. Que fais-tu? ",
+      "contradiction": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "se montrer ",
+        "introverti ",
+        "mec de fête ",
+        "carré ",
+        "idole ",
+        "solitaire "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57397,
+      "prompt": "Si vous étiez dans <i>The Bachelor</i> ou <i>The Bachelorette</i>, quel serait votre plan pour vous démarquer ? ",
+      "contradiction": [
+        [
+          "se montrer ",
+          "introverti "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "enfantin ",
+        "mature ",
+        "inquiet ",
+        "insouciant ",
+        "anxieux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "inquiet ",
+          "insouciant "
+        ]
+      ],
+      "id": 57396,
+      "prompt": "De quoi souhaiteriez-vous un approvisionnement à vie ? ",
+      "contradiction": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "inquiet ",
+          "insouciant "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "enfantin ",
+        "mature ",
+        "sérieux ",
+        "intelligent "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ],
+      "id": 57395,
+      "prompt": "Vous êtes coincé dans un musée d’histoire où les expositions prennent vie. Avec qui traînes-tu ? ",
+      "contradiction": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "drôle ",
+          "sérieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "enfantin ",
+        "mature ",
+        "fauteur de troubles ",
+        "ennuyeux "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "enfantin ",
+          "mature "
+        ],
+        [
+          "insouciant ",
+          "inquiet "
+        ]
+      ],
+      "id": 57394,
+      "prompt": "Vous avez à nouveau 10 ans pour un jour. Que fais-tu? ",
+      "contradiction": [
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "élégant ",
+        "désordonné "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "élégant ",
+          "désordonné "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ],
+      "id": 57393,
+      "prompt": "Si vous aviez un budget illimité, qu’ajouteriez-vous à votre salon ? ",
+      "contradiction": [
+        [
+          "élégant ",
+          "désordonné "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "élégant ",
+        "désordonné ",
+        "idole "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "élégant ",
+          "désordonné "
+        ]
+      ],
+      "id": 57392,
+      "prompt": "Comment les magazines de mode décriraient-ils votre tenue actuelle ? ",
+      "contradiction": [
+        [
+          "élégant ",
+          "désordonné "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "élégant ",
+        "plouc ",
+        "se montrer ",
+        "introverti ",
+        "créatif ",
+        "idole "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "élégant ",
+          "plouc "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ],
+      "id": 57391,
+      "prompt": "Vous êtes invité à une soirée « Tout sauf des vêtements », que portez-vous ? ",
+      "contradiction": [
+        [
+          "élégant ",
+          "plouc "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "chef ",
+        "acolyte ",
+        "courageux ",
+        "chercheur de sensations fortes "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "chef ",
+          "acolyte "
+        ]
+      ],
+      "id": 57390,
+      "prompt": "Si vous aviez un super pouvoir basé sur l’un de vos talents, quel serait votre nom de super-héros ? ",
+      "contradiction": [
+        [
+          "chef ",
+          "acolyte "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "chef ",
+        "acolyte ",
+        "chérie ",
+        "grincheux ",
+        "se montrer ",
+        "idole "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ],
+      "id": 57389,
+      "prompt": "Si vous étiez sur <i>Real World</i> de MTV, quel serait votre surnom dans la maison ? ",
+      "contradiction": [
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "se montrer ",
+          "introverti "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "chef ",
+        "acolyte ",
+        "solitaire ",
+        "sournois "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ],
+      "id": 57388,
+      "prompt": "Que faites-vous habituellement lorsque vous travaillez sur des projets de groupe ? ",
+      "contradiction": [
+        [
+          "chef ",
+          "acolyte "
+        ],
+        [
+          "fiable ",
+          "joker "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "prudent ",
+        "chercheur de sensations fortes ",
+        "chérie ",
+        "mignon "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ]
+      ],
+      "id": 57387,
+      "prompt": "Un médium pour animaux de compagnie vous liera à n’importe quel animal de votre choix. Lequel choisissez-vous ? ",
+      "contradiction": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "prudent ",
+        "agressif ",
+        "sournois ",
+        "lâche "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ]
+      ],
+      "id": 57386,
+      "prompt": "Quel serait votre plan si vous participiez à The Hunger Games ? ",
+      "contradiction": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "prudent ",
+        "chercheur de sensations fortes ",
+        "courageux ",
+        "lâche ",
+        "inhumain "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "lâche ",
+          "courageux "
+        ]
+      ],
+      "id": 57385,
+      "prompt": "Quel lieu fictif aimeriez-vous visiter ? ",
+      "contradiction": [
+        [
+          "prudent ",
+          "chercheur de sensations fortes "
+        ],
+        [
+          "lâche ",
+          "courageux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "insouciant ",
+        "inquiet ",
+        "solitaire "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "insouciant ",
+          "inquiet "
+        ]
+      ],
+      "id": 57384,
+      "prompt": "Quelle est votre idée de vacances parfaites sans stress ? ",
+      "contradiction": [
+        [
+          "insouciant ",
+          "inquiet "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "chérie ",
+        "mec de fête "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "insouciant ",
+          "inquiet "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57383,
+      "prompt": "Vous êtes invité chez un éventuel vampire. Qu'apportez-vous ? ",
+      "contradiction": [
+        [
+          "insouciant ",
+          "inquiet "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "insouciant ",
+        "inquiet "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "insouciant ",
+          "inquiet "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57382,
+      "prompt": "Quel est votre plan pour une invasion extraterrestre ? ",
+      "contradiction": [
+        [
+          "insouciant ",
+          "inquiet "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mec de fête ",
+        "chérie "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57381,
+      "prompt": "Quelle est la collation de fête parfaite ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mec de fête ",
+        "carré ",
+        "se montrer ",
+        "bizarre "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57380,
+      "prompt": "La fête commence à se calmer. Comment lui redonner vie ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mec de fête ",
+        "carré ",
+        "créatif ",
+        "bizarre "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ],
+      "id": 57379,
+      "prompt": "Vous êtes autorisé à porter littéralement tout ce que vous voulez au travail. Que mets-tu ? ",
+      "contradiction": [
+        [
+          "mec de fête ",
+          "carré "
+        ],
+        [
+          "confiant ",
+          "anxieux "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "sournois ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ],
+      "id": 57378,
+      "prompt": "Quel piège maison prépareriez-vous pour deux cambrioleurs maladroits ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ],
+      "id": 57377,
+      "prompt": "Si vous viviez à Westeros, comment appelleriez-vous votre épée ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ],
+      "id": 57376,
+      "prompt": "Quel serait le slogan de votre film d’action ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "agressif ",
+        "chérie ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ],
+      "id": 57375,
+      "prompt": "Quelle serait votre arme/outil de prédilection pendant l’apocalypse zombie ? ",
+      "contradiction": [
+        [
+          "agressif ",
+          "chérie "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "joker ",
+        "fiable ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "joker ",
+          "fiable "
+        ]
+      ],
+      "id": 57374,
+      "prompt": "Vous êtes sur le point de vous retrouver bloqué sur une île déserte. Vous pouvez apporter un objet. Que choisis-tu ? ",
+      "contradiction": [
+        [
+          "joker ",
+          "fiable "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "fiable ",
+        "joker ",
+        "enfantin ",
+        "mature ",
+        "fauteur de troubles "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ],
+      "id": 57373,
+      "prompt": "Vous devez garder des jumeaux de 8 ans, quelle activité prévoyez-vous pour eux ? ",
+      "contradiction": [
+        [
+          "fiable ",
+          "joker "
+        ],
+        [
+          "enfantin ",
+          "mature "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "joker ",
+        "fiable ",
+        "bizarre ",
+        "intelligent "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "joker ",
+          "fiable "
+        ],
+        [
+          "intelligent ",
+          "stupide "
+        ]
+      ],
+      "id": 57372,
+      "prompt": "Vous gagnez 10 000 $ au loto. Quelle est la première chose que vous faites avec l’argent ? ",
+      "contradiction": [
+        [
+          "joker ",
+          "fiable "
+        ],
+        [
+          "mec de fête ",
+          "carré "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "effrayant ",
+        "sournois "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "effrayant ",
+          "mignon "
+        ]
+      ],
+      "id": 57371,
+      "prompt": "Vous pouvez délivrer un message d’outre-tombe, qu’est-ce que c’est ? ",
+      "contradiction": [
+        [
+          "effrayant ",
+          "mignon "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "effrayant ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "effrayant ",
+          "mignon "
+        ]
+      ],
+      "id": 57370,
+      "prompt": "Si vous pouviez concevoir une pièce dans une maison hantée, quelle serait-elle ? ",
+      "contradiction": [
+        [
+          "effrayant ",
+          "mignon "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mignon ",
+        "effrayant ",
+        "inhumain ",
+        "créatif "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mignon ",
+          "effrayant "
+        ]
+      ],
+      "id": 57369,
+      "prompt": "Si vous aviez un budget illimité, quel serait votre costume d’Halloween idéal ? ",
+      "contradiction": [
+        [
+          "mignon ",
+          "effrayant "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mal ",
+        "éthique ",
+        "ennuyeux ",
+        "fauteur de troubles "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mal ",
+          "éthique "
+        ]
+      ],
+      "id": 57368,
+      "prompt": "Vous trouvez un carnet d’adresses rempli de numéros de téléphone personnels de célébrités. Qu'est-ce que tu en fais ? ",
+      "contradiction": [
+        [
+          "mal ",
+          "éthique "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mal ",
+        "éthique ",
+        "sournois ",
+        "fauteur de troubles "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mal ",
+          "éthique "
+        ]
+      ],
+      "id": 57367,
+      "prompt": "Vous découvrez le mot de passe Twitter de quelqu'un qui débat toujours avec vous en ligne. Que fais-tu? ",
+      "contradiction": [
+        [
+          "mal ",
+          "éthique "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mal ",
+        "éthique ",
+        "sournois "
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mal ",
+          "éthique "
+        ]
+      ],
+      "id": 57366,
+      "prompt": "Vous pouvez allumer la webcam de n’importe qui et l’espionner pendant 15 minutes. Qui choisissez-vous ? ",
+      "contradiction": [
+        [
+          "mal ",
+          "éthique "
+        ]
+      ]
+    },
+    {
+      "same": [
+        "mal ",
+        "éthique ",
+        "chercheur de sensations fortes ",
+        "fauteur de troubles"
+      ],
+      "x": false,
+      "opposite": [
+        [
+          "mal ",
+          "éthique"
+        ]
+      ],
+      "id": 57365,
+      "prompt": "La police vous autorise à allumer des feux d'artifice où vous voulez... où les allumez-vous ?",
+      "contradiction": [
+        [
+          "mal ",
+          "éthique "
+        ],
+        [
+          "prudent ",
+          "chercheur de sensations fortes"
+        ]
+      ]
+    }
+  ]
+}

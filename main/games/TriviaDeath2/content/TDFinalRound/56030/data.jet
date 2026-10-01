@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Livres de l'Ancien Testament ",
+      "t": "A",
+      "v": "800442_1",
+      "n": "Q"
+    }
+  ]
+}

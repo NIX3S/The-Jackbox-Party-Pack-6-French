@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "« Bonjour » a été retiré. Vous êtes autorisé à choisir le nouveau message d'accueil universel. Qu'est-ce que c'est? ",
+      "t": "A",
+      "v": "830268_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Mon hôtel a besoin de mettre à jour son logiciel CRM... qu'est-ce que c'est ? ",
+      "t": "A",
+      "v": "793310_0",
+      "n": "Q"
+    },
+    {
+      "s": "The hotel business isn’t all fun and murder! I’ve got overhead to worry about!",
+      "t": "A",
+      "v": "793317_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[gestion de la réduction des coûts] [gestion des réservations par calendrier] [gestion de la relation client] [gestion des rotations de nettoyage] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

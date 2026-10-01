@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Les capybaras sont le plus gros rongeur du monde ! Quel est le deuxième plus grand ? ",
+      "t": "A",
+      "v": "776019_2",
+      "n": "Q"
+    },
+    {
+      "s": "Some people think that just because I’m a serial killer that I should own rats, but I’m like, c’mon, that’s amateur hour!",
+      "t": "A",
+      "v": "776026_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[le cobaye] [le porc-épic brésilien] [le castor américain] [le lapin Holland Lop] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

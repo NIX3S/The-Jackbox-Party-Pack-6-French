@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Que signifie « 10-4 » ? ",
+      "t": "A",
+      "v": "798959_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to my records, the killer has zero knowledge of trucker CB radio code.  So tell me...",
+      "t": "A",
+      "v": "798966_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[où êtes-vous] [en attente] [veuillez répéter] [message reçu] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

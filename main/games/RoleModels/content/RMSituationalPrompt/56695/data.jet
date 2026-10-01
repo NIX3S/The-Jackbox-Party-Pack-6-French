@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Je suis très intimidé. ",
+      "t": "A",
+      "v": "812466_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je crois que je te vois comme ça. ",
+      "t": "A",
+      "v": "812465_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la pire chose à mettre sur un hot-dog ? ",
+      "t": "A",
+      "v": "812469_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui ressent les choses LE PLUS PROFONDEMENT ? ",
+      "t": "A",
+      "v": "812468_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui a le plus de chance non méritée ? ",
+      "t": "A",
+      "v": "820204_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus mystérieux ? ",
+      "t": "A",
+      "v": "820203_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Savourez ça. ",
+      "t": "A",
+      "v": "812464_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Pour rendre ce tatouage vraiment cool et peut-être d'actualité, par-dessus quoi le dauphin pourrait-il sauter ? ",
+      "t": "A",
+      "v": "820206_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "La vie est douleur et beauté. ",
+      "t": "A",
+      "v": "812463_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui s’en sort avec un mauvais comportement parce qu’il est tout simplement trop mignon ? ",
+      "t": "A",
+      "v": "820205_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Au top de la matinée ! ",
+      "t": "A",
+      "v": "812462_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Eh bien, vous avez fait sensation. ",
+      "t": "A",
+      "v": "812461_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Faites une impression de Tweety Bird appelant la police pour signaler un crime. ",
+      "t": "A",
+      "v": "820207_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Faites une impression d'un dauphin se faisant tatouer. ",
+      "t": "A",
+      "v": "812467_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel joli petit tatouage à la cheville êtes chacun d'entre vous ? ",
+      "t": "A",
+      "v": "812454_1",
+      "n": "Prompt"
+    }
+  ]
+}

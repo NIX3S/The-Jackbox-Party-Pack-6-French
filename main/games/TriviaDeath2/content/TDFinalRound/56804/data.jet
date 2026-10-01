@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Marques de nourriture pour chiens ",
+      "t": "A",
+      "v": "814647_1",
+      "n": "Q"
+    }
+  ]
+}

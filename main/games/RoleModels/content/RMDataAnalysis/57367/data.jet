@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous découvrez le mot de passe Twitter de quelqu'un qui débat toujours avec vous en ligne. Que fais-tu? ",
+      "t": "A",
+      "v": "829075_1",
+      "n": "Prompt"
+    }
+  ]
+}

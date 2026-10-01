@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Quelle comédie musicale présente la chanson \"And I Am Telling You I'm Not Going\" ? ",
+      "t": "A",
+      "v": "769710_1",
+      "n": "Q"
+    },
+    {
+      "s": "I’m putting together a playlist of ironic songs to play for people I’ve trapped in the hotel.",
+      "t": "A",
+      "v": "769717_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[<i>Méchants</i>] [<i>L'éveil du printemps</i>] [<i>Superstar de Jésus-Christ</i>] [<i>Dreamgirls</i>] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

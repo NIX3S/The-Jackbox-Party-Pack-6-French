@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un des légumes présents dans le jus de légumes original du V8 ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un des légumes présents dans le jus de légumes original du V8 ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

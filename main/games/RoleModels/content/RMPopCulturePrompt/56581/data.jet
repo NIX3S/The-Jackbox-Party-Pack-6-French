@@ -1,0 +1,157 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Wow! We DO have a real jam goin’ down.",
+      "t": "A",
+      "v": "809658_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Pas besoin de vous refaire ! ",
+      "t": "A",
+      "v": "809657_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui semble le plus confus pendant la soirée de match ? ",
+      "t": "A",
+      "v": "809661_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "C'est l'heure d'une danse entre John Travolta et Uma Thurman ! ",
+      "t": "A",
+      "v": "809660_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Chantez votre chanson préférée du <i>Le Roi Lion</i>... juste quelques secondes ",
+      "t": "A",
+      "v": "818697_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de céder son siège sur un canot de sauvetage ? ",
+      "t": "A",
+      "v": "818696_2",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Peignez-moi comme l'un de vos sujets de test. ",
+      "t": "A",
+      "v": "809656_3",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Tu étais méta avant que la méta ne soit cool ",
+      "t": "A",
+      "v": "809655_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Dans quel sport ou jeu défieriez-vous une équipe de monstres extraterrestres ? ",
+      "t": "A",
+      "v": "818698_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Savez-vous comment on appelle ce sujet de test en France ? ",
+      "t": "A",
+      "v": "809654_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Savez-vous comment on appelle ce sujet de test en France ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Comme si ! ",
+      "t": "A",
+      "v": "809653_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Bonjour Sidney... quel est votre film d'horreur préféré ? ",
+      "t": "A",
+      "v": "809659_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel film classique des années 90 êtes-vous ? ",
+      "t": "A",
+      "v": "809646_1",
+      "n": "Prompt"
+    }
+  ]
+}

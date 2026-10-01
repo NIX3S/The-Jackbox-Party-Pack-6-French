@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vraiment tu es la plus chic des fêtes ",
+      "t": "A",
+      "v": "802359_2",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "N'y réfléchissons pas trop ",
+      "t": "A",
+      "v": "802358_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui est le plus susceptible de se décrire comme « une collation ? » ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "La science peut être stressante... alors qui a le plus besoin de vacances ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui peut ronronner comme un chat heureux et aimant ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Mais tu es si bon dans ce domaine ! ",
+      "t": "A",
+      "v": "802357_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel bonbon résume votre personnalité ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Tout est à toi ",
+      "t": "A",
+      "v": "802356_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "À quelle célébrité agissez-vous quand vous avez faim ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Comme c'est gentil ! ",
+      "t": "A",
+      "v": "802355_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Je suis content de ce résultat ",
+      "t": "A",
+      "v": "802354_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Écrivez votre meilleur jeu de mots à base de fromage. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel slogan pour une gourmandise êtes-vous ? ",
+      "t": "A",
+      "v": "802347_1",
+      "n": "Prompt"
+    }
+  ]
+}

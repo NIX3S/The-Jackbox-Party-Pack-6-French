@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Tu es une rockstar à mes yeux ",
+      "t": "A",
+      "v": "819708_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Ça n'arrivera pas mec ",
+      "t": "A",
+      "v": "819707_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui pouvez-vous imaginer jouer du sax au clair de lune ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Concours de guitare aérienne maintenant ! Aller! ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel joueur a le meilleur rythme ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quelle joueuse est la Lisa Simpson du groupe ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vous aidez ! ",
+      "t": "A",
+      "v": "819706_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Je ne peux que supposer que tu es torse nu ",
+      "t": "A",
+      "v": "819705_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la meilleure ligne de ramassage ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "*Son solo de guitare avec bouche*....parfait ",
+      "t": "A",
+      "v": "819704_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "The Edge, Slash... Chaque grand guitariste solo a un nom de scène. Quel est le tien ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Vous êtes le leader de cette expérience. ",
+      "t": "A",
+      "v": "819703_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel joueur serait le plus capable de vous sortir d’un bâtiment en feu ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Comment s’appelle votre mouvement de scène signature ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Si vous formiez un groupe, que feriez-vous chacun ? ",
+      "t": "A",
+      "v": "819696_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ouais, c'est mon petit oiseau qui m'en a parlé. ",
+      "t": "A",
+      "v": "813141_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C’est à cause des petits uniformes serrés, n’est-ce pas ? ",
+      "t": "A",
+      "v": "813140_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel joueur s'est probablement cassé une dent en essayant de s'afficher sur un trampoline ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Expliquez pourquoi la marche rapide est meilleure que la course. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Pourquoi le bobsleigh est-il le véhicule le plus cool ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Une façon de faire sensation ",
+      "t": "A",
+      "v": "813139_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Dites « volant » aussi sérieusement que possible. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "BOING. ",
+      "t": "A",
+      "v": "813138_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "BOING. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Tu pourrais promener un guépard ",
+      "t": "A",
+      "v": "813137_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Cliquez Cliquez sur BALAIS ",
+      "t": "A",
+      "v": "813136_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle chanson choisiriez-vous pour votre routine de natation ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel joueur garde sa maison le plus propre ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel sport olympique es-tu ? ",
+      "t": "A",
+      "v": "813129_2",
+      "n": "Prompt"
+    }
+  ]
+}

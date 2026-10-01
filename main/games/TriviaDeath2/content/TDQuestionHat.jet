@@ -1,0 +1,537 @@
+{
+  "episodeid": 1392,
+  "content": [
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56090,
+      "text": "Parce que vous ne m'avez jamais lu, Père, je n'ai entendu que des histoires de cette personne, l'animateur de l'émission télévisée <i>Reading Rainbow</i> : ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Michael Dorn "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "LeVar Burton "
+        },
+        {
+          "controllerClass": "",
+          "text": "Brent Spiner "
+        },
+        {
+          "controllerClass": "",
+          "text": "Wil Wheaton "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56088,
+      "text": "Si jamais tu avais été là pour moi, papa, j'aurais pu être comme Alexandre le Grand, et tu aurais pu être comme son mentor... ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Socrate "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Aristote "
+        },
+        {
+          "controllerClass": "",
+          "text": "Pythagore "
+        },
+        {
+          "controllerClass": "",
+          "text": "Alexandre le Joli Bon "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56087,
+      "text": "Vous avez dit que <i>Miami Vice</i> n'était pas un thème approprié pour une chambre d'enfant, père, mais je n'ai pas écouté et j'ai peint quel duo de détectives au-dessus de mon lit ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Riggs et Murtaugh "
+        },
+        {
+          "controllerClass": "",
+          "text": "Cagney et Lacey "
+        },
+        {
+          "controllerClass": "",
+          "text": "Tango et argent "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Tubbs & Crockett "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56083,
+      "text": "Vous avez raté mes finales de tennis au lycée, père. Pouvez-vous me dire combien de jeux j’ai dû perdre pour perdre un set ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "huit jeux "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "six jeux "
+        },
+        {
+          "controllerClass": "",
+          "text": "quatre jeux "
+        },
+        {
+          "controllerClass": "",
+          "text": "deux jeux "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56050,
+      "text": "Quel était le nom de mon transformateur qui s'est transformé en dinosaure au lieu d'un véhicule, père ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Grimlock "
+        },
+        {
+          "controllerClass": "",
+          "text": "Dévastateur "
+        },
+        {
+          "controllerClass": "",
+          "text": "Mégatron "
+        },
+        {
+          "controllerClass": "",
+          "text": "Le Chompion "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56049,
+      "text": "Si jamais tu m'emmenais au skate park comme je l'ai demandé, tu saurais que je mène avec mon pied droit, ce qui fait de moi quel genre de skateur ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "ollie "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "pied de dingue "
+        },
+        {
+          "controllerClass": "",
+          "text": "face avant "
+        },
+        {
+          "controllerClass": "",
+          "text": "glissade sur rail "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56048,
+      "text": "Lequel de ces vieux westerns télévisés présentait le genre de relation père-fils aimante que je n'ai jamais eue ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "<i>Johnny Ringo</i> "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "<i>Le Fusilier</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>Avoir une arme – Va voyager</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>Recherché mort ou vif</i> "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56045,
+      "text": "J’ai convoité la femme de Babar. Père, quel est le nom de ce bel éléphant ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Tantor "
+        },
+        {
+          "controllerClass": "",
+          "text": "Mary Lou LaRue "
+        },
+        {
+          "controllerClass": "",
+          "text": "Madeleine "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Céleste "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56035,
+      "text": "Chaque fois que j'essayais de te parler, tu appuyais sur le bouton de la sonnerie électronique qui faisait partie de quel jeu de société ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "<i>Diffusions</i> "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "<i>Tabou</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>KerPlunk</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>Problème</i> "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56033,
+      "text": "Tu ne voulais pas que je t'appelle « Papa »… alors je t'ai appelé « Murky Dismal », le méchant dans lequel de mes dessins animés préférés ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "<i>Jem</i> "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "<i>Brite arc-en-ciel</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>Shortcake aux fraises</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>Mon petit poney</i> "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56014,
+      "text": "Papa, tu t'es toujours moqué de moi parce que j'avais moins de succès que les Post-it parce que nous sommes nés dans la même décennie. De quelle décennie s’agissait-il déjà ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "années 1940 "
+        },
+        {
+          "controllerClass": "",
+          "text": "années 1950 "
+        },
+        {
+          "controllerClass": "",
+          "text": "années 1960 "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "années 1970 "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55995,
+      "text": "Quand j'étais jeune, j'ai lu tellement de livres d'Ernest Hemingway, probablement parce que son surnom était... ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Père "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Papa "
+        },
+        {
+          "controllerClass": "",
+          "text": "Pops "
+        },
+        {
+          "controllerClass": "",
+          "text": "Grand Papi "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55454,
+      "text": "Tu m'as acheté le mauvais costume d'Halloween quand j'avais 18 ans ! Je voulais être un X-Man ! Ce personnage n'est PAS un X-Man ! ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Cyclope "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Griffon "
+        },
+        {
+          "controllerClass": "",
+          "text": "Phénix "
+        },
+        {
+          "controllerClass": "",
+          "text": "Bête "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55428,
+      "text": "Peut-être que si JAMAIS vous vous asseyiez et regardiez mon film préféré avec moi, vous le sauriez... mais dans quel pays Anne Hathaway hérite-t-elle du trône dans <i>The Princess Diaries</i> ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Andorre "
+        },
+        {
+          "controllerClass": "",
+          "text": "Bialia "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Génovie "
+        },
+        {
+          "controllerClass": "",
+          "text": "Lichtenbourg "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55425,
+      "text": "Quand j'étais enfant, vous alliez chercher des glaces et vous n'êtes jamais revenu, mais ils n'ont PAS fabriqué cette glace en 1985 !!! ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Baskin-Robbins "
+        },
+        {
+          "controllerClass": "",
+          "text": "Breyers "
+        },
+        {
+          "controllerClass": "",
+          "text": "Ben & Jerry's "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Crémerie aux pierres froides "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55377,
+      "text": "Quel livre du Dr Seuss as-tu refusé de me lire parce qu'il présentait un kangourou aigre qui te rappelait maman ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "<i>Le chat au chapeau</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>Comment le Grinch a volé Noël !</i> "
+        },
+        {
+          "controllerClass": "",
+          "text": "<i>Montez sur Pop</i> "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "<i>Horton entend un Who !</i> "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55367,
+      "text": "Père, quel était le nom de la planète natale de Mork, de la série télévisée <i>Mork & Mindy</i>, vers laquelle j'ai toujours dit que je m'enfuyais quand j'étais enfant ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Torque "
+        },
+        {
+          "controllerClass": "",
+          "text": "Bork "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Orks "
+        },
+        {
+          "controllerClass": "",
+          "text": "Travail "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55365,
+      "text": "Si tu avais assisté à la production de <i>Godspell</i> au lycée, papa, tu m'aurais vu chanter laquelle des chansons suivantes ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "« Musique de la nuit » "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "« Jour après jour » "
+        },
+        {
+          "controllerClass": "",
+          "text": "« Un jour de plus » "
+        },
+        {
+          "controllerClass": "",
+          "text": "\"N'importe quel rêve fera l'affaire\" "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55370,
+      "text": "Comme tu n'étais pas là, j'ai partagé mes sentiments avec mon Care Bear avec un arc-en-ciel sur le ventre. Quel était le nom officiel de Care Bear ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Ours câlin "
+        },
+        {
+          "controllerClass": "",
+          "text": "Ours courageux "
+        },
+        {
+          "controllerClass": "",
+          "text": "Ami Ours "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Bravo Ours"
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    }
+  ]
+}

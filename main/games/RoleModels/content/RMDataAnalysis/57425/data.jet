@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quel serait votre travail sur l'Étoile de la Mort ? ",
+      "t": "A",
+      "v": "830684_1",
+      "n": "Prompt"
+    }
+  ]
+}

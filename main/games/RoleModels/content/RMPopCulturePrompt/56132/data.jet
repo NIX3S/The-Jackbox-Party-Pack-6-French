@@ -1,0 +1,157 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "You’re too smart to follow naming conventions",
+      "t": "A",
+      "v": "802383_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Mais, genre, dans le bon sens ",
+      "t": "A",
+      "v": "802382_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Faites de votre mieux pour « ronfler ». ",
+      "t": "A",
+      "v": "806728_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Selon vous, qui passe le meilleur moment en ce moment ? ",
+      "t": "A",
+      "v": "802385_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la chose la plus mineure qui ait gâché votre journée ? ",
+      "t": "A",
+      "v": "806729_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Réveillez-vous et récupérez les pellets ",
+      "t": "A",
+      "v": "802381_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "À qui préféreriez-vous que vous soyez opéré ? ",
+      "t": "A",
+      "v": "809576_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Le plus audacieux des personnages Disney ",
+      "t": "A",
+      "v": "802380_2",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Simplet ne parle pas, alors faites la grimace que vous feriez lorsque vous découvrirez que vos amis pensent que vous êtes Simplet. ",
+      "t": "A",
+      "v": "806731_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "J'espère que tu es... oh... tu l'es. ",
+      "t": "A",
+      "v": "802379_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "J'espère que tu es... oh... tu l'es. ",
+      "t": "A",
+      "v": "802378_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle est la chose la plus embarrassante qui puisse arriver en ce moment ? ",
+      "t": "A",
+      "v": "802384_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Lequel des sept nains es-tu ? ",
+      "t": "A",
+      "v": "802371_1",
+      "n": "Prompt"
+    }
+  ]
+}

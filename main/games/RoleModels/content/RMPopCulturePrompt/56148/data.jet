@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Je ne me souviens pas vraiment de ce qu'est le truc de Snuffleupagus... Alors votez simplement pour le joueur avec les bras les plus longs. ",
+      "t": "A",
+      "v": "802715_2",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Que dirait Oscar le Grouch d’une journée de printemps parfaite ? ",
+      "t": "A",
+      "v": "802714_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus chatouilleux ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "À la manière des sandwichs au beurre de cacahuète ! ",
+      "t": "A",
+      "v": "823163_0",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est la meilleure chose qui commence par la lettre « C » ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Je t'aime, Gros Oiseau. ",
+      "t": "A",
+      "v": "802708_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est le meilleur en mathématiques ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Écoutons votre meilleure impression d’Elmo. ",
+      "t": "A",
+      "v": "802713_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel personnage de <i>Sesame Street</i> correspond le mieux à chacun d'entre vous ? ",
+      "t": "A",
+      "v": "802700_1",
+      "n": "Prompt"
+    }
+  ]
+}

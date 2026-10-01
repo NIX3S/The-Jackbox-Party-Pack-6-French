@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Oh mon Dieu, pish posh, tu n'as pas envie. ",
+      "t": "A",
+      "v": "802157_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Certains l’aiment chaud. ",
+      "t": "A",
+      "v": "802156_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quelle est la chose la plus décadente que vous ayez achetée ce mois-ci ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quelle est la réponse la plus ringarde à quelqu’un qui dit « Je t’aime » ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle petite chose douce vous pourriez laisser sous l’oreiller de votre proche ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de « applaudir ses ennemis » ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vraiment un choix fou. ",
+      "t": "A",
+      "v": "802155_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Il existe un nouvel engouement pour la danse appelé « The Pepperoni ». S'il vous plaît, montrez cette danse à tout le monde. ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est aussi aimé que méprisé ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Au fond, ne sommes-nous pas tous de simples cercles de viande. ",
+      "t": "A",
+      "v": "802153_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Souriez et dites-vous ! ",
+      "t": "A",
+      "v": "802152_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui rassemble vraiment les gens ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle garniture de pizza convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "802145_2",
+      "n": "Prompt"
+    }
+  ]
+}

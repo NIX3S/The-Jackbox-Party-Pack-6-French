@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un animateur officiel actuel ou ancien du <i>Tonight Show</i><br>(juste le nom de famille) ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un animateur officiel actuel ou ancien du <i>Tonight Show</i><br>(juste le nom de famille) ",
+      "t": "A",
+      "v": "799168_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

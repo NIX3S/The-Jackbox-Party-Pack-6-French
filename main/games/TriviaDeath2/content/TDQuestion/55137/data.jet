@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Où puis-je trouver un petit crocodile ? ",
+      "t": "A",
+      "v": "780999_2",
+      "n": "Q"
+    },
+    {
+      "s": "Dang it! The contractor made our death moat too small. Thanks a lot HomeAdvisor.",
+      "t": "A",
+      "v": "781006_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[sur une chemise IZOD] [sur une chemise Louis Vuitton] [sur une chemise Lacoste] [sur une chemise Ralph Lauren] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous devez garder des jumeaux de 8 ans, quelle activité prévoyez-vous pour eux ? ",
+      "t": "A",
+      "v": "829231_1",
+      "n": "Prompt"
+    }
+  ]
+}

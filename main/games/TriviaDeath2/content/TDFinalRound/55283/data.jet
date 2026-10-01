@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Les Fables d'Esope ",
+      "t": "A",
+      "v": "786013_1",
+      "n": "Q"
+    }
+  ]
+}

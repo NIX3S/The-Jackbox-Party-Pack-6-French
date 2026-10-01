@@ -1,0 +1,168 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Halleloo à toi aussi ",
+      "t": "A",
+      "v": "812138_2",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Le diable est dans vos coordonnées ",
+      "t": "A",
+      "v": "812137_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui est le plus susceptible de se présenter aux élections ? ",
+      "t": "A",
+      "v": "812141_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui ne renverserait jamais le thé ? ",
+      "t": "A",
+      "v": "812140_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui pourrait battre le diable dans une compétition de son choix ? ",
+      "t": "A",
+      "v": "812143_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Eh bien... voyons votre sashay le plus féroce ! ",
+      "t": "A",
+      "v": "812142_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Sashay tu restes ",
+      "t": "A",
+      "v": "812136_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qu'est-ce qui vous inciterait à lancer une émission de télé-réalité ? ",
+      "t": "A",
+      "v": "822648_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ouais la science ! ",
+      "t": "A",
+      "v": "812135_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Ouais la science ! ",
+      "t": "A",
+      "v": "822647_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Oui, tu ",
+      "t": "A",
+      "v": "812134_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Vous avez travaillé ! ",
+      "t": "A",
+      "v": "812133_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui est le plus susceptible de diriger un cours de Zumba ? ",
+      "t": "A",
+      "v": "812139_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle citation emblématique de <i>RuPaul's Drag Race</i> êtes-vous le plus susceptible d'utiliser dans votre vie ? ",
+      "t": "A",
+      "v": "812126_1",
+      "n": "Prompt"
+    }
+  ]
+}

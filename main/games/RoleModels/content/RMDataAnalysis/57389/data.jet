@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous étiez sur <i>Real World</i> de MTV, quel serait votre surnom dans la maison ? ",
+      "t": "A",
+      "v": "829660_1",
+      "n": "Prompt"
+    }
+  ]
+}

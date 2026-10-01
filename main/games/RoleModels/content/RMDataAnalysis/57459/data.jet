@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quel serait le nom de votre mouvement de lutte signature ? ",
+      "t": "A",
+      "v": "831174_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qui a écrit à l’origine : « Mieux vaut être craint qu’être aimé » ? ",
+      "t": "A",
+      "v": "780189_2",
+      "n": "Q"
+    },
+    {
+      "s": "My mom would always cross-stitch the most inspiring quotes...",
+      "t": "A",
+      "v": "780196_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[Niccolò Machiavel] [Friedrich Nietzsche] [Victor Hugo] [J. K. Rowling] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

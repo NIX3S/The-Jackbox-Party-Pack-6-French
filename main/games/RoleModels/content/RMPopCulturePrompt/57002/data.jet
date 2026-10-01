@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous vous souvenez de celui-ci ?! Nous l’espérons ! ",
+      "t": "A",
+      "v": "818891_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "J'ai besoin d'une sirène Venti demain matin. ",
+      "t": "A",
+      "v": "818890_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Nous avons essayé des cercles, nous avons essayé des carrés... quelle forme auraient vos hamburgers ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "En tant que Roi des burgers, quel serait votre premier décret ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui serait chez lui en train de manger du poulet frit sur un porche dans le Kentucky ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tout le monde aimerait jouer contre vous ! ",
+      "t": "A",
+      "v": "818889_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Vous êtes un petit chihuahua. Comment devrions-nous vous appeler ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Tu es plus que cool, tu es glacial ",
+      "t": "A",
+      "v": "818888_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Tu es plus que cool, tu es glacial ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Tu as un sourire effrayant et effrayant ",
+      "t": "A",
+      "v": "818887_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Dans quel liquide étrange voudriez-vous vivre en tant que sirène ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Voudriez-vous des frites avec ce rôle ? ",
+      "t": "A",
+      "v": "818886_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui pourrait enfin attraper le Hamburglar ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle icône de la restauration rapide résume le mieux votre personnalité ? ",
+      "t": "A",
+      "v": "818879_1",
+      "n": "Prompt"
+    }
+  ]
+}

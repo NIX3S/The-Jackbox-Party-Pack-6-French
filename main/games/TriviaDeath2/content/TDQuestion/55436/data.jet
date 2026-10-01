@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Où est née et a grandi la voiture de course <i>Cars 2</i>, Rip Clutchgoneski ? ",
+      "t": "A",
+      "v": "789653_2",
+      "n": "Q"
+    },
+    {
+      "s": "I hope you were a good history student...",
+      "t": "A",
+      "v": "789660_3",
+      "n": "Intro"
+    },
+    {
+      "s": "[République de New Rearendia] [États-Unis de Combustion] [République Démocratique des Bips] [Royaume de Transmissionia] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

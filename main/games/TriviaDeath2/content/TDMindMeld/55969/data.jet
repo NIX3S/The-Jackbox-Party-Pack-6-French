@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'un des ingrédients d'un Big Mac ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l'un des ingrédients d'un Big Mac ",
+      "t": "A",
+      "v": "799190_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

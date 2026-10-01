@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Quel est le contraire d’un sommelier ? ",
+      "t": "A",
+      "v": "809116_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Frappez le pont ! ",
+      "t": "A",
+      "v": "809115_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui serait le plus beau avec une moustache en guidon ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel article écririez-vous pour le magazine Cosmo ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Ce nom est assez basique. Quel est un meilleur nom pour un Jack and Coke ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Selon vous, qui est trompeusement fort ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Pourquoi jouer avec la perfection. ",
+      "t": "A",
+      "v": "809114_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est le plus susceptible de rejoindre une Frat ou une Sororité ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous ne vous souviendrez pas d'avoir choisi ceci ",
+      "t": "A",
+      "v": "809113_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la pire occasion pour faire bombarder Jager ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Quitte ma pelouse ",
+      "t": "A",
+      "v": "809112_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Tu es une telle Carrie ",
+      "t": "A",
+      "v": "809111_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel cocktail classique convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "809104_1",
+      "n": "Prompt"
+    }
+  ]
+}

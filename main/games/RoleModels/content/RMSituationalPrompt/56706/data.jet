@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Mettre en synergie... ",
+      "t": "A",
+      "v": "812658_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Espèce de rêveur fou ",
+      "t": "A",
+      "v": "812657_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui n’oublie jamais de vérifier ses projets de vacances ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui est le plus susceptible de révolutionner le paradigme actuel ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle nouvelle idée audacieuse mettriez-vous en œuvre dans votre travail ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est le fruit le moins difficile à manger ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Comme une orange vraiment lourde ",
+      "t": "A",
+      "v": "812656_2",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Je vais planifier une réunion ",
+      "t": "A",
+      "v": "812655_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Combinez deux mots sans rapport pour créer un tout nouveau terme commercial. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Attention au paradigme existant ! ",
+      "t": "A",
+      "v": "812654_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Vous êtes embauché ! ",
+      "t": "A",
+      "v": "812653_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui ferait le meilleur pilote de chasse ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle expression commerciale clichée vous décrit ? ",
+      "t": "A",
+      "v": "812646_1",
+      "n": "Prompt"
+    }
+  ]
+}

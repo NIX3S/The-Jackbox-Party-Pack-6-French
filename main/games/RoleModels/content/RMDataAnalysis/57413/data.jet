@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous étiez un Ghostbuster, quel fantôme de personne célèbre aimeriez-vous éliminer ? ",
+      "t": "A",
+      "v": "830372_1",
+      "n": "Prompt"
+    }
+  ]
+}

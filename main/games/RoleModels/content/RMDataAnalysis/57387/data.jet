@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Un médium pour animaux de compagnie vous liera à n’importe quel animal de votre choix. Lequel choisissez-vous ? ",
+      "t": "A",
+      "v": "829608_1",
+      "n": "Prompt"
+    }
+  ]
+}

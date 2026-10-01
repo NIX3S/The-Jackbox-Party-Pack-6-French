@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes sur le point d'entrer dans le Thunderdome. On vous dit de vous habiller pour intimider. Que portez-vous ? ",
+      "t": "A",
+      "v": "831634_1",
+      "n": "Prompt"
+    }
+  ]
+}

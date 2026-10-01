@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Quel est un bon slogan pour une chemise dans laquelle vous dormez ? ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "J’en prends définitivement note. ",
+      "t": "A",
+      "v": "813851_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Confortable. ",
+      "t": "A",
+      "v": "813850_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel fantôme visité aurait rendu visite à Scrooge ensuite s'il n'avait pas appris sa leçon ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Lequel de ces joueurs préféreriez-vous avoir comme petit enfant câlin ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel film pourrait bénéficier de beaucoup plus de nudité ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C’est pour ça qu’il vous est interdit de prendre Red Eyes ",
+      "t": "A",
+      "v": "813849_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel joueur serait probablement plus à l’aise dans une colonie nudiste ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Quelqu'un reçoit la visite de trois fantômes ! ",
+      "t": "A",
+      "v": "813848_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Que feriez-vous si vous n’aviez pas à dormir ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Les pantalons sont pour les faibles ",
+      "t": "A",
+      "v": "813847_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "un pantalon business et un chemisier infroissable ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Qui n’aime pas s’habiller pour dormir seul ? ",
+      "t": "A",
+      "v": "813846_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Eh bien la di da, un ensemble assorti ! Quel joueur lave probablement ses draps le plus souvent ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Un ensemble assorti ! Très chic. S'il était invité à dîner avec la reine Elizabeth, quel joueur ferait la meilleure impression ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel type de pyjama correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "813839_1",
+      "n": "Prompt"
+    }
+  ]
+}

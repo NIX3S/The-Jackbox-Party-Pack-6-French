@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est une manière non verbale d’indiquer que vous avez fini d’avoir une conversation avec quelqu’un ? ",
+      "t": "A",
+      "v": "831278_1",
+      "n": "Prompt"
+    }
+  ]
+}

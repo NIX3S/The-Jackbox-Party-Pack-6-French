@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Passez une commande de restauration rapide avec votre meilleure voix de Christian Bale Batman ",
+      "t": "A",
+      "v": "812858_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui a les jouets les plus merveilleux ? ",
+      "t": "A",
+      "v": "812857_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus susceptible de décorer sa maison avec des néons ? ",
+      "t": "A",
+      "v": "812860_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible de se battre avec son meilleur ami ? ",
+      "t": "A",
+      "v": "812859_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Nous avons entendu « Bam ! » et \"Kapow!\"... mais quel serait l'effet sonore d'une personne frappant un tas de crêpes ? ",
+      "t": "A",
+      "v": "812862_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "S'il vous plaît, dites \"Je suis Batman\" de votre voix la plus charmante ",
+      "t": "A",
+      "v": "812861_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "S'il vous plaît, dites \"Je suis Batman\" de votre voix la plus charmante ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel Batman correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "809024_1",
+      "n": "Prompt"
+    }
+  ]
+}

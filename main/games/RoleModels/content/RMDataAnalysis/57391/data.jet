@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes invité à une soirée « Tout sauf des vêtements », que portez-vous ? ",
+      "t": "A",
+      "v": "829712_1",
+      "n": "Prompt"
+    }
+  ]
+}

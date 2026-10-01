@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qu'est-ce que le [sfx: bip] *%@# c'est que la myrrhe ? ",
+      "t": "A",
+      "v": "778449_0f",
+      "n": "Q"
+    },
+    {
+      "s": "I ask myself this question every Christmas season...",
+      "t": "A",
+      "v": "778456_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[une résine d'arbre] [un type de goudron] [une graine] [un élément chimique] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

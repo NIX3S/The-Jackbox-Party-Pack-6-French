@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Mmmm nourriture pour lapin. ",
+      "t": "A",
+      "v": "817517_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Du couscous tu as ça ",
+      "t": "A",
+      "v": "817516_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Soyez si gentil avec quelqu'un dans la pièce que c'en est littéralement dégoûtant. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quels sont les trois ingrédients les plus désagréables pour une salade ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel est l’avantage de posséder un yacht et de naviguer sur la Méditerranée ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Réponse sous forme de salade de tacos : Pourquoi pensez-vous que vous valez mieux qu'un taco ordinaire ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "La crème sure règne sur tout autour de moi ",
+      "t": "A",
+      "v": "817515_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle célébrité devrait se lancer dans la confection de vinaigrettes ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Vous devez vous défouler ",
+      "t": "A",
+      "v": "817514_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "De quel animal est l'œuf ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Le jaune est sur toi ",
+      "t": "A",
+      "v": "817513_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Crutons bébé ! ",
+      "t": "A",
+      "v": "817512_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "La salade César doit son nom à un homme nommé César Cardini. Comment s’appellerait une salade portant votre nom ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle salade convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "817505_1",
+      "n": "Prompt"
+    }
+  ]
+}

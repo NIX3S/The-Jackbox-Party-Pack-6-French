@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si un bar donnait votre nom à une boisson, que contiendrait-elle ? ",
+      "t": "A",
+      "v": "830606_1",
+      "n": "Prompt"
+    }
+  ]
+}

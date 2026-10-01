@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Dans la mythologie grecque, qui a réussi à couper la tête de Méduse ? ",
+      "t": "A",
+      "v": "810748_1",
+      "n": "Q"
+    },
+    {
+      "s": "I think we’re overdue for a question about decapitation.",
+      "t": "A",
+      "v": "810755_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Thésée] [Ulysse] [Prométhée] [Persée] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

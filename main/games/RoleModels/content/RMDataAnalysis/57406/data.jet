@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Après l’effondrement du monde, quel service pouvez-vous offrir à votre groupe de survivants ? ",
+      "t": "A",
+      "v": "830102_1",
+      "n": "Prompt"
+    }
+  ]
+}

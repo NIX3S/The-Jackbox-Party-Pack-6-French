@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous n’avez plus d’argent, mais vous êtes certain que votre main de poker peut battre celle du méchant. Que pariez-vous ? ",
+      "t": "A",
+      "v": "830450_1",
+      "n": "Prompt"
+    }
+  ]
+}

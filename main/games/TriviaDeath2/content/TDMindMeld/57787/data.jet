@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un jour de la semaine ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un jour de la semaine ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

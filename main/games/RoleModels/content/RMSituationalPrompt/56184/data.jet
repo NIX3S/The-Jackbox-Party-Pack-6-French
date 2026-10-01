@@ -1,0 +1,171 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Avez-vous déjà pensé à tuer avec gentillesse ? ",
+      "t": "A",
+      "v": "803246_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "N'êtes-vous pas Euron Greyjoy ?! ",
+      "t": "A",
+      "v": "803245_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous voulez pousser quelqu’un dans un train, vous devez ensuite faire l’idiot. Faites de votre mieux pour appeler à l'aide pour alerter la police de cet horrible accident. ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui est le plus sournois ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est votre insulte la plus meurtrière ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel type d'oreiller est le plus mortel et pourquoi ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Je suppose qu’ils n’auront pas besoin de cette mélatonine après tout. ",
+      "t": "A",
+      "v": "803244_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "DESSINER! Celui qui fait le meilleur pistolet à doigts gagne ! ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Eh bien, ce sera rapide. ",
+      "t": "A",
+      "v": "803243_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Dans une confrontation, qui serait le tirage au sort le plus rapide ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Euh, ça te dérange si on change de boisson ? ",
+      "t": "A",
+      "v": "803242_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Quelle phrase accrocheuse diriez-vous juste avant de pousser votre victime ? ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Claquer! ",
+      "t": "A",
+      "v": "803241_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quelle chose cool diriez-vous juste avant de trancher votre ennemi ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle méthode de meurtre chacun d’entre vous emploierait-il le plus probablement ? ",
+      "t": "A",
+      "v": "803234_1",
+      "n": "Prompt"
+    }
+  ]
+}

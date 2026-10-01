@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Laquelle de mes armes du crime mettrait le plus de temps à se biodégrader naturellement ? ",
+      "t": "A",
+      "v": "810713_1",
+      "n": "Q"
+    },
+    {
+      "s": "As a professional serial killer, the environment is a real concern of mine, as you might imagine.  Bearing that in mind...",
+      "t": "A",
+      "v": "810720_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[mes gants étrangleurs en CUIR] [ma batte en ALUMINIUM] [mon nœud coulant en NYLON] [mon éclat de VERRE déchiqueté] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

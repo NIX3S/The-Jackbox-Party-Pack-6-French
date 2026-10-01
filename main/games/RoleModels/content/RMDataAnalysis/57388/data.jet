@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Que faites-vous habituellement lorsque vous travaillez sur des projets de groupe ? ",
+      "t": "A",
+      "v": "829634_1",
+      "n": "Prompt"
+    }
+  ]
+}

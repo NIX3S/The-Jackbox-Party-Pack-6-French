@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Le tissu cérébral est constitué de matière grise, et de quel autre type de matière ? ",
+      "t": "A",
+      "v": "809578_1",
+      "n": "Q"
+    },
+    {
+      "s": "Hey, does anyone know an effective method for getting brain tissue out of a polyester ski mask?  I’m asking for a friend.",
+      "t": "A",
+      "v": "809585_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[matière rouge] [matière bleue] [matière rose] [matière blanche] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un personnage dans <i>Tu es un homme bon, Charlie Brown</i> ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un personnage dans <i>Tu es un homme bon, Charlie Brown</i> ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

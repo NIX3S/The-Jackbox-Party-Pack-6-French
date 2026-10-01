@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Qu’est-ce qu’une « noix de coco desséchée » ? ",
+      "t": "A",
+      "v": "778299_4",
+      "n": "Q"
+    },
+    {
+      "s": "I like to use food ingredients that just sort of sound disgusting.",
+      "t": "A",
+      "v": "778306_3",
+      "n": "Intro"
+    },
+    {
+      "s": "[purée de noix de coco] [lait de coco en poudre] [noix de coco fermentée] [noix de coco séchée et râpée] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "J'espère que vous l'avez fait dans le testament ! ",
+      "t": "A",
+      "v": "814211_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Les fonctions corporelles sont surfaites. ",
+      "t": "A",
+      "v": "814210_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a envie d’être sous les projecteurs ? ",
+      "t": "A",
+      "v": "817682_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Inventez et chantez une chanson rapide sur l’amour de l’argent. ",
+      "t": "A",
+      "v": "817681_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Vous avez créé une toute nouvelle application de rencontres pour chiens. Comment ça s'appelle ? ",
+      "t": "A",
+      "v": "817684_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Il vous manque un dollar. Quel article du magasin à un dollar volez-vous et envisagez-vous de revendre ? ",
+      "t": "A",
+      "v": "817683_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Glissez vers la droite sur l'argent. ",
+      "t": "A",
+      "v": "814209_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui s’épanouirait en tant que « personne de loisir » ? ",
+      "t": "A",
+      "v": "817686_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Je vais chercher les masques de ski ! ",
+      "t": "A",
+      "v": "814208_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Vous n’avez pas de couteau pour sortir cette chose. Qu'utilisez-vous à la place ? ",
+      "t": "A",
+      "v": "817685_2",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "C'est le jour du spectacle, vous tous ! ",
+      "t": "A",
+      "v": "814207_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Le monde a-t-il besoin d’une autre websérie ? ",
+      "t": "A",
+      "v": "814206_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui lancerait une collecte de fonds en ligne pour son loyer ? ",
+      "t": "A",
+      "v": "817680_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Si vous deviez réunir 50 000 $ rapidement, comment réuniriez-vous l’argent ? ",
+      "t": "A",
+      "v": "814199_1",
+      "n": "Prompt"
+    }
+  ]
+}

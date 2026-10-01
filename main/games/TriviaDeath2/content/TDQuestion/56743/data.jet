@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Pour quelle équipe Michael Jordan a-t-il joué dans le film <i>Space Jam</i> de 1996 ? ",
+      "t": "A",
+      "v": "813401_1",
+      "n": "Q"
+    },
+    {
+      "s": "Time for a question about classic cinema...",
+      "t": "A",
+      "v": "813408_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[Looney Jammers] [Les Martiens de Marvin] [Warner Ballers] [Tune Squad] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

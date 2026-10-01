@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Et par association, les fesses d’Al Pacino doublent. ",
+      "t": "A",
+      "v": "811505_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Chat malodorant... Chat malodorant. ",
+      "t": "A",
+      "v": "811504_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui fait le plus d’efforts pour être drôle ? ",
+      "t": "A",
+      "v": "811528_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel joueur a le plus d'intelligence dans la rue ? ",
+      "t": "A",
+      "v": "811526_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus grand nerd ? ",
+      "t": "A",
+      "v": "811532_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est votre dinosaure préféré et pourquoi ? ",
+      "t": "A",
+      "v": "811529_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Pourriez-vous encore ÊTRE un Chandler ? ",
+      "t": "A",
+      "v": "811503_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Comme Jennifer Aniston : Que diriez-vous à Angelina Jolie ? ",
+      "t": "A",
+      "v": "811536_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Comme Jennifer Aniston : Que diriez-vous à Angelina Jolie ? ",
+      "t": "A",
+      "v": "811502_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Montrez à la salle comment vous danseriez si vous étiez dans un clip de Bruce Springsteen. ",
+      "t": "A",
+      "v": "811534_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Juste ce qu'il faut de tendu. ",
+      "t": "A",
+      "v": "811501_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Préparez-vous à ce que tout le monde se fasse couper les cheveux. ",
+      "t": "A",
+      "v": "811500_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui fuirait son propre mariage ? ",
+      "t": "A",
+      "v": "820187_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Dites « Comment ça va ? » ",
+      "t": "A",
+      "v": "811524_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel ami de <i>Amis</i> êtes-vous ? ",
+      "t": "A",
+      "v": "811493_1",
+      "n": "Prompt"
+    }
+  ]
+}

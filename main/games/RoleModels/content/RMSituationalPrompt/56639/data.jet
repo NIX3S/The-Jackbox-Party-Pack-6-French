@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Oh hé. ",
+      "t": "A",
+      "v": "810943_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Klaxon klaxon. ",
+      "t": "A",
+      "v": "810942_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Dites-moi punk, avant de vous lancer dans les urinoirs. Quelle est la chose la plus impressionnante que vous ayez incendiée ? ",
+      "t": "A",
+      "v": "810946_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Faites un bruit de pet compliqué et nuancé. ",
+      "t": "A",
+      "v": "810945_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "En 3 mots ou moins, décrivez le pire bruit de pet. ",
+      "t": "A",
+      "v": "821933_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui serait accusé de crimes de nerd ? ",
+      "t": "A",
+      "v": "821932_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Siffler. ",
+      "t": "A",
+      "v": "810941_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est la dernière personne à quitter une fête ? ",
+      "t": "A",
+      "v": "821935_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Tout comme. ",
+      "t": "A",
+      "v": "810940_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui a conduit le plus gros véhicule ? ",
+      "t": "A",
+      "v": "821934_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Les gerbilles iront bien, non ? ",
+      "t": "A",
+      "v": "810939_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Ça brûle. ",
+      "t": "A",
+      "v": "810938_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Faites votre meilleure imitation de Matthew McConaughey. ",
+      "t": "A",
+      "v": "821936_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui était le plus « amateur de chevaux » lorsqu’il était enfant ? ",
+      "t": "A",
+      "v": "810944_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Pourquoi chacun de vous est-il en détention après l'école ? ",
+      "t": "A",
+      "v": "810931_2",
+      "n": "Prompt"
+    }
+  ]
+}

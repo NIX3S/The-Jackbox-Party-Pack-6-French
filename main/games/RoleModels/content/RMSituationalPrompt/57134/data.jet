@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous êtes positivement radieux ! ",
+      "t": "A",
+      "v": "821611_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Pour un cerveau flottant, vous êtes très attirant. ",
+      "t": "A",
+      "v": "821610_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui s'intégrerait le mieux à une convention steampunk ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui aurait l'air mieux recouvert de paillettes ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "En gros, vous n’êtes qu’un robot. Quelle est votre fonction première ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Vous êtes le personnage principal d’une nouvelle émission télévisée d’animation futuriste. Comment ça s’appelle ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tout le monde ne peut pas porter ce look, mais vous le pouvez. ",
+      "t": "A",
+      "v": "821609_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "QUELQU'UN a besoin d'une douche. ",
+      "t": "A",
+      "v": "821608_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Maintenant que vous avez atteint l’illumination, résumez le sens de la vie en un mot. ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "De jolis mouvements là-bas, Flashdance. ",
+      "t": "A",
+      "v": "821607_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Vous êtes l'Un. ",
+      "t": "A",
+      "v": "821606_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Montrez votre meilleure pose de puissance adaptée à l'unité. ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Quel surnom de hacker post-apocalyptique super cool utiliserez-vous à l'avenir ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle tenue du futur de science-fiction es-tu ? ",
+      "t": "A",
+      "v": "821599_1",
+      "n": "Prompt"
+    }
+  ]
+}

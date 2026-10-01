@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasQ"
+    },
+    {
+      "s": "Lignes du discours de Liam Neeson dans <i>Taken</i> ",
+      "t": "A",
+      "v": "787181_1",
+      "n": "Q"
+    }
+  ]
+}

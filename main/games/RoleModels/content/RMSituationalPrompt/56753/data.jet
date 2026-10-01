@@ -1,0 +1,154 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Amour libre ! ",
+      "t": "A",
+      "v": "813672_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Montrez la position défensive que vous adopteriez. ",
+      "t": "A",
+      "v": "813681_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la thèse de votre discours anti-mariage ? ",
+      "t": "A",
+      "v": "813684_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "À qui auriez-vous du mal à parler s’ils plaisantaient ? ",
+      "t": "A",
+      "v": "813683_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Ceux qui aiment l’attention, prêtent attention. ",
+      "t": "A",
+      "v": "813671_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel est le nom du cousin maladroit avec qui vous envisagez de forcer votre victime à danser plus tard ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Peut-être que pour plaisanter, tu devrais aussi proposer... mdr ",
+      "t": "A",
+      "v": "813670_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Plus tard dans la soirée, on vous demande où vous êtes allé. Que dites-vous? ",
+      "t": "A",
+      "v": "813685_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ouais, entre là-dedans ! ",
+      "t": "A",
+      "v": "813669_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Engagé envers votre peur de l’engagement. ",
+      "t": "A",
+      "v": "813668_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle est la chose la plus étrange dont vous ayez eu peur ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Que feriez-vous pendant le lancer du bouquet lors d’un mariage ?",
+      "t": "A",
+      "v": "813661_1",
+      "n": "Prompt"
+    }
+  ]
+}

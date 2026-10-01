@@ -1,0 +1,150 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Qui a dit que l'amour était mort ?! ",
+      "t": "A",
+      "v": "802544_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui était le plus populaire au lycée ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui est le plus susceptible de planifier sa vengeance à la seconde où on lui fait du tort ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui reçoit le plus d’appels téléphoniques chaque semaine ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Qui vas-tu appeler !?... Ce sujet de test ! ",
+      "t": "A",
+      "v": "802542_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Vous avez la popularité à froid ! ",
+      "t": "A",
+      "v": "802541_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus susceptible de combattre des zombies dans le cadre d’une soirée romantique ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Soyez fier. Soyez très fier. ",
+      "t": "A",
+      "v": "802540_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Soyez fier. Soyez très fier. ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "C'est super !.... mec ",
+      "t": "A",
+      "v": "802539_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "En cas d’urgence, qui pourrait probablement faire atterrir un avion ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel slogan de film correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "802532_1",
+      "n": "Prompt"
+    }
+  ]
+}

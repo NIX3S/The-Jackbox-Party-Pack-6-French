@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Hé, ça fait plaisir de te revoir ! ",
+      "t": "A",
+      "v": "804160_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je l'ai déjà fait. ",
+      "t": "A",
+      "v": "804159_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Comment s'appelle ton copain singe ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Vous êtes au bar, qui est le plus susceptible de recevoir plus d'un numéro de téléphone ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui peut sauter le plus haut (Imaginez un requin pour vous inspirer) ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Le singe vous considère-t-il comme un ami ? ",
+      "t": "A",
+      "v": "804158_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui est le plus susceptible de tomber dans le piège d’un système pyramidal ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Je déteste quand ça arrive. ",
+      "t": "A",
+      "v": "804157_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui oublie toujours ses clés ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Hé, si tu peux le balancer... ",
+      "t": "A",
+      "v": "804156_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Est-ce que ça compte ? ",
+      "t": "A",
+      "v": "804155_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui s’embarrasserait pour attirer l’attention ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Que s'est-il passé lors de l'épisode controversé qui a entraîné votre annulation ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle intrigue de sitcom loufoque convient le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "804148_1",
+      "n": "Prompt"
+    }
+  ]
+}

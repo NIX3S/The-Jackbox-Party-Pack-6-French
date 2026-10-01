@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes autorisé à porter littéralement tout ce que vous voulez au travail. Que mets-tu ? ",
+      "t": "A",
+      "v": "829400_1",
+      "n": "Prompt"
+    }
+  ]
+}

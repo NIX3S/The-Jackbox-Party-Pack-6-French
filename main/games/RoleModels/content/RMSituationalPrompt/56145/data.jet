@@ -1,0 +1,179 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Boom! ",
+      "t": "A",
+      "v": "802654_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Je vois comment vous vous êtes retrouvé dans cette position. ",
+      "t": "A",
+      "v": "802653_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Nommez le chien. ",
+      "t": "A",
+      "v": "802657_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Avec quoi jonglez-vous quand vous ne jonglez pas avec des couteaux ? ",
+      "t": "A",
+      "v": "802656_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Vous avez une main sur le trapèze, mais qu’y a-t-il dans votre autre main ? ",
+      "t": "A",
+      "v": "821177_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui exige le plus d’attention lorsqu’il entre dans une pièce ? ",
+      "t": "A",
+      "v": "821176_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Aie. Aie. Aie. ",
+      "t": "A",
+      "v": "802652_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Levez-vous et faites quelque chose pour enthousiasmer tout le monde. ",
+      "t": "A",
+      "v": "821179_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Ai-je mentionné que le chien monte également un chien ? ",
+      "t": "A",
+      "v": "802651_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui laisse le plus gros désordre partout où il va ? ",
+      "t": "A",
+      "v": "821178_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Vous l’avez obtenu avec la plus grande facilité. ",
+      "t": "A",
+      "v": "802650_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Oh, tu as le chapeau chic. ",
+      "t": "A",
+      "v": "802649_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui vous fait rire pour toutes les mauvaises raisons ? ",
+      "t": "A",
+      "v": "821180_1",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui est le meilleur pour se sortir d’une situation difficile ? ",
+      "t": "A",
+      "v": "802655_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel numéro de cirque êtes-vous chacun ? ",
+      "t": "A",
+      "v": "802642_1",
+      "n": "Prompt"
+    }
+  ]
+}

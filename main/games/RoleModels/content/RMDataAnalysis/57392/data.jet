@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Comment les magazines de mode décriraient-ils votre tenue actuelle ? ",
+      "t": "A",
+      "v": "829738_1",
+      "n": "Prompt"
+    }
+  ]
+}

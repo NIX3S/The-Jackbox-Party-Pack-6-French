@@ -1,0 +1,151 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Ah bonjour. ",
+      "t": "A",
+      "v": "802568_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Il pleut... toi, alléluia. ",
+      "t": "A",
+      "v": "802567_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "C'est une journée nuageuse en octobre. Les feuilles tombent. Qu'est-ce que tu écoutes ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "À qui appartient probablement le pull le plus douillet ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui serait excité par l’idée d’une grande famille ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui pense probablement que transpirer est une bonne chose ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C'est froid. ",
+      "t": "A",
+      "v": "802566_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Rien de plus pratique qu’un pull léger. ",
+      "t": "A",
+      "v": "802565_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Pourquoi sommes-nous mieux lotis aujourd’hui qu’il y a 10 ans ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Des trucs chauds arrivent. ",
+      "t": "A",
+      "v": "802564_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Regardez-vous, vous en êtes fier ! ",
+      "t": "A",
+      "v": "802563_2",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Montre-nous les travaux d'eau. Faites de votre mieux en pleurant pour gagner un Oscar. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle saison représente chacun d’entre vous ? ",
+      "t": "A",
+      "v": "802556_1",
+      "n": "Prompt"
+    }
+  ]
+}

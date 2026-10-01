@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "À quoi sert l’outil éponge Photoshop ?",
+      "t": "A",
+      "v": "792100_2",
+      "n": "Q"
+    },
+    {
+      "s": "So I’m trying to put my face onto a picture of a shirtless Hugh Jackman and I’m wondering...",
+      "t": "A",
+      "v": "792107_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[efface les pixels] [arrondit les bords] [ajoute/supprime de la couleur] [rend l'image scintillante] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

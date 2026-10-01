@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Quel est le problème avec les <i>Property Brothers</i> ? ",
+      "t": "A",
+      "v": "800332_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to the killer’s profile, they never watch HGTV, so they would never know the answer to this question. Do you?",
+      "t": "A",
+      "v": "800339_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[ils ne sont pas réellement frères] [ils sont nés à 10 mois d'intervalle] [ils sont de faux jumeaux] [ils sont de vrais jumeaux] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une des couleurs des anneaux olympiques ",
+      "n": "PromptText"
+    },
+    {
+      "s": "une des couleurs des anneaux olympiques ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

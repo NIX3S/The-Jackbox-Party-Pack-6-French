@@ -1,0 +1,165 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ils sont plus jeunes que vous et ils le savent ! ",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Pourquoi ne pouvons-nous pas les voir !?! ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous le deviez absolument, sur quel sujet pourriez-vous faire un discours de 5 minutes ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel est le pire endroit pour trouver un serpent ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Que cachent les clowns dans leurs chaussures surdimensionnées ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Which of our appliances will turn on humanity first in the future?",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Qui choisit ça comme métier ?!? ",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quelle est votre méthode pour repousser les ados méchants ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Quand est-ce que ça arrive !?! ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quelle est la chose la plus propre actuellement dans cette pièce ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Les gens vous regardent ET vous entendent !?! ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Faites l'impression d'un clown découvrant qu'il doit être le premier à entrer et le dernier à sortir d'une voiture de clown « 20 clowns ». ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Où sont leurs jambes !?! ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui a encore la peluche de son enfance ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Laquelle de ces peurs est secrètement la plus profonde ",
+      "t": "A",
+      "v": "827779_1",
+      "n": "Prompt"
+    }
+  ]
+}

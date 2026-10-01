@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Ajouter du fromage serait tout simplement trop fou ",
+      "t": "A",
+      "v": "809606_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Tu es mon compagnon de fête ",
+      "t": "A",
+      "v": "809605_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel son faites-vous après avoir mangé quelque chose d'épicé ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "À part les « crevettes géantes », quel est votre oxymore préféré ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est votre trempette préférée ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui a gardé le plus longtemps son doudou d’enfance ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Je suis jaloux de combien tu es confortable ",
+      "t": "A",
+      "v": "809604_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Vos Scoville sont hors du commun ! ",
+      "t": "A",
+      "v": "809603_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Si vous étiez malade, qui voudriez-vous qu’il s’occupe de vous ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Classe, très classe ",
+      "t": "A",
+      "v": "809602_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Inventez le nom d'une nouvelle sauce piquante que vous devriez probablement éviter. ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Qui semble épicé mais est en fait plutôt sucré ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel apéritif êtes-vous ? ",
+      "t": "A",
+      "v": "809594_1",
+      "n": "Prompt"
+    }
+  ]
+}

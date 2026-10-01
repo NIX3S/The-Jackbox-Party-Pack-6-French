@@ -1,0 +1,167 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Cool cool. Pareil pareil. ",
+      "t": "A",
+      "v": "818425_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'est un costume d'Halloween qui tue. ",
+      "t": "A",
+      "v": "818424_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Combien d'argent vous faudrait-il pour envoyer un innocent en prison ? ",
+      "t": "A",
+      "v": "823675_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Démontrez le regard mortel et souriant de l'enfant effrayant de <i>The Omen</i>. ",
+      "t": "A",
+      "v": "818427_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Qui auriez-vous le plus peur de voir apparaître à votre porte dans un costume de clown complet ? ",
+      "t": "A",
+      "v": "823677_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Si vous étiez auto-stoppeur, que dirait votre pancarte ? ",
+      "t": "A",
+      "v": "823676_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "C'est pourquoi je déteste le cirque. ",
+      "t": "A",
+      "v": "818423_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Montrez comment vous feriez du stop sur le bord d’une autoroute vide par une nuit sombre et orageuse. ",
+      "t": "A",
+      "v": "823691_1",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Cours vers maman. ",
+      "t": "A",
+      "v": "818422_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Répondez comme une bête à la peau rouge et aux cornes : à quoi ressemble la maison de vos rêves ? ",
+      "t": "A",
+      "v": "823687_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Espèce de diable sexy. ",
+      "t": "A",
+      "v": "818421_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "\"La liberté, bébé, c'est de ne jamais avoir à dire que tu es désolé.\" ",
+      "t": "A",
+      "v": "818420_2",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quelle est la phrase que vous utilisez lorsque vous prenez un étranger solitaire pour lui voler son âme ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel type de diable de cinéma êtes-vous ? ",
+      "t": "A",
+      "v": "818413_1",
+      "n": "Prompt"
+    }
+  ]
+}

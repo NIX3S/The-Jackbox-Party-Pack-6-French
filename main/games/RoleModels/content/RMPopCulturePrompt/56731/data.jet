@@ -1,0 +1,111 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "s": "Je pensais que les podcasts étaient destinés aux gens qui n’ont pas de travail ?",
+      "t": "A",
+      "v": "813219_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Mmm, des repas gastronomiques dans une boîte en carton",
+      "t": "A",
+      "v": "813218_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Quel est le site Web le plus cool qui n’existe pas encore ?",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Prédire la date et l'année d'envoi de la dernière lettre physique ?",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Answer as a mattress: What is the most outrageous reason someone returned you during the 90 day return period?",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quel sponsor de podcast êtes-vous ? ",
+      "t": "A",
+      "v": "813207_1",
+      "n": "Prompt"
+    },
+    {
+      "s": "Les oreilles sont les nouveaux yeux ",
+      "t": "A",
+      "v": "813217_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Enfin! L'avenir des timbres ! ",
+      "t": "A",
+      "v": "813216_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Le seul matelas nommé d'après un fantôme de dessin animé ",
+      "t": "A",
+      "v": "813215_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Piratage du mainframe... MAINTENANT ",
+      "t": "A",
+      "v": "813214_1",
+      "n": "RevealJoke0"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Quelle activité quotidienne serait la plus améliorée si un instructeur en colère et en sueur vous criait dessus ? ",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Ce rôle comprend 3 mois gratuits et une bouteille d'eau ",
+      "t": "A",
+      "v": "809899_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Idem ",
+      "t": "A",
+      "v": "809898_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous dirigiez un cours de spinning, comment l’appelleriez-vous ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Combien de chiots pensez-vous pouvoir mettre en banc ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la pire chose que vous puissiez faire sur un tapis roulant ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Vous êtes seul avec quelqu'un dans le hammam... quel est votre brise-glace ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Les serviettes ne sont pas facultatives ",
+      "t": "A",
+      "v": "809897_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui serait le plus dérouté par un bowflex ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "J'espère que vous êtes prêt à transpirer ! ",
+      "t": "A",
+      "v": "809896_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui paierait des frais mensuels pour ne pas avoir de confrontation avec quelqu’un ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "En forme et responsable ",
+      "t": "A",
+      "v": "809895_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Écrivez une phrase de trois mots qui entraînerait l’annulation immédiate de votre abonnement au gymnase. ",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Bon! ",
+      "t": "A",
+      "v": "809894_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Montre-nous que tu vas t'étirer ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Que fais-tu à la salle de sport ? ",
+      "t": "A",
+      "v": "809887_1",
+      "n": "Prompt"
+    }
+  ]
+}

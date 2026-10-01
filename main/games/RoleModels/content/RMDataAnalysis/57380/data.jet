@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "La fête commence à se calmer. Comment lui redonner vie ? ",
+      "t": "A",
+      "v": "829426_1",
+      "n": "Prompt"
+    }
+  ]
+}

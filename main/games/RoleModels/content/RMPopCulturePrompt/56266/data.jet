@@ -1,0 +1,161 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Ouais. ",
+      "t": "A",
+      "v": "804690_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Vous nous y avez emmenés. ",
+      "t": "A",
+      "v": "804689_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Madonna a joué Breathless. Retenez votre souffle le plus longtemps possible. ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle est la dernière chose sur laquelle vous avez fait des folies ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui est le plus susceptible d’être associé à des criminels ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Vivre dans un monde matériel. ",
+      "t": "A",
+      "v": "804688_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Qui prononce les discours les plus grandioses ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "Discours! Discours! Discours! ",
+      "t": "A",
+      "v": "804687_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui utilise mal les métaphores ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Qui utilise mal les métaphores ? ",
+      "t": "A",
+      "v": "804686_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Il n’y a pas de pleurs dans Role Models. ",
+      "t": "A",
+      "v": "804685_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel était ton dernier rêve ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Qui pourriez-vous imaginer adopter le surnom de « All the Way Mae » ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quelle Madone es-tu ? ",
+      "t": "A",
+      "v": "804678_1",
+      "n": "Prompt"
+    }
+  ]
+}

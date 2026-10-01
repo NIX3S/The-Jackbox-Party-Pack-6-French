@@ -1,0 +1,397 @@
+{
+  "episodeid": 1393,
+  "content": [
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 57031,
+      "text": "[EventName=HOST/AltHost]Il est indiqué : « Coupez le fil tertiaire ». ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "blanc ",
+          "text": ""
+        },
+        {
+          "controllerClass": "rouge ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 57030,
+      "text": "[EventName=HOST/AltHost]Il est indiqué : \"Coupez le fil préantépénultième.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "rouge ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "noir ",
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56021,
+      "text": "[EventName=HOST/AltHost]Il est écrit : \"Coupez le fil qui se trouve au même endroit dans l'ordre de <i>La Chambre des Secrets</i> dans la série Harry Potter.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "rouge ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "noir ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55990,
+      "text": "[EventName=HOST/AltHost]Il est écrit : \"Coupez le fil de la même couleur que le nom de Morgan Freeman dans <i>Shawshank Redemption</i>.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "rouge ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "jaune ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55972,
+      "text": "[EventName=HOST/AltHost]Il est indiqué : \"Coupez le fil de la même couleur que Park Place sur une carte Monopoly standard.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "jaune ",
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "rouge ",
+          "text": ""
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55910,
+      "text": "[EventName=HOST/AltHost]Il est simplement indiqué : \"Coupez le fil de la même couleur que le chapeau de l'homme qui s'occupe de Curious George.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "rouge ",
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "jaune ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55908,
+      "text": "[EventName=HOST/AltHost]Il est écrit : \"Coupez le fil que Pablo Picasso aurait coupé entre 1901 et 1904.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "rouge ",
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "jaune ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "correct": true,
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55905,
+      "text": "[EventName=HOST/AltHost]Il est écrit : \"Coupez le fil de la même couleur que la pierre du temps dans <i>Avengers : Infinity War</i>.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "rouge ",
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "jaune ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55877,
+      "text": "[EventName=HOST/AltHost]Il est dit de couper le fil « sable ». ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "noir ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "rouge ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55875,
+      "text": "[EventName=HOST/AltHost]Il est écrit : \"Coupez le fil qui correspond à la couleur que portent traditionnellement les mariées en Chine.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "jaune ",
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        },
+        {
+          "controllerClass": "rouge ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "blanc ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55827,
+      "text": "[EventName=HOST/AltHost]Il est indiqué : \"Coupez le fil qui a approximativement la même couleur que\" glycine fumée \"dans le catalogue J.Crew.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "jaune ",
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "text": ""
+        },
+        {
+          "controllerClass": "blanc ",
+          "text": ""
+        },
+        {
+          "controllerClass": "violet ",
+          "correct": true,
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55745,
+      "text": "[EventName=HOST/AltHost]Il est écrit « couper le fil vert ». ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "rouge ",
+          "text": ""
+        },
+        {
+          "controllerClass": "orange ",
+          "text": ""
+        },
+        {
+          "controllerClass": "vert ",
+          "correct": true,
+          "text": ""
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": ""
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55457,
+      "text": "[EventName=HOST/AltHost]Il est indiqué : \"Coupez le fil qui est une couleur primaire de la lumière mais pas un pigment.\" ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "jaune ",
+          "text": "jaune "
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": "bleu "
+        },
+        {
+          "controllerClass": "rouge ",
+          "text": "rouge "
+        },
+        {
+          "controllerClass": "vert ",
+          "correct": true,
+          "text": "vert "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55351,
+      "text": "[EventName=HOST/AltHost]Les instructions indiquent : « Coupez le fil VERDANT ! » ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "jaune ",
+          "text": "coupez le fil JAUNE "
+        },
+        {
+          "controllerClass": "bleu ",
+          "text": "coupez le fil BLEU "
+        },
+        {
+          "controllerClass": "vert ",
+          "correct": true,
+          "text": "coupez le fil VERT "
+        },
+        {
+          "controllerClass": "blanc",
+          "text": "coupez le fil BLANC"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    }
+  ]
+}

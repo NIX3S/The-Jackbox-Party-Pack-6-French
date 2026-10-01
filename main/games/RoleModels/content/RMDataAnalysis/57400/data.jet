@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous participez à une convention commerciale et pouvez écrire tout ce que vous voulez sur votre badge. Qu'écris-tu ? ",
+      "t": "A",
+      "v": "829946_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "un État américain qui commence par « M » ",
+      "n": "PromptText"
+    },
+    {
+      "s": "un État américain qui commence par « M » ",
+      "t": "A",
+      "n": "PromptAudio"
+    }
+  ]
+}

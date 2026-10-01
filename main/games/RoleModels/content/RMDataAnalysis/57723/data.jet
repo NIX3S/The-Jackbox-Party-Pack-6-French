@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quand Beyoncé vous demande pourquoi vous passez un entretien pour devenir sa prochaine assistante exécutive, que répondez-vous ? ",
+      "t": "A",
+      "v": "835661_1",
+      "n": "Prompt"
+    }
+  ]
+}

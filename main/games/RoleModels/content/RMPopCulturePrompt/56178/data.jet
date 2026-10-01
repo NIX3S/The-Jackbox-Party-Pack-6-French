@@ -1,0 +1,156 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt9"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "s": "Who would shoot first?",
+      "t": "A",
+      "n": "RevealPrompt9"
+    },
+    {
+      "s": "Traître!!! ",
+      "t": "A",
+      "v": "803118_2",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Maintenant, c’est un rôle que je n’ai pas entendu depuis très, très longtemps… ",
+      "t": "A",
+      "v": "803117_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Oubliez « Scruffy Nerf Herder »… quelle est votre meilleure insulte de science-fiction ? ",
+      "t": "A",
+      "v": "818028_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Quel joueur serait le plus beau avec une cape ? ",
+      "t": "A",
+      "v": "805009_2",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Pourquoi utiliseriez-vous vos pouvoirs d’astuce mentale Jedi ? ",
+      "t": "A",
+      "v": "818030_1",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Qui survivrait seul le plus longtemps dans le désert ? ",
+      "t": "A",
+      "v": "818029_1",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Tu es trop cool pour l'espace ",
+      "t": "A",
+      "v": "803116_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Tu as commencé par le bas et maintenant tu es là ",
+      "t": "A",
+      "v": "803115_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel serait votre travail sur l'Étoile de la Mort ? ",
+      "t": "A",
+      "v": "818031_1",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Quel serait votre travail sur l'Étoile de la Mort ? ",
+      "t": "A",
+      "v": "803114_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Vous voudrez peut-être travailler sur vos compétences parentales ",
+      "t": "A",
+      "v": "803113_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Quel personnage <i>Star Wars</i> correspond le mieux à chacun d'entre vous ? ",
+      "t": "A",
+      "v": "803106_1",
+      "n": "Prompt"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Hmmm... Qu'est-ce que je goûte dans ce snickerdoodle ? ",
+      "t": "A",
+      "v": "772780_1",
+      "n": "Q"
+    },
+    {
+      "s": "Ugh, torture really works up my appetite.  It’s cookie time. I’ve earned it.",
+      "t": "A",
+      "v": "772787_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[sucre à la cannelle] [cacahuètes] [chocolat] [caramel au beurre] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

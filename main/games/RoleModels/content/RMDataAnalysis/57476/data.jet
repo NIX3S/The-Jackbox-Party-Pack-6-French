@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Le restaurant a trop cuit votre repas. Le serveur demande comment tout va. Que dites-vous? ",
+      "t": "A",
+      "v": "831532_1",
+      "n": "Prompt"
+    }
+  ]
+}

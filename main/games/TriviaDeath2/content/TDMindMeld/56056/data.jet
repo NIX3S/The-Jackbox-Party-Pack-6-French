@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "une des tragédies de Shakespeare ",
+      "n": "PromptText"
+    },
+    {
+      "s": "une des tragédies de Shakespeare ",
+      "t": "A",
+      "v": "800861_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

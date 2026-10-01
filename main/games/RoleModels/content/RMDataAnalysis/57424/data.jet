@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Vous êtes un espion. Un agent de comptoir attractif détient le dossier secret. Comment l'obtenez-vous d'eux ? ",
+      "t": "A",
+      "v": "830658_1",
+      "n": "Prompt"
+    }
+  ]
+}

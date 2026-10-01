@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Si vous aviez un super pouvoir basé sur l’un de vos talents, quel serait votre nom de super-héros ? ",
+      "t": "A",
+      "v": "829686_1",
+      "n": "Prompt"
+    }
+  ]
+}

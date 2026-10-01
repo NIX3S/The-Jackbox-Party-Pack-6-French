@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Que fabrique le pancréas ?",
+      "t": "A",
+      "v": "778679_2",
+      "n": "Q"
+    },
+    {
+      "s": "Ugh. It’s so hard to decide what stuff to keep and what stuff to throw out.",
+      "t": "A",
+      "v": "778686_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[insuline] [mucus] [adrénaline] [plaquettes blanches] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

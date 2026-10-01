@@ -1,0 +1,160 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt7"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt8"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Vous servez... un but ? ",
+      "t": "A",
+      "v": "808422_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "C'est intense. ",
+      "t": "A",
+      "v": "808421_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qu’est-ce qui n’est pas comestible et qui, selon vous, a l’air délicieux ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Lequel de ces sujets serait Posh Spice ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Combien de temps faut-il généralement pour qu'une personne meure après avoir regardé le tableau du clown dans les yeux ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Je n'ai pas peur. ",
+      "t": "A",
+      "v": "808420_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "Quel est le titre du livre de table basse sur votre cadre en métal ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Quel est le meilleur tapis pour une romance au coin du feu ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Ooo la la. ",
+      "t": "A",
+      "v": "808418_2",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt8"
+    },
+    {
+      "s": "Tellement utile ! ",
+      "t": "A",
+      "v": "808417_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Au lieu d’une pierre, d’où as-tu retiré ton épée ? ",
+      "t": "A",
+      "n": "RevealPrompt7"
+    },
+    {
+      "s": "Veuillez décrire ce que font les clowns dans votre tableau. ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel objet de décoration d’intérieur correspond le mieux à chacun d’entre vous ? ",
+      "t": "A",
+      "v": "808410_1",
+      "n": "Prompt"
+    }
+  ]
+}

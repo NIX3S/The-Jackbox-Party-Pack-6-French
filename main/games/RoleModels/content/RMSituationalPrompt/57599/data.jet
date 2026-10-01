@@ -1,0 +1,145 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Qu'est-ce que tu fais dans la vie, encore ? \nOR\nPas suspect du tout ! ",
+      "t": "A",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "je t'aime grand-mère ",
+      "t": "A",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Si vous leur jetiez un téléphone MAINTENANT… qui le laisserait tomber ? ",
+      "t": "A",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui serait trop timide pour appeler le chauffeur Uber et lui demander s’il a vu le téléphone ? ",
+      "t": "A",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle technologie moderne est totalement inutile ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "Quel est le pire moment pour que la batterie de votre téléphone meure ? ",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Salut! Ravi de vous voir! As-tu un chargeur ? ",
+      "t": "A",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "quelle métaphore ",
+      "t": "A",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Qui est le plus susceptible d'avoir un téléphone graveur... pour des raisons ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Une erreur sobre très courante ",
+      "t": "A",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "techniquement correct\nOU\nréponse très littérale ",
+      "t": "A",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Pourquoi es-tu toujours sur ton téléphone ? ",
+      "t": "A",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Hé, où est ton téléphone ? ",
+      "t": "A",
+      "v": "833311_1",
+      "n": "Prompt"
+    }
+  ]
+}

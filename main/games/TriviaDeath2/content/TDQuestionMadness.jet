@@ -1,0 +1,425 @@
+{
+  "episodeid": 1395,
+  "content": [
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56007,
+      "text": "[EventName=HOST/AltHost]Lequel de ces personnages est un robot ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Luc Skywalker "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "C-3PO "
+        },
+        {
+          "controllerClass": "",
+          "text": "Han Solo "
+        },
+        {
+          "controllerClass": "",
+          "text": "Princesse Leia "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 56006,
+      "text": "[EventName=HOST/AltHost]Laquelle de ces étoiles est une étoile naine ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "la Lune "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "le Soleil "
+        },
+        {
+          "controllerClass": "",
+          "text": "la Terre "
+        },
+        {
+          "controllerClass": "",
+          "text": "Pluton "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55998,
+      "text": "[EventName=HOST/AltHost]Qui a remporté le Kentucky Derby en 2007 ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "un chien "
+        },
+        {
+          "controllerClass": "",
+          "text": "un chat "
+        },
+        {
+          "controllerClass": "",
+          "text": "un serpent "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "un cheval "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55993,
+      "text": "[EventName=HOST/AltHost]Lequel de ces animaux a le cou le plus long ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "tigre "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "girafe "
+        },
+        {
+          "controllerClass": "",
+          "text": "pingouin "
+        },
+        {
+          "controllerClass": "",
+          "text": "tortue-boîte "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55961,
+      "text": "[EventName=HOST/AltHost]Quel genre d'animaux vedettes dans <i>Libérez Willy</i> ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "morse tueur "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "épaulard "
+        },
+        {
+          "controllerClass": "",
+          "text": "chien tueur "
+        },
+        {
+          "controllerClass": "",
+          "text": "abeille tueuse "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55824,
+      "text": "[EventName=HOST/AltHost]Lequel de ces animaux mange d'autres animaux ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "lion "
+        },
+        {
+          "controllerClass": "",
+          "text": "cerf "
+        },
+        {
+          "controllerClass": "",
+          "text": "girafe "
+        },
+        {
+          "controllerClass": "",
+          "text": "mouton "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55823,
+      "text": "[EventName=HOST/AltHost]Quel corps céleste tourne autour de la Terre ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Lune "
+        },
+        {
+          "controllerClass": "",
+          "text": "Mars "
+        },
+        {
+          "controllerClass": "",
+          "text": "Soleil "
+        },
+        {
+          "controllerClass": "",
+          "text": "Voie Lactée "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55822,
+      "text": "[EventName=HOST/AltHost]Quelle est la racine carrée de 1 ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "4 "
+        },
+        {
+          "controllerClass": "",
+          "text": "3 "
+        },
+        {
+          "controllerClass": "",
+          "text": "2 "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "1 "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55743,
+      "text": "[EventName=HOST/AltHost]Avec qui le plat s'est-il enfui dans la comptine « Hey, Diddle Diddle » ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "la fourchette "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "la cuillère "
+        },
+        {
+          "controllerClass": "",
+          "text": "le couteau "
+        },
+        {
+          "controllerClass": "",
+          "text": "le bol "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55729,
+      "text": "[EventName=HOST/AltHost]À quelle date se déroule Halloween ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "4 juillet "
+        },
+        {
+          "controllerClass": "",
+          "text": "15 mars "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "31 octobre "
+        },
+        {
+          "controllerClass": "",
+          "text": "1er novembre "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55726,
+      "text": "[EventName=HOST/AltHost]Qui a chanté « Single Ladies » ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Piquer "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Beyoncé "
+        },
+        {
+          "controllerClass": "",
+          "text": "prince "
+        },
+        {
+          "controllerClass": "",
+          "text": "Eminem "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55725,
+      "text": "[EventName=HOST/AltHost]À quoi correspond un pied ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "8 pouces "
+        },
+        {
+          "controllerClass": "",
+          "text": "10 pouces "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "12 pouces "
+        },
+        {
+          "controllerClass": "",
+          "text": "24 pouces "
+        }
+      ],
+      "us": true,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55724,
+      "text": "[EventName=HOST/AltHost]Quel pays se trouve en Europe ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Canada "
+        },
+        {
+          "controllerClass": "",
+          "text": "Irak "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "France "
+        },
+        {
+          "controllerClass": "",
+          "text": "Brésil "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55723,
+      "text": "[EventName=HOST/AltHost]Lequel de ces éléments est un métal ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Oxygène "
+        },
+        {
+          "controllerClass": "",
+          "text": "Hydrogène "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Fer "
+        },
+        {
+          "controllerClass": "",
+          "text": "Hélium "
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    },
+    {
+      "hasOutro": false,
+      "x": false,
+      "id": 55722,
+      "text": "[EventName=HOST/AltHost]Qui a joué Indiana Jones ? ",
+      "pic": false,
+      "choices": [
+        {
+          "controllerClass": "",
+          "text": "Arnold Schwarzenegger "
+        },
+        {
+          "controllerClass": "",
+          "text": "Bruce Willis "
+        },
+        {
+          "controllerClass": "",
+          "correct": true,
+          "text": "Harrison Ford "
+        },
+        {
+          "controllerClass": "",
+          "text": "Chevy Chase"
+        }
+      ],
+      "us": false,
+      "hasIntro": false
+    }
+  ]
+}

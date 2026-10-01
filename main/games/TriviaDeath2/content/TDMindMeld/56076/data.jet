@@ -1,0 +1,20 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPromptAudio"
+    },
+    {
+      "t": "S",
+      "v": "l'un des mots qui composent l'acronyme NASA ",
+      "n": "PromptText"
+    },
+    {
+      "s": "l'un des mots qui composent l'acronyme NASA ",
+      "t": "A",
+      "v": "801156_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

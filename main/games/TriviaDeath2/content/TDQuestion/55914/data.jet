@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]Vous pouvez donc effacer votre nom si vous pouvez simplement me dire laquelle de ces chansons est une chanson de Naughty by Nature. ",
+      "t": "A",
+      "v": "798164_1",
+      "n": "Q"
+    },
+    {
+      "s": "[EventName=HOST/AltHost]According to our evidence, we know that the real killer is NOT down with O.P.P...",
+      "t": "A",
+      "v": "798171_1",
+      "n": "Intro"
+    },
+    {
+      "s": "[« Hip Hop Hollywood » ] [« Hip Hop Hourra »] [« Hip Hop Holiday »] [« Hippity Hip Hop »] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}

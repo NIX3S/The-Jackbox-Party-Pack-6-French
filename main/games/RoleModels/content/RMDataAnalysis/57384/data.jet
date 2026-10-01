@@ -1,0 +1,15 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "s": "Quelle est votre idée de vacances parfaites sans stress ? ",
+      "t": "A",
+      "v": "829530_1",
+      "n": "Prompt"
+    }
+  ]
+}

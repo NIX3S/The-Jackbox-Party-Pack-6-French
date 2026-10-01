@@ -1,0 +1,154 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasPrompt"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke4"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke5"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt1"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke3"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealPrompt2"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke0"
+    },
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasRevealJoke1"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt3"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt4"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt5"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasRevealPrompt6"
+    },
+    {
+      "s": "Les chats t'aiment. ",
+      "t": "A",
+      "v": "808325_1",
+      "n": "RevealJoke5"
+    },
+    {
+      "s": "Très présidentiel. ",
+      "t": "A",
+      "v": "808324_1",
+      "n": "RevealJoke4"
+    },
+    {
+      "s": "Qui a une taille de chapeau plus grande ?",
+      "t": "A",
+      "v": "808328_1",
+      "n": "RevealPrompt2"
+    },
+    {
+      "s": "Qui est le plus romantique sans vergogne ? ",
+      "t": "A",
+      "v": "808327_1",
+      "n": "RevealPrompt1"
+    },
+    {
+      "s": "Quelle autre chose que vous pouvez probablement voir depuis l’espace ? ",
+      "t": "A",
+      "n": "RevealPrompt4"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "RevealPrompt3"
+    },
+    {
+      "s": "Au moins, tu as un toit au-dessus de ta tête... en général. ",
+      "t": "A",
+      "v": "808323_1",
+      "n": "RevealJoke3"
+    },
+    {
+      "s": "A quoi te sert toute cette ficelle ? ",
+      "t": "A",
+      "n": "RevealPrompt6"
+    },
+    {
+      "s": "J'adore ta posture. ",
+      "t": "A",
+      "v": "808322_1",
+      "n": "RevealJoke2"
+    },
+    {
+      "s": "Selon vous, quel est le but secret de Stonehenge ? ",
+      "t": "A",
+      "n": "RevealPrompt5"
+    },
+    {
+      "s": "Vous êtes nombreux à circuler. ",
+      "t": "A",
+      "v": "808321_1",
+      "n": "RevealJoke1"
+    },
+    {
+      "s": "Bien joué ! ",
+      "t": "A",
+      "v": "808320_1",
+      "n": "RevealJoke0"
+    },
+    {
+      "s": "Personne ne bouge ! ... maintenant, qui est assis ou debout avec une inclinaison plus importante ? ",
+      "t": "A",
+      "v": "808326_1",
+      "n": "RevealPrompt0"
+    },
+    {
+      "s": "Quel monument célèbre êtes chacun d’entre vous ? ",
+      "t": "A",
+      "v": "808313_1",
+      "n": "Prompt"
+    }
+  ]
+}

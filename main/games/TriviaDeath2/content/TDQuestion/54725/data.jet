@@ -1,0 +1,60 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasIntro"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasPic"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasVamp"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasChoices"
+    },
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasOutro"
+    },
+    {
+      "s": "Lequel de ces morceaux de musique classiques comporte traditionnellement des tirs de canon ? ",
+      "t": "A",
+      "v": "776879_2",
+      "n": "Q"
+    },
+    {
+      "s": "There’s not enough weapons in music if you ask me.",
+      "t": "A",
+      "v": "776886_2",
+      "n": "Intro"
+    },
+    {
+      "s": "[« Ouverture de 1812 »] [« Les Quatre Saisons »] [« Dans la salle du roi de la montagne »] [« Concerto n°1 »] ",
+      "t": "A",
+      "n": "Choices"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Vamp"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "Outro"
+    },
+    {
+      "t": "G",
+      "n": "Pic"
+    }
+  ]
+}
